@@ -29,7 +29,7 @@ ul {
 
 /* Sidebar nav */
 .theme-libuchauer .sidebar {
-  background-color: #224E28;
+  background-color: #224e28;
   padding: 0.25rem 0.5rem;
   color: #dad8c8;
 }
@@ -38,6 +38,12 @@ ul {
     padding: 2rem 1rem;
   }
 }
+
+/* Sidebar links */
+  .theme-libuchauer .sidebar a {
+    color: #b84a3d;
+}
+
 .sidebar-about h1 {
     font-size: 1.5rem;
     font-family: "PT Sans", serif;
