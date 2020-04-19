@@ -24,14 +24,14 @@ ul {
 }
 .theme-libuchauer .content a,
 .theme-libuchauer .related-posts li a:hover {
-  color: #6a9fb5;
+  color: #b84a3d;
 }
 
 /* Sidebar nav */
 .theme-libuchauer .sidebar {
-  background-color: #2d314d;
+  background-color: #224E28;
   padding: 0.25rem 0.5rem;
-  color: #ccddcc;
+  color: #dad8c8;
 }
 @media (min-width: 48em) {
   .theme-libuchauer .sidebar {
