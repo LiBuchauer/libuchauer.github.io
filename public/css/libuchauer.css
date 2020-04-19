@@ -29,7 +29,7 @@ ul {
 
 /* Sidebar nav */
 .theme-libuchauer .sidebar {
-  background-color: #224e28;
+  background-color: #40393a;
   padding: 0.25rem 0.5rem;
   color: #dad8c8;
 }
@@ -41,7 +41,7 @@ ul {
 
 /* Sidebar links */
   .theme-libuchauer .sidebar a {
-    color: #b84a3d;
+    color: #dad8c8;
 }
 
 .sidebar-about h1 {
