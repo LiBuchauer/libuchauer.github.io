@@ -1,0 +1,17 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Lisa Buchauer
+tagline:          'Computational Biology and Mathematical Modeling'
+description:      'Postdoc in Computational Biology at the Weizmann Institute'
+url:              http://libuchauer.github.io/
+baseurl:          /
+
+author:
+  name:           'Lisa Buchauer'
+  url:            https://twitter.com/libuchauer
