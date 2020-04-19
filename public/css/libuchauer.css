@@ -18,23 +18,23 @@ ul {
     list-style-type: square;
 }
 
-.theme-andim .content {
+.theme-libuchauer .content {
   padding-top:    1.5rem;
   padding-bottom: 1.5rem;
 }
-.theme-andim .content a,
-.theme-andim .related-posts li a:hover {
+.theme-libuchauer .content a,
+.theme-libuchauer .related-posts li a:hover {
   color: #6a9fb5;
 }
 
 /* Sidebar nav */
-.theme-andim .sidebar {
+.theme-libuchauer .sidebar {
   background-color: #2d314d;
   padding: 0.25rem 0.5rem;
   color: #ccddcc;
 }
 @media (min-width: 48em) {
-  .theme-andim .sidebar {
+  .theme-libuchauer .sidebar {
     padding: 2rem 1rem;
   }
 }
