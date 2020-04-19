@@ -10,11 +10,11 @@ I am a postdocoral research fellow at the Weizmann Institute of Science working 
 
 You can contact me via [email](mailto:lisa.buchauer@gmail.com) or [twitter](http://twitter.com/libuchauer).
 
-You can find me [here](https://www.openstreetmap.org/way/556799596):
+Physically, you can find me [here](https://www.openstreetmap.org/way/556799596):
 
 	Weizmann Institute of Science  
 	Department of Molecular Cell Biology (Wolfsohn Building)  
-	234 Herzl Street 
+	234 Herzl Street
 	7610001 Rehovot, Israel
 
 ### Selected Publications
