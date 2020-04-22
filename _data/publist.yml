@@ -1,9 +1,9 @@
-- authors: R Murugan\*, L Buchauer\*, \[...\], T Höfer\*\* and H Wardemann \*\*
+- authors: R. Murugan\*, L. Buchauer\*, G. Triller, C. Kreschel, G. Costa, G. Pidelaserra Martí, K. Imkeller, C. E. Busse, S. Chakravarty, B. K. L. Sim, S. L. Hoffman, E. A. Levashina, P. G. Kremsner, B. Mordmüller, T Höfer\*\* and H Wardemann\*\*
   title: Clonal selection drives protective memory B cell responses in controlled human malaria infection
   journal: Science Immunology
   year: 2018
-  detail: 116 (13) 5914-5919
+  detail: Vol. 3, Issue 20, eaap8029
   links:
       doi: https://doi.org/10.1126/sciimmunol.aap8029
       github: https://github.com/LiBuchauer/gc_memo
-  media: "We made a popular-sciecne style video summary which you can view on [youtube](https://www.youtube.com/watch?v=wsWRaIheGFU)"
+  media: "We made a popular science-style video summary which you can view on [youtube](https://www.youtube.com/watch?v=wsWRaIheGFU)"
