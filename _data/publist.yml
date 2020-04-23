@@ -1,4 +1,20 @@
-- authors: R. Murugan\*, L. Buchauer\*, G. Triller, C. Kreschel, G. Costa, G. Pidelaserra Martí, K. Imkeller, C. E. Busse, S. Chakravarty, B. K. L. Sim, S. L. Hoffman, E. A. Levashina, P. G. Kremsner, B. Mordmüller, T Höfer\*\* and H Wardemann\*\*
+- authors: **L. Buchauer** and H. Wardemann
+  title: Review: Calculating germinal centre reactions
+  journal: Current Opinion in Systems Biology
+  year: 2019
+  detail: Vol. 18(1-8)
+  links:
+      doi: https://doi.org/10.1016/j.coisb.2019.10.004
+
+- authors: **L. Buchauer**\*, M. A. Khan\*, Y. Zhuo\*, C. Shao, P. Zou, W. Feng, M. Qian, G. Bekki, C. Bunne, A. Neuerburg, A. A. Acikgöz, M. Tomaschko, Z. Zhu, H. Alter , K. Hartmann, O. Friesen, K. Hexel, T. Höfer\*\* and H.-K. Liu\*\*
+  title: Exponential Growth of Glioblastoma In Vivo Driven by Rapidly Dividing and Outwardly Migrating Cancer Stem Cells.
+  journal: bioRxiv
+  year: 2019
+  detail: 723601
+  links:
+      doi:  https://doi.org/10.1101/723601
+
+- authors: R. Murugan\*, **L. Buchauer**\*, G. Triller, C. Kreschel, G. Costa, G. Pidelaserra Martí, K. Imkeller, C. E. Busse, S. Chakravarty, B. K. L. Sim, S. L. Hoffman, E. A. Levashina, P. G. Kremsner, B. Mordmüller, T. Höfer\*\* and H. Wardemann\*\*
   title: Clonal selection drives protective memory B cell responses in controlled human malaria infection
   journal: Science Immunology
   year: 2018
@@ -6,4 +22,31 @@
   links:
       doi: https://doi.org/10.1126/sciimmunol.aap8029
       github: https://github.com/LiBuchauer/gc_memo
-  media: "We made a popular science-style video summary which you can view on [youtube](https://www.youtube.com/watch?v=wsWRaIheGFU)"
+  media: "We made a popular science-style video summary about this work which you can view on [youtube](https://www.youtube.com/watch?v=wsWRaIheGFU)."
+
+
+- authors: P. Giraldo-Gallo, P. Walmsley, B. Sangiorgio, S. C. Riggs, R. D. McDonald, **L. Buchauer**, B. Fauque, Chang Liu, N. A. Spaldin, A. Kaminski, K. Behnia and I. R. Fisher
+  title: Evidence of incoherent carriers associated with resonant impurity levels and their influence on superconductivity in the anomalous superconductor Pb(1−x)Tl(x)Te
+  journal: Physical Review Letters
+  year: 2018
+  detail: Vol. 121, 207001
+  links:
+      doi: https://doi.org/10.1103/PhysRevLett.121.207001
+
+
+- authors: P. Micke,  S. Kühn, **L. Buchauer**, J. R. Harries, T. M. Bücking, K. Blaum, A. Cieluch, A. Egl, D. Hollain, S. Kraemer, T. Pfeifer, P. O. Schmidt, R. X. Schüssler, Ch. Schweiger, T. Stöhlker, S. Sturm, R. N. Wolf, S. Bernitt and J. R. Crespo López-Urrutia
+  title: The Heidelberg compact electron beam ion traps
+  journal: Review of Scientific Instruments
+  year: 2018
+  detail: Vol. 89, Issue 6, 063109
+  links:
+      doi:  https://doi.org/10.1063/1.5026961
+
+
+- authors: X. Lin, C. W. Rischau, **L. Buchauer**, A. Jaoui, B. Fauqué and K. Behnia
+  title: Metallicity without quasi-particles in room-temperature strontium titanate
+  journal: npj Quantum Materials
+  year: 2017
+  detail: Vol. 2, Article 41
+  links:
+      doi:  https://doi.org/10.1038/s41535-017-0044-5
