@@ -26,7 +26,6 @@ Master's thesis in the group of [Quantum Matter](https://qm.lpem.espci.fr/spip.p
 Bachelor's thesis in the group of [Highly Charged Ion Dynamics](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/quantum-dynamicscontrol/research/highly-charged-ion-dynamics-ag-crespo) led by José Crespo at the Max Planck Insitute for Nuclear Physics.
 
 \ 
-
 #### Honors and Awards
 
 Since 2020: Postdoctoral Fellow of the [European Molecular Biology Organization (EMBO)](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships)
