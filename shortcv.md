@@ -19,12 +19,13 @@ Collaboration between the divisions of [Systems Immunology](https://www.weizmann
 Mathematical and computational modelling within the division of [Theoretical Systems Biology](https://www.dkfz.de/en/modellierung-biologischer-systeme/) led by Thomas Höfer, in direct collaboration with the division of [B cell Immunology](https://www.dkfz.de/en/b-zell-immunologie/index.php/) led by Hedda Wardemann.
 
 
-#### 2009-2014 -- B.Sc. \& M.Sc. studies in Physics in Heidelberg, Darmstadt and Paris
+#### 2009-2014 -- B.Sc. & M.Sc. (Physics) in Heidelberg, Darmstadt and Paris
 
 Master's thesis in the group of [Quantum Matter](https://qm.lpem.espci.fr/spip.php?rubrique1) led by Kamran Behnia at ESPCI Paris.
 
 Bachelor's thesis in the group of [Highly Charged Ion Dynamics](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/quantum-dynamicscontrol/research/highly-charged-ion-dynamics-ag-crespo) led by José Crespo at the Max Planck Insitute for Nuclear Physics.
 
+\ 
 
 #### Honors and Awards
 
