@@ -23,7 +23,7 @@ Collaboration between the divisions of [Systems Immunology](https://www.weizmann
 2014-2018 -- Doctoral Research in Computational Biology at the German Cancer Research Center (DKFZ) and Heidelberg University
 
   <small>
-Mathematical and computational modelling within the division of [Theoretical Systems Biology](https://www.dkfz.de/en/modellierung-biologischer-systeme/) led by Thomas Höfer, in direct collaboration with the division of [B cell Immunology](https://www.dkfz.de/en/b-zell-immunologie/index.php/) led by Hedda Wardemann.
+Mathematical and computational modelling within the division of [Theoretical Systems Biology](https://www.dkfz.de/en/modellierung-biologischer-systeme/) led by Thomas Höfer, in direct collaboration with the division of [B cell Immunology](https://www.dkfz.de/en/b-zell-immunologie/index.php/) led by Hedda Wardemann.  
   </small>
 <br>
 
