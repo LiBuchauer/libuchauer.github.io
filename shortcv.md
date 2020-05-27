@@ -4,27 +4,30 @@ title: CV
 order: 4
 ---
 
-#### Since 2020 -- Postdoctoral Research at Weizmann Institute of Science
+#### CV
 
-Computational work in the division of [Systems Biology of Mammalian Tissues](http://shalevlab.weizmann.ac.il/) led by Shalev Itzkovitz.
+Since 2020 -- Postdoctoral Research at Weizmann Institute of Science. 
+  <small>
+Computational work in the division of [Systems Biology of Mammalian Tissues](http://shalevlab.weizmann.ac.il/) led by Shalev Itzkovitz.  
+  </small>
 
+2018-2019 -- Joint Postdoctoral Research at DKFZ and Weizmann Institute of Science. 
+  <small>
+Collaboration between the divisions of [Systems Immunology](https://www.weizmann.ac.il/immunology/NirFriedman/) at WIS and [Theoretical Systems Biology](https://www.dkfz.de/en/modellierung-biologischer-systeme/) at DKFZ.  
+  </small>
 
-#### 2018-2019 -- Joint Postdoctoral Research at DKFZ and Weizmann Institute of Science
-
-Collaboration between the divisions of [Systems Immunology](https://www.weizmann.ac.il/immunology/NirFriedman/) at WIS and [Theoretical Systems Biology](https://www.dkfz.de/en/modellierung-biologischer-systeme/) at DKFZ.
-
-
-#### 2014-2018 -- Doctoral Research in Computational Biology at the German Cancer Research Center (DKFZ) and Heidelberg University
-
+2014-2018 -- Doctoral Research in Computational Biology at the German Cancer Research Center (DKFZ) and Heidelberg University. 
+  <small>
 Mathematical and computational modelling within the division of [Theoretical Systems Biology](https://www.dkfz.de/en/modellierung-biologischer-systeme/) led by Thomas Höfer, in direct collaboration with the division of [B cell Immunology](https://www.dkfz.de/en/b-zell-immunologie/index.php/) led by Hedda Wardemann.
+  </small>
 
+2009-2014 -- B.Sc. & M.Sc. (Physics) in Heidelberg, Darmstadt and Paris. 
+  <small>
+Master's thesis in the group of [Quantum Matter](https://qm.lpem.espci.fr/spip.php?rubrique1) led by Kamran Behnia at ESPCI Paris.  
 
-#### 2009-2014 -- B.Sc. & M.Sc. (Physics) in Heidelberg, Darmstadt and Paris
-
-Master's thesis in the group of [Quantum Matter](https://qm.lpem.espci.fr/spip.php?rubrique1) led by Kamran Behnia at ESPCI Paris.
-
-Bachelor's thesis in the group of [Highly Charged Ion Dynamics](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/quantum-dynamicscontrol/research/highly-charged-ion-dynamics-ag-crespo) led by José Crespo at the Max Planck Insitute for Nuclear Physics.
-
+Bachelor's thesis in the group of [Highly Charged Ion Dynamics](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/quantum-dynamicscontrol/research/highly-charged-ion-dynamics-ag-crespo) led by José Crespo at the Max Planck Insitute for Nuclear Physics.  
+  </small>
+  
 &nbsp;
 #### Honors and Awards
 
