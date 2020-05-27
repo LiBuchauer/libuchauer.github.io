@@ -11,18 +11,21 @@ Since 2020 -- Postdoctoral Research at Weizmann Institute of Science
   <small>
 Computational work in the division of [Systems Biology of Mammalian Tissues](http://shalevlab.weizmann.ac.il/) led by Shalev Itzkovitz.  
   </small>
+<br>
 
 2018-2019 -- Joint Postdoctoral Research at DKFZ and Weizmann Institute of Science
 
   <small>
 Collaboration between the divisions of [Systems Immunology](https://www.weizmann.ac.il/immunology/NirFriedman/) at WIS and [Theoretical Systems Biology](https://www.dkfz.de/en/modellierung-biologischer-systeme/) at DKFZ.  
   </small>
+<br>
 
 2014-2018 -- Doctoral Research in Computational Biology at the German Cancer Research Center (DKFZ) and Heidelberg University
 
   <small>
 Mathematical and computational modelling within the division of [Theoretical Systems Biology](https://www.dkfz.de/en/modellierung-biologischer-systeme/) led by Thomas Höfer, in direct collaboration with the division of [B cell Immunology](https://www.dkfz.de/en/b-zell-immunologie/index.php/) led by Hedda Wardemann.
   </small>
+<br>
 
 2009-2014 -- B.Sc. & M.Sc. (Physics) in Heidelberg, Darmstadt and Paris
 
