@@ -40,11 +40,11 @@ Bachelor's thesis in the group of [Highly Charged Ion Dynamics](https://www.mpi-
 &nbsp;
 #### Honors and Awards
 
-Since 2020: Postdoctoral Fellow of the [European Molecular Biology Organization (EMBO)](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships)
+Since 2020: Postdoctoral fellow of the [European Molecular Biology Organization (EMBO)](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships)
 
 2018-2019: Phd-to-Postdoc fellow of the [German-Israeli Helmholtz International Research School](https://www.dkfz.de/en/phd-program/GIHRS_TRAX.html)
 
-2018: awarded PhD (Dr. rer. nat.) _summa cum laude_
+2018: awarded PhD (Dr. rer. nat.) [_summa cum laude_](https://en.wikipedia.org/wiki/Latin_honors#Germany)
 
 2010-2014: Fellow of the [Studienstiftung des deutschen Volkes](https://www.studienstiftung.de/en/)
 
