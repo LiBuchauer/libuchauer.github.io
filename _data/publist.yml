@@ -7,13 +7,20 @@
       doi: https://doi.org/10.1016/j.coisb.2019.10.004
 
 - authors: L. Buchauer\*, M. A. Khan\*, Y. Zhuo\*, C. Shao, P. Zou, W. Feng, M. Qian, G. Bekki, C. Bunne, A. Neuerburg, A. A. Acikgöz, M. Tomaschko, Z. Zhu, H. Alter , K. Hartmann, O. Friesen, K. Hexel, T. Höfer\*\* and H.-K. Liu\*\*
-  title: Exponential growth of glioblastoma in vivo driven by rapidly dividing and outwardly migrating cancer stem cells
+  title: "Exponential growth of glioblastoma in vivo driven by rapidly dividing and outwardly migrating cancer stem cells"
   journal: bioRxiv
   year: 2019
   detail: 723601
   links:
       doi:  https://doi.org/10.1101/723601
       github: https://github.com/LiBuchauer/exponential_GBM
+
+- authors: L. Buchauer
+  title: "Heterogeneous Populations in B Cell Memory Responses and Glioblastoma Growth"
+  journal: Doctoral thesis, Heidelberg University
+  year: 2018
+  links:
+      doi:  https://doi.org/10.11588/heidok.00025541
 
 - authors: R. Murugan\*, L. Buchauer\*, G. Triller, C. Kreschel, G. Costa, G. Pidelaserra Martí, K. Imkeller, C. E. Busse, S. Chakravarty, B. K. L. Sim, S. L. Hoffman, E. A. Levashina, P. G. Kremsner, B. Mordmüller, T. Höfer\*\* and H. Wardemann\*\*
   title: "Clonal selection drives protective memory B cell responses in controlled human malaria infection"
@@ -51,3 +58,19 @@
   detail: Vol. 2, Article 41
   links:
       doi:  https://doi.org/10.1038/s41535-017-0044-5
+
+
+- authors: L. Buchauer
+  title: "Superconductivity and Fermi surface in Tl:PbTe"
+  journal: Master thesis, Technical University of Darmstadt and ESPCI Paris
+  year: 2014
+  links:
+      doi:  https://tuprints.ulb.tu-darmstadt.de/6158/
+
+
+- authors: L. Buchauer
+  title: "Design and Construction of a Magnetic Ion Trap"
+  journal: Bachelor thesis, Heidelberg University
+  year: 2012
+  links:
+      doi:  http://hdl.handle.net/11858/00-001M-0000-0014-6A23-9

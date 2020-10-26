@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-order: 4
+order: 3
 ---
 
 #### CV
