@@ -1,3 +1,11 @@
+- authors: H. Massalha, K. Bahar Halpern, S. Abu‐Gazala, T. Jana, E. E. Massasa, A. E. Moor, L. Buchauer, M. Rozenberg, E. Pikarsky, I. Amit, G. Zamir, S. Itzkovitz
+  title: "A single cell atlas of the human liver tumor microenvironment"
+  journal: Molecular Systems Biology
+  year: 2020
+  detail: 16: e9682
+  links:
+      doi: https://doi.org/10.15252/msb.20209682
+
 - authors: L. Buchauer and H. Wardemann
   title: "Review: Calculating germinal centre reactions"
   journal: Current Opinion in Systems Biology
