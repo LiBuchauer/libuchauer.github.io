@@ -6,6 +6,7 @@
   links:
       doi: https://doi.org/10.1038/s42255-021-00504-6
       github: https://github.com/LiBuchauer/spatial_MP_discordances
+  media: Read the full paper [here](https://rdcu.be/cDyG4).
 
 - authors: L. Buchauer and S. Itzkovitz
   title: "cellanneal: A User-Friendly Deconvolution Software for Omics Data"
