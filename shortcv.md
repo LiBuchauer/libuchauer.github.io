@@ -6,7 +6,9 @@ order: 3
 
 #### CV
 
-Since 2020 -- Postdoctoral Research at Weizmann Institute of Science
+Since 11/2021 -- Senior Computational Biologist at [immunai](https://www.immunai.com/)
+
+2020-10/2021 -- Postdoctoral Research at Weizmann Institute of Science
 
   <small>
 Computational work in the division of [Systems Biology of Mammalian Tissues](http://shalevlab.weizmann.ac.il/) led by Shalev Itzkovitz.  
