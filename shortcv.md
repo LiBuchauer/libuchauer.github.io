@@ -6,12 +6,11 @@ order: 4
 
 #### CV
 
-
 since 5/2023 -- Associate (W2) Professor of Systems Biology of Infectious Diseases at Charité - University Medicine, Berlin.
-
+  
 
 10/2021-4/2023 -- Senior Computational Biologist and Project Team Lead at [immunai](https://www.immunai.com/)
-
+  
 
 2020-10/2021 -- Postdoctoral Research at Weizmann Institute of Science
 
