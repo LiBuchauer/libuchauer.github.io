@@ -7,11 +7,15 @@ order: 1
 ### Welcome!
 
 <img style="width:7em" src="images/foto_2020_C.jpg" align="right">
-I am a Computational Biologist at [immunai](https://www.immunai.com/) in Tel Aviv. Previously, I was a postdoctoral research fellow at the Weizmann Institute of Science and, before that, a PhD student at the German Cancer Research Center.  
+I am professor of Systems Biology of Infectious Diseases at the Department of Infectious Diseases and Intensive Care at Charité - University Medicine, Berlin. Previously, I worked as a Senior Computational Biologist and Project Team Lead at [immunai](https://www.immunai.com/) in Tel Aviv. Before that, I was a postdoctoral research fellow at the Weizmann Institute of Science and a PhD student at the German Cancer Research Center.  
 
-As a computational biologist with a background in physics, I develop computational methods for omics data, analyse such data, and build mathematical models of biological systems.
+As a computational biologist with a background in physics, I develop computational methods for omics data, analyse such data, and build mathematical models of biological systems with a focus on the immune system.
 
-You can contact me via [email](mailto:buchauer@posteo.de) or [twitter](http://twitter.com/libuchauer).
+You can contact me via [email](mailto:buchauer@charite.de) or [twitter](http://twitter.com/libuchauer).
+
+### Open positions in my lab
+Several PhD positions as well opportunities for master's theses and lab rotation projects will open in my lab soon (summer/autumn 2023). If you are interested, I invite you to check out the [lab](https://libuchauer.github.io/lab/) page and get in touch as soon as possible.
+
 
 ### cellanneal
 <img style="width:5em" src="images/logo.png" align="right">
