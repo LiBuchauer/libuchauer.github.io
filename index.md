@@ -6,8 +6,9 @@ order: 1
 
 ### Welcome!
 
-<img style="width:7em" src="images/foto_2020_C.jpg" align="right">
-I am professor of Systems Biology of Infectious Diseases at the Department of Infectious Diseases and Intensive Care at Charité - University Medicine, Berlin. Previously, I worked as a Senior Computational Biologist and Project Team Lead at [immunai](https://www.immunai.com/) in Tel Aviv. Before that, I was a postdoctoral research fellow at the Weizmann Institute of Science and a PhD student at the German Cancer Research Center.  
+<img style="width:7em" src="images/foto_2023.jpg" align="right">
+I am professor of Systems Biology of Infectious Diseases at the Department of Infectious Diseases and Intensive Care at Charité - University Medicine, Berlin.  
+Previously, I worked as a Senior Computational Biologist and Project Team Lead at [immunai](https://www.immunai.com/) in Tel Aviv. Before that, I was a postdoctoral research fellow at the Weizmann Institute of Science and a PhD student at the German Cancer Research Center.  
 
 As a computational biologist with a background in physics, I develop computational methods for omics data, analyse such data, and build mathematical models of biological systems with a focus on the immune system.
 
