@@ -1,3 +1,11 @@
+- authors: A. Afriat, V. Zuzarte-Luís, K. Bahar Halpern, L. Buchauer, S. Marques,  Â. F. Chora, A. Lahree, I. Amit, M. M Mota, S. Itzkovitz
+  title: "A spatiotemporally resolved single cell atlas of the Plasmodium liver stage"
+  journal: nature
+  year: 2022
+  detail: Vol. 611, 563–569
+  links:
+      doi: https://www.nature.com/articles/s41586-022-05406-5
+
 - authors: Y. Harnik\*, L. Buchauer\*, S. Ben-Moshe, I. Averbukh, Y. Levin, A. Savidor, R. Eilam, A. E. Moor, S. Itzkovitz
   title: "Spatial discordances between mRNAs and proteins in the intestinal epithelium"
   journal: Nature Metabolism
@@ -15,13 +23,6 @@
   links:
       doi: https://arxiv.org/abs/2110.08209
       github: https://github.com/LiBuchauer/cellanneal
-
-- authors: A. Afriat, V. Zuzarte-Luís, K. Bahar Halpern, L. Buchauer, S. Marques, A. Lahree, I. Amit, M. M Mota, S. Itzkovitz
-  title: "A spatiotemporally resolved single cell atlas of the Plasmodium liver stage"
-  journal: bioRxiv
-  year: 2021
-  links:
-      doi: https://doi.org/10.1101/2021.12.03.471111
 
 - authors: H. Massalha, K. Bahar Halpern, S. Abu‐Gazala, T. Jana, E. E. Massasa, A. E. Moor, L. Buchauer, M. Rozenberg, E. Pikarsky, I. Amit, G. Zamir, S. Itzkovitz
   title: "A single cell atlas of the human liver tumor microenvironment"
