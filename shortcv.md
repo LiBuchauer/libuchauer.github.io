@@ -6,7 +6,11 @@ order: 3
 
 #### CV
 
-Since 11/2021 -- Senior Computational Biologist at [immunai](https://www.immunai.com/)
+
+since 5/2023 -- Associate (W2) Professor of Systems Biology of Infectious Diseases at Charité - University Medicine, Berlin.
+
+
+10/2021-4/2023 -- Senior Computational Biologist and Project Team Lead at [immunai](https://www.immunai.com/)
 
 
 2020-10/2021 -- Postdoctoral Research at Weizmann Institute of Science
@@ -43,7 +47,7 @@ Bachelor's thesis in the group of [Highly Charged Ion Dynamics](https://www.mpi-
 &nbsp;
 #### Honors and Awards
 
-Since 2020: Postdoctoral fellow of the [European Molecular Biology Organization (EMBO)](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships)
+2020-2021: Postdoctoral fellow of the [European Molecular Biology Organization (EMBO)](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships)
 
 2018-2019: Phd-to-Postdoc fellow of the [German-Israeli Helmholtz International Research School](https://www.dkfz.de/en/phd-program/GIHRS_TRAX.html)
 
