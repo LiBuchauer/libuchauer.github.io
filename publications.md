@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-order: 2
+order: 3
 ---
 
 {% for pub in site.data.publist %}
