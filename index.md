@@ -13,7 +13,7 @@ Previously, I worked as a Senior Computational Biologist and Project Team Lead a
 
 As a computational biologist with a background in physics, I develop computational methods for omics data, analyse such data, and build mathematical models of biological systems with a focus on the immune system.
 
-You can contact me via [email](mailto:buchauer@charite.de) or [twitter](http://twitter.com/libuchauer).
+You can contact me via [email](mailto:lisa.buchauer@charite.de) or [twitter](http://twitter.com/libuchauer).
 
 ### Open positions in my lab
 Several PhD positions as well opportunities for master's theses and lab rotation projects will open in my lab soon (summer/autumn 2023). If you are interested, I invite you to check out the [lab](https://libuchauer.github.io/lab/) page and get in touch as soon as possible.
