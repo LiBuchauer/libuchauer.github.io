@@ -16,7 +16,7 @@ As a computational biologist with a background in physics, I develop computation
 You can contact me via [email](mailto:lisa.buchauer@charite.de) or [twitter](http://twitter.com/libuchauer).
 
 ### Open positions in my lab
-Several PhD positions as well opportunities for master's theses and lab rotation projects will open in my lab soon (summer/autumn 2023). If you are interested, I invite you to check out the [lab](https://libuchauer.github.io/lab/) page and get in touch as soon as possible.
+Several PhD positions as well as opportunities for master's theses and lab rotation projects will open in my lab soon (summer/autumn 2023). If you are interested, I invite you to check out the [lab](https://libuchauer.github.io/lab/) page and get in touch as soon as possible.
 
 
 ### cellanneal
