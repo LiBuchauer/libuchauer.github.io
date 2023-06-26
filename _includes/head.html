@@ -1,4 +1,7 @@
 <head>
+  {% assign image = "https://github.com/LiBuchauer/libuchauer.github.io/blob/master/images/buchauer_lab.png" %}
+  {% assign title = page.title | default: site.title | escape %}
+  {% assign description = page.description | default: site.description | strip_html | strip_newlines | truncate: 160 %}
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -11,8 +14,15 @@
   <meta name="google-site-verification" content="ihQfBn0DPqjQc4LimIlBkM19PBgdCX-Orm1IiYFhYQ0" />
   <!-- Enable verification with yandex, should help with DuckDuckGo indexing-->
   <meta name="yandex-verification" content="8e9b2db884de7315" />
-  <!-- Image to be displayed in twitter preview-->
-  <meta name="twitter:image" content='../images/buchauer_lab.png' />
+
+    <!-- Twitter cards -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@libuchauer">
+  <meta name="twitter:image" content="{{ image }}">
+
+  <meta name="twitter:title" content="{{ title }}" />
+  <meta name="twitter:description" content="{{ description }}">
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
