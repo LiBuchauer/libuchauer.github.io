@@ -4,7 +4,7 @@ title: Lab
 order: 2
 ---
 
-### 2 PhD positions in my new research group at Charité Berlin
+### 2 PhD positions in Computational Immunology at Charité Berlin
 <img style="width:9em" src="images/buchauer_lab.png" align="right">
 
 I am looking for 2 PhD students to join my recently established computational research group on “Systems Biology of Infectious Diseases”. The group is part of the Department of Infectious Diseases and Intensive Care at Charité - Universitätsmedizin Berlin, a highly collaborative, international and welcoming work environment with a translational focus.
