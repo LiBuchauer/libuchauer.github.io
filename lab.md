@@ -5,7 +5,7 @@ order: 2
 ---
 
 ### 2 PhD positions in my new research group at Charité Berlin
-<img style="width:10em" src="images/buchauer_lab.png" align="right">
+<img style="width:9em" src="images/buchauer_lab.png" align="right">
 
 I am looking for 2 PhD students to join my recently established computational research group on “Systems Biology of Infectious Diseases”. The group is part of the Department of Infectious Diseases and Intensive Care at Charité - Universitätsmedizin Berlin, a highly collaborative, international and welcoming work environment with a translational focus.
 
@@ -29,12 +29,12 @@ We are looking for candidates with a __master’s degree in a quantitative disci
 
 Prior experience with any of the following is considered a plus: omics data analysis, mathematical modeling, machine learning, spatial or temporal data analysis, software development principles and biological wet-lab work. Candidates should be curious, willing to work in a multidisciplinary team, and have a strong sense of ownership for their projects. Fluency in English is required (B2-C1).
 
-__Please send your CV, a one-page motivation letter and the contact information of at least one reference directly to lisa.buchauer@charite.de as a single pdf by July 31st, 2023. Informal enquiries are encouraged; I am looking forward to receiving your application!__
+__Please send your CV, a one-page motivation letter and the contact information of at least one reference directly to [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de) as a single pdf by July 31st, 2023. Informal enquiries are encouraged; I am looking forward to receiving your application!__
 
 
 ### Bachelor's theses, Master's theses, MD theses, lab rotation projects, internships
 
-If you are interested in doing any of the above in my lab, I will be happy to hear from you to discuss your interests and currently available project options. Please reach out to me at lisa.buchauer@charite.de .
+If you are interested in doing any of the above in my lab, I will be happy to hear from you to discuss your interests and currently available project options. Please reach out to me at [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de) .
 
 
 
