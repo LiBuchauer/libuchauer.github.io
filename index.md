@@ -16,12 +16,12 @@ As a computational biologist with a background in physics, I develop computation
 You can contact me via [email](mailto:lisa.buchauer@charite.de) or [twitter](http://twitter.com/libuchauer).
 
 ### Open positions in my lab
-Several PhD positions as well as opportunities for master's theses and lab rotation projects will open in my lab soon (summer/autumn 2023). If you are interested, I invite you to check out the [lab](https://libuchauer.github.io/lab/) page and get in touch as soon as possible.
+Several PhD positions as well as opportunities for master's theses and lab rotation projects are available in my research group. If you are interested, I invite you to check out the [lab](https://libuchauer.github.io/lab/) page and get in touch as soon as possible.
 
 
 ### cellanneal
 <img style="width:5em" src="images/logo.png" align="right">
 
-If you have bulk RNAseq data that you want to deconvolve and are looking for a method that is accurate, fast and, above all, user-friendly, please check out [cellanneal](https://github.com/LiBuchauer/cellanneal) and the accompanying [pre-print](https://arxiv.org/abs/2110.08209)
+If you have bulk RNAseq data that you want to deconvolve and are looking for a method that is accurate, fast and, above all, user-friendly, please check out [cellanneal](https://github.com/LiBuchauer/cellanneal) and the accompanying [pre-print](https://arxiv.org/abs/2110.08209).
 
 
