@@ -29,7 +29,7 @@ We are looking for candidates with a __master’s degree in a quantitative disci
 
 Prior experience with any of the following is considered a plus: omics data analysis, mathematical modeling, machine learning, spatial or temporal data analysis, software development principles and biological wet-lab work. Candidates should be curious, willing to work in a multidisciplinary team, and have a strong sense of ownership for their projects. Fluency in English is required (B2-C1).
 
-__Please send your CV, a one-page motivation letter and the contact information of at least one reference directly to [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de) as a single pdf by July 31st, 2023. Informal enquiries are encouraged; I am looking forward to receiving your application!__
+__Please compile your CV, a one-page motivation letter and the contact information of at least one reference into a single pdf and upload it [here](https://jobs.bihealth.org/PhD-Position-in-Computational-Immunology-with-Translationa-de-j448.html) via the _Apply now!_ button (Prof. Dr. Leif Erik Sander is the director of the departement of Infectious Diseases). If you have previously applied via email, you need not apply again; all applications are being considered.  Please apply by July 31st, 2023. Informal enquiries to [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de) are encouraged; I am looking forward to receiving your application!__
 
 
 ### Bachelor's theses, Master's theses, MD theses, lab rotation projects, internships
