@@ -22,7 +22,7 @@ We are interested in candidates from quantitative backgrounds (physics, mathemat
 Prior experience with any of the following is considered a plus: omics data analysis, mathematical modeling, machine learning, spatial or temporal data analysis, software development principles and biological wet-lab work. Candidates should be curious, willing to work in a multidisciplinary team, and have a strong sense of ownership for their projects. Fluency in English is required.
 
 
-### Bachelor's theses, Master's theses, MD theses, lab rotation projects, internships
+#### Bachelor's theses, Master's theses, MD theses, lab rotation projects, internships
 
 If you are interested in doing any of the above in my lab, I will be happy to hear from you to discuss your interests and currently available project options. Please reach out to me at [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de) .
 
