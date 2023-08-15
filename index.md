@@ -15,9 +15,9 @@ As a computational biologist with a background in physics, I develop computation
 
 You can contact me via [email](mailto:lisa.buchauer@charite.de) or [twitter](http://twitter.com/libuchauer).
 
-### Open positions in my lab
+### Join my lab
 <img style="width:9em" src="images/buchauer_lab.png" align="right">
-Several PhD positions as well as opportunities for master's theses and lab rotation projects are available in my research group. If you are interested, I invite you to check out the [lab](https://libuchauer.github.io/lab/) page and get in touch as soon as possible. While prior experience with computational biology is a plus, the most important requirement is motivation!
+If you are interested in learning more about the group or are interested in joining, I invite you to check out the [lab](https://libuchauer.github.io/lab/) page and get in touch. While prior experience with computational biology is a plus, the most important requirement is motivation!
 
 
 ### cellanneal
