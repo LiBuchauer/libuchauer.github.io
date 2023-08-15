@@ -4,7 +4,7 @@ title: Lab
 order: 2
 ---
 
-#### Our research interests
+### Our research interests
 <img style="width:9em" src="images/buchauer_lab.png" align="right">
 Our group collaborates with experimentalists and clinicians on translational infectious disease & fundamental immunology research projects and develops computational tools for the analysis of omics data.  
 
