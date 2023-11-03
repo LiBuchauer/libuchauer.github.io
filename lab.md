@@ -23,6 +23,7 @@ In computational method development, our primary objective is to create tools th
 |                                               ![Mark](lab/images/Mark_square.jpg)                                         | 
 |:-------------------------------------------------------------------------------------------------------------------------:| 
 | Mark Melzer <br> _PhD student_|
+
 research interests: computational cytometry, cross-modality data integration, explainable ML  
 
 
