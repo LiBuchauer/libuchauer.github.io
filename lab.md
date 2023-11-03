@@ -15,14 +15,15 @@ In computational method development, our primary objective is to create tools th
 ### Lab members
 
 
-| ![Lisa](lab/images/Lisa_square.jpg) | 
-|:-----------------------------------:| 
-|  Lisa Buchauer <br> _Group leader_  |
+| <img style="width:9em" src="images/Lisa_square.jpg" align="center"> | 
+|:-------------------------------------------------------------------:| 
+|                  Lisa Buchauer <br> _Group leader_                  |
 
 
-|                                               ![Mark](lab/images/Mark_square.jpg)                                         | 
-|:-------------------------------------------------------------------------------------------------------------------------:| 
-| Mark Melzer <br> _PhD student_|
+
+|                               <img style="width:9em" src="images/Mark_square.jpg" align="center">                                | 
+|:--------------------------------------------------------------------------------------------------------------------------------:| 
+| Mark Melzer <br> _PhD student_ <br> research interests: computational cytometry, cross-modality data integration, explainable ML |
 
 research interests: computational cytometry, cross-modality data integration, explainable ML  
 
