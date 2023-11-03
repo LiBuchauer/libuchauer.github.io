@@ -28,7 +28,7 @@ In computational method development, our primary objective is to create tools th
 | Mark Melzer                                                                                    |
 | _PhD student_                                                                                  |
 | Previously: M.Sc. Bioinformatics (Tübingen), B.Sc. Integrated Life Science (Erlangen-Nürnberg) |
-| research interests: computational cytometry, cross-modality data integration, explainable ML   |
+| Research interests: computational cytometry, cross-modality data integration, explainable ML   |
 
 
 
