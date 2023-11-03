@@ -11,9 +11,34 @@ Our group collaborates with experimentalists and clinicians on translational inf
 Our research includes analyzing, modeling, and interpreting high-dimensional biomedical datasets, comprising single-cell or bulk omics assays, spatial assays, clinical data and more. Approaches employed by and developed in our lab include - but are not limited to - mathematical models, computer simulations, and machine learning methods. 
 
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
-  
+
+### Lab members
+<img style="width:9em" src="images/Lisa_square.jpg" align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;Lisa Buchauer  
+
+&nbsp;&nbsp;&nbsp;&nbsp;_Group leader_  
+
+<br>
+<br>
+<br>
+<br>
+
+
+<img style="width:9em" src="images/Mark_square.jpg" align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;Mark Melzer  
+
+&nbsp;&nbsp;&nbsp;&nbsp;_PhD student_  
+
+&nbsp;&nbsp;&nbsp;&nbsp;Research interests: computational cytometry, cross-modality data integration, explainable ML  
+
+
+<br>
 
 ### Join us
+
+#### Bachelor's theses, Master's theses, MD theses, lab rotation projects, internships
+If you are interested in doing any of the above in my lab, I will be happy to hear from you to discuss your interests and currently available project options. Please reach out to me with your CV at [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de).
+
 #### PhD / PostDoc 
 There are currently no explicit positions to be filled, but qualified candidates interested in PhD or PostDoc opportunities are welcome to reach out to discuss potential funding options.  
 
@@ -22,9 +47,7 @@ We are interested in candidates from quantitative backgrounds (physics, mathemat
 Prior experience with any of the following is considered a plus: omics data analysis, mathematical modeling, machine learning, spatial or temporal data analysis, software development principles and biological wet-lab work. Candidates should be curious, willing to work in a multidisciplinary team, and have a strong sense of ownership for their projects. Fluency in English is required.
 
 
-#### Bachelor's theses, Master's theses, MD theses, lab rotation projects, internships
 
-If you are interested in doing any of the above in my lab, I will be happy to hear from you to discuss your interests and currently available project options. Please reach out to me at [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de) .
 
 
 
