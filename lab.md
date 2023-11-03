@@ -13,26 +13,18 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### Lab members
-<img style="width:9em" src="lab/images/Lisa_square.jpg" align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;Lisa Buchauer  
-
-&nbsp;&nbsp;&nbsp;&nbsp;_Group leader_  
-
-<br>
-<br>
-<br>
-<br>
 
 
-<img style="width:9em" src="lab/images/Mark_square.jpg" align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;Mark Melzer  
-
-&nbsp;&nbsp;&nbsp;&nbsp;_PhD student_  
-
-&nbsp;&nbsp;&nbsp;&nbsp;Research interests: computational cytometry, cross-modality data integration, explainable ML  
+| ![Lisa](lab/images/Lisa_square.jpg) | 
+|:-----------------------------------:| 
+|  Lisa Buchauer <br> _Group leader_  |
 
 
-<br>
+|                                               ![Mark](lab/images/Mark_square.jpg)                                         | 
+|:-------------------------------------------------------------------------------------------------------------------------:| 
+| Mark Melzer <br> _PhD student_|
+research interests: computational cytometry, cross-modality data integration, explainable ML  
+
 
 ### Join us
 
