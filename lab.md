@@ -23,13 +23,21 @@ In computational method development, our primary objective is to create tools th
 
 
 
+| <img style="width:9em" src="images/Liliia_square.jpg" align="center">                                                  | 
+|:-----------------------------------------------------------------------------------------------------------------------| 
+| Liliia Khadeeva                                                                                                        |
+| _PhD student_                                                                                                          |
+| Previously: M.Sc. Mathematical Modeling and Computer Science (Moscow), B.Sc. Applied Mathematics and Informatics (Ufa) |
+| Research interests: gene regulatory networks, mathematical modeling of cellular immunity, ML for NGS data analysis     |
+
+
+
 | <img style="width:9em" src="images/Mark_square.jpg" align="center">                            | 
 |:-----------------------------------------------------------------------------------------------| 
 | Mark Melzer                                                                                    |
 | _PhD student_                                                                                  |
 | Previously: M.Sc. Bioinformatics (Tübingen), B.Sc. Integrated Life Science (Erlangen-Nürnberg) |
 | Research interests: computational cytometry, cross-modality data integration, explainable ML   |
-
 
 
 ### Join us
