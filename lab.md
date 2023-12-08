@@ -23,7 +23,7 @@ In computational method development, our primary objective is to create tools th
 
 
 
-| <img style="width:9em" src="images/Liliia_square.jpg" align="center">                                                  | 
+| <img style="width:9em" src="images/Liliia_square.png" align="center">                                                  | 
 |:-----------------------------------------------------------------------------------------------------------------------| 
 | Liliia Khadeeva                                                                                                        |
 | _PhD student_                                                                                                          |
