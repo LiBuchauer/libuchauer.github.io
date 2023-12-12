@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab
+title: Team
 order: 2
 ---
 
