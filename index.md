@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Overview
+layout: default
+title: Home
 order: 1
 ---
 
