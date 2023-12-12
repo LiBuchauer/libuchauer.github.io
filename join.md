@@ -9,6 +9,7 @@ order: 3
 
 If you are interested in learning more about the group, we invite you to get in touch. While prior experience with computational biology is a plus, the most important requirement is motivation!
 
+#### Current openings
 [Open MD thesis position for Charité medical students (published Dec 2023)](https://libuchauer.github.io/MD23)
 
 #### Bachelor's theses, Master's theses, MD theses, lab rotation projects, internships
