@@ -6,7 +6,7 @@ order: 1
 
 ### Welcome!
 
-<img style="width:9em" src="images/buchauer_lab.png" align="right">
+<img style="width:12em" src="images/buchauer_lab.png" align="right">
 Our group collaborates with experimentalists and clinicians on translational infectious disease & fundamental immunology research projects and develops computational tools for the analysis of omics and flow data.  
 
 Our research includes analyzing, modeling, and interpreting high-dimensional biomedical datasets, comprising single-cell or bulk omics assays, spatial assays, flow cytometry data and more. Approaches employed by and developed in our lab include - but are not limited to - mathematical models, computer simulations, and machine learning methods. 
