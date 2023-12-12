@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /CV
+permalink: /CV/
 ---
 
 #### Lisa Buchauer
