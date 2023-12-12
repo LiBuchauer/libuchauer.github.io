@@ -19,7 +19,7 @@ order: 2
 | <img style="width:9em" src="images/Liliia_square.png" align="center">                                                  | 
 |:-----------------------------------------------------------------------------------------------------------------------| 
 | Liliia Khadeeva                                                                                                        |
-| [email](liliia.khadeeva@bih-charite.de)                                                                                |
+| [email](mailto:liliia.khadeeva@bih-charite.de)                                                                         |
 | _PhD student_                                                                                                          |
 | Previously: M.Sc. Mathematical Modeling and Computer Science (Moscow), B.Sc. Applied Mathematics and Informatics (Ufa) |
 | Research interests: gene regulatory networks, mathematical modeling of cellular immunity, ML for NGS data analysis     |
