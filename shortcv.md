@@ -1,12 +1,20 @@
 ---
 layout: page
-title: CV
-order: 4
+permalink: /CV
 ---
+
+#### Lisa Buchauer
+
+I am professor of Systems Biology of Infectious Diseases at the Department of Infectious Diseases and Intensive Care at Charité - University Medicine, Berlin.  
+
+Previously, I worked as a Senior Computational Biologist and Project Team Lead at immunai, Inc. in Tel Aviv. Before that, I was a postdoctoral research fellow at the Weizmann Institute of Science and a PhD student at the German Cancer Research Center.  
+
+As a computational biologist with a background in physics, I develop computational methods for omics data, analyse such data, and build mathematical models of biological systems with a focus on the immune system.
+
 
 #### CV
 
-since 5/2023 -- Associate (W2) Professor of Systems Biology of Infectious Diseases at Charité - University Medicine, Berlin.
+since 5/2023 -- Tenure-Track associate professor (W2) of Systems Biology of Infectious Diseases at Charité - University Medicine, Berlin.
 
 <br>
 

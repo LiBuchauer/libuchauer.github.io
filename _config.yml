@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Lisa Buchauer
-tagline:          'Systems Biology of Infectious Diseases'
-description:      'Computational Immunology Lab'
+title:            Buchauer Lab
+tagline:          'Computational Immunology'
+description:      'Systems Biology of Infectious Diseases'
 url:              http://libuchauer.github.io/
 baseurl:          /
 

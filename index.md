@@ -6,14 +6,13 @@ order: 1
 
 ### Welcome!
 
-<img style="width:7em" src="images/foto_2023.jpg" align="right">
-I am professor of Systems Biology of Infectious Diseases at the Department of Infectious Diseases and Intensive Care at Charité - University Medicine, Berlin.  
+<img style="width:9em" src="images/buchauer_lab.png" align="right">
+Our group collaborates with experimentalists and clinicians on translational infectious disease & fundamental immunology research projects and develops computational tools for the analysis of omics and flow data.  
 
-Previously, I worked as a Senior Computational Biologist and Project Team Lead at immunai, Inc. in Tel Aviv. Before that, I was a postdoctoral research fellow at the Weizmann Institute of Science and a PhD student at the German Cancer Research Center.  
+Our research includes analyzing, modeling, and interpreting high-dimensional biomedical datasets, comprising single-cell or bulk omics assays, spatial assays, clinical data and more. Approaches employed by and developed in our lab include - but are not limited to - mathematical models, computer simulations, and machine learning methods. 
 
-As a computational biologist with a background in physics, I develop computational methods for omics data, analyse such data, and build mathematical models of biological systems with a focus on the immune system.
+In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
-You can contact me via [email](mailto:lisa.buchauer@charite.de) or [twitter](http://twitter.com/libuchauer).
 
 ### Join my lab
 <img style="width:9em" src="images/buchauer_lab.png" align="right">

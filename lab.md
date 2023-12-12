@@ -4,28 +4,22 @@ title: Lab
 order: 2
 ---
 
-### Our research interests
-<img style="width:9em" src="images/buchauer_lab.png" align="right">
-Our group collaborates with experimentalists and clinicians on translational infectious disease & fundamental immunology research projects and develops computational tools for the analysis of omics and flow data.  
-
-Our research includes analyzing, modeling, and interpreting high-dimensional biomedical datasets, comprising single-cell or bulk omics assays, spatial assays, clinical data and more. Approaches employed by and developed in our lab include - but are not limited to - mathematical models, computer simulations, and machine learning methods. 
-
-In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
-
 ### Lab members
 
 
-| <img style="width:9em" src="images/Lisa_square.jpg" align="center"> | 
-|:--------------------------------------------------------------------| 
-| Lisa Buchauer                                                       |
-| _Group leader_                                                      |
-| Previously: see [CV](https://libuchauer.github.io/shortcv/)         |
+| <img style="width:9em" src="images/Lisa_square.jpg" align="center">               | 
+|:----------------------------------------------------------------------------------| 
+| Lisa Buchauer                                                                     |
+| [email](mailto:lisa.buchauer@charite.de)                                          |
+| _Group leader_                                                                    |
+| Previously: see [CV](https://libuchauer.github.io/CV/)                            |
 
 
 
 | <img style="width:9em" src="images/Liliia_square.png" align="center">                                                  | 
 |:-----------------------------------------------------------------------------------------------------------------------| 
 | Liliia Khadeeva                                                                                                        |
+| [email](liliia.khadeeva@bih-charite.de)                                                                                |
 | _PhD student_                                                                                                          |
 | Previously: M.Sc. Mathematical Modeling and Computer Science (Moscow), B.Sc. Applied Mathematics and Informatics (Ufa) |
 | Research interests: gene regulatory networks, mathematical modeling of cellular immunity, ML for NGS data analysis     |
@@ -35,6 +29,7 @@ In computational method development, our primary objective is to create tools th
 | <img style="width:9em" src="images/Mark_square.jpg" align="center">                            | 
 |:-----------------------------------------------------------------------------------------------| 
 | Mark Melzer                                                                                    |
+| [email](mailto:mark.melzer@charite.de)                                                         |
 | _PhD student_                                                                                  |
 | Previously: M.Sc. Bioinformatics (Tübingen), B.Sc. Integrated Life Science (Erlangen-Nürnberg) |
 | Research interests: computational cytometry, cross-modality data integration, explainable ML   |
