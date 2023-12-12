@@ -15,7 +15,7 @@ In computational method development, our primary objective is to create tools th
 
 ### News
 __Dec 12th 2023__
-We are currently looking to recruit an MD thesis student for a project on infection diagnostics based on host immune response data. Please check out the corresponding [project description](https://libuchauer.github.io/MD23)!
+We are currently looking to recruit an MD thesis student for a project on infection diagnostics based on host immune response data. Please check out the [Join us](https://libuchauer.github.io/join) page!
 
 __Dec 1st 2023__
 We welcome our new PhD student [Liliia](https://libuchauer.github.io/team) to the lab! Great to have you with us :)
