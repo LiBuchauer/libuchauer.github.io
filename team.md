@@ -4,7 +4,7 @@ title: Team
 order: 2
 ---
 
-### Lab members
+### Current group members
 
 
 | <img style="width:9em" src="images/Lisa_square.jpg" align="center">               | 
