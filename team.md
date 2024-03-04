@@ -20,7 +20,7 @@ order: 2
 |:-----------------------------------------------------------------------------------------------------------------------| 
 | Liliia Khadeeva                                                                                                        |
 | [email](mailto:liliia.khadeeva@bih-charite.de)                                                                         |
-| _PhD student_                                                                                                          |
+| _Research associate_                                                                                                   |
 | Previously: M.Sc. Mathematical Modeling and Computer Science (Moscow), B.Sc. Applied Mathematics and Informatics (Ufa) |
 | Research interests: gene regulatory networks, mathematical modeling of cellular immunity, ML for NGS data analysis     |
 
@@ -30,7 +30,7 @@ order: 2
 |:-----------------------------------------------------------------------------------------------| 
 | Mark Melzer                                                                                    |
 | [email](mailto:mark.melzer@charite.de)                                                         |
-| _PhD student_                                                                                  |
+| _Research associate_                                                                           |
 | Previously: M.Sc. Bioinformatics (Tübingen), B.Sc. Integrated Life Science (Erlangen-Nürnberg) |
 | Research interests: computational cytometry, cross-modality data integration, explainable ML   |
 
