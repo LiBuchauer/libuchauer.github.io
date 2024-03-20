@@ -16,10 +16,10 @@ In computational method development, our primary objective is to create tools th
 ### News
 
 __Dec 1st 2023__
-We welcome our new PhD student [Liliia](https://libuchauer.github.io/team) to the lab! Great to have you with us :)
+We welcome [Liliia](https://libuchauer.github.io/team) to the lab! Great to have you with us :)
 
 __Nov 1st 2023__
-The group size doubles with [Mark](https://libuchauer.github.io/team) joining as the group's first PhD student, welcome!
+The group size doubles with [Mark](https://libuchauer.github.io/team) joining the group, welcome!
 
 
 
