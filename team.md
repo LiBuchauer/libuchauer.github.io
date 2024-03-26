@@ -18,7 +18,7 @@ order: 2
 | <img style="width:9em" src="images/new_member.jpg" align="center"> | 
 |:-------------------------------------------------------------------| 
 | Mae Covacevich Vidalle                                             |
-| [email](mae.covacevich-vidalle@charite.de)                         |
+| [email](mailto:mae.covacevich-vidalle@charite.de)                  |
 | _Lab rotation student (M. Sc. Molecular Medicine, Charité)_        |
 | Previously: B. Sc. Biochemistry (Fort Worth, Texas, USA)           |
 | Research interests: infectious diseases, immune responses          |
