@@ -15,6 +15,14 @@ order: 2
 | Previously: see [CV](https://libuchauer.github.io/CV/)                            |
 
 
+| <img style="width:9em" src="images/new_member.jpg" align="center"> | 
+|:-------------------------------------------------------------------| 
+| Mae Covacevich Vidalle                                             |
+| [email](mae.covacevich-vidalle@charite.de)                         |
+| _Lab rotation student (M. Sc. Molecular Medicine, Charité)_        |
+| Previously: B. Sc. Biochemistry (Fort Worth, Texas, USA)           |
+| Research interests: infectious diseases, immune responses          |
+
 
 | <img style="width:9em" src="images/Liliia_square.png" align="center">                                                  | 
 |:-----------------------------------------------------------------------------------------------------------------------| 

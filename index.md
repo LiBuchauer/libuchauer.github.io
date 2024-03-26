@@ -15,6 +15,9 @@ In computational method development, our primary objective is to create tools th
 
 ### News
 
+__March 16th 2024__
+Welcome to [Mae](https://libuchauer.github.io/team) who is joining us for a lab rotation!
+
 __Dec 1st 2023__
 We welcome [Liliia](https://libuchauer.github.io/team) to the lab! Great to have you with us :)
 
