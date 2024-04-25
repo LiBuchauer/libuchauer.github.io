@@ -15,13 +15,13 @@ order: 2
 | Previously: see [CV](https://libuchauer.github.io/CV/)                            |
 
 
-| <img style="width:9em" src="images/Mae_square.jpg" align="center"> | 
-|:-------------------------------------------------------------------| 
-| Mae Covacevich Vidalle                                             |
-| [email](mailto:mae.covacevich-vidalle@charite.de)                  |
-| _Lab rotation student (M. Sc. Molecular Medicine, Charité)_        |
-| Previously: B. Sc. Biochemistry (Fort Worth, Texas, USA)           |
-| Research interests: infectious diseases, immune responses          |
+| <img style="width:9em" src="images/Mae_square.jpeg" align="center"> | 
+|:--------------------------------------------------------------------| 
+| Mae Covacevich Vidalle                                              |
+| [email](mailto:mae.covacevich-vidalle@charite.de)                   |
+| _Lab rotation student (M. Sc. Molecular Medicine, Charité)_         |
+| Previously: B. Sc. Biochemistry (Fort Worth, Texas, USA)            |
+| Research interests: infectious diseases, immune responses           |
 
 
 | <img style="width:9em" src="images/Liliia_square.png" align="center">                                                  | 
@@ -33,7 +33,7 @@ order: 2
 | Research interests: gene regulatory networks, mathematical modeling of cellular immunity, ML for NGS data analysis     |
 
 
-| <img style="width:9em" src="images/Alice_square.jpg" align="center">            | 
+| <img style="width:9em" src="images/Alice_square.jpeg" align="center">           | 
 |:--------------------------------------------------------------------------------| 
 | Alice Leclaire                                                                  |
 | [email](mailto:alice.leclaire@charite.de)                                       |
@@ -43,7 +43,7 @@ order: 2
 
 
 
-| <img style="width:9em" src="images/Georgios_square.jpg" align="center">                                        | 
+| <img style="width:9em" src="images/Georgios_square.jpeg" align="center">                                       | 
 |:---------------------------------------------------------------------------------------------------------------| 
 | Georgios Megalovasilis                                                                                         |
 | [email](mailto:georgios.megalovasilis@charite.de)                                                              |
@@ -62,7 +62,7 @@ order: 2
 
 
 
-| <img style="width:9em" src="images/Jonathan_square.jpg" align="center">                  | 
+| <img style="width:9em" src="images/Jonathan_square.jpeg" align="center">                 | 
 |:-----------------------------------------------------------------------------------------| 
 | Jonathan Speh                                                                            |
 | [email](mailto:michel-jonathan.speh@charite.de)                                          |
