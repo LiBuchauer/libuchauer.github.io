@@ -19,7 +19,7 @@ The work will start with an onboarding project around understanding the mechanis
 
 For further details on how to apply please see the full call [here](https://jobs.bihealth.org/PhD-Position-in-Computational-Immunology-with-Translationa-eng-j561.html).
 
-Your are welcome to reach out with your questions to lisa.buchauer@charite.de .
+Your are welcome to reach out with your questions to [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de).
 
 Looking forward to receiving your application!
 
