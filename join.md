@@ -17,7 +17,7 @@ We are currently looking for a PhD student to join our computational biology / b
 
 The work will start with an onboarding project around understanding the mechanistic differences between host immune responses against different viral vaccines based on bulk and single-cell RNAseq data of virus-infected cells. The data for this is waiting. Potential projects after that would likely stem from one of two collaboration areas with experimental labs at Charité, depending on the candidates’ interest: 1) construction of a quantitative mouse lung atlas from single cell and spatial transcriptomics data in combination with high-resolution electron microscopy data / development of methods for mechanistic interpretation of spatial transcriptomics data and 2) a project in the area of circadian medicine, where we will attempt to assign circadian phases to individual cells based on single cell omics and/or flow cytometry data and analyse resulting phase distributions in health and disease.
 
-For further details on how to apply please see the full call here: https://jobs.bihealth.org/PhD-Position-in-Computational-Immunology-with-Translationa-eng-j561.html 
+For further details on how to apply please see the full call [here](https://jobs.bihealth.org/PhD-Position-in-Computational-Immunology-with-Translationa-eng-j561.html).
 
 Your are welcome to reach out with your questions to lisa.buchauer@charite.de .
 
