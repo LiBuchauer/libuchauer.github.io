@@ -14,6 +14,9 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__May 5th 2024__
+We are currently looking for a PhD student to [join our team](https://libuchauer.github.io/join)!
+
 __April 18th 2024__
 Welcome [Alice](https://libuchauer.github.io/team), who is joining us for a lab rotation as part of her master's in Health IT Engineering in Grenoble.
 
