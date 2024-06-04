@@ -74,8 +74,8 @@ order: 2
 
 ### Past group members
 
-| <img style="width:9em" src="images/Liliia_square.png" align="center">                                                  | 
-|:-----------------------------------------------------------------------------------------------------------------------| 
+
 | Liliia Khadeeva                                                                                                        |
+|:-----------------------------------------------------------------------------------------------------------------------| 
 | Role in the lab: Research project associate, 12/2023 - 05/2024                                                         |
 | Previously: M.Sc. Mathematical Modeling and Computer Science (Moscow), B.Sc. Applied Mathematics and Informatics (Ufa) |
