@@ -15,6 +15,9 @@ In computational method development, our primary objective is to create tools th
 
 ### News
 
+__June 24th 2024__
+[Lisa]((https://libuchauer.github.io/team)) was admitted to the ["Junge Akademie"](https://www.diejungeakademie.de/en/press/zehn-neue-mitglieder-in-junge-akademie-aufgenommen), the German academy for Early Career Researchers supported by the Berlin-Brandenburg Academy of Sciences (BBAW) and the German National Academy of Sciences Leopoldina. For five years, she will have the opportunity to engage in interdisciplinary projects at the interface of science and society. Read Charité's press release [here](https://www.charite.de/forschung/themen_forschung/2024/lisa_buchauer_ist_mitglied_der_jungen_akademie/).
+
 __April 18th 2024__
 Welcome [Alice](https://libuchauer.github.io/team), who is joining us for a lab rotation as part of her master's in Health IT Engineering in Grenoble.
 
