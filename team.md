@@ -80,7 +80,7 @@ order: 2
 |                                                                                             | 
 |:--------------------------------------------------------------------------------------------| 
 | Mae Covacevich Vidalle                                                                      |
-| Role in the lab: Lab rotation student (M. Sc. Molecular Medicine, Charité), 04/2024-08/2024 |
+| Role in the lab: Lab rotation student (M. Sc. Molecular Medicine, Charité), 03/2024-07/2024 |
 | Previously: B. Sc. Biochemistry (Fort Worth, Texas, USA)                                    |
 
 |                                                                                                        |
