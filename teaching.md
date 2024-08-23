@@ -15,7 +15,7 @@ order: 4
 | Registration: Please send an email to lisa.buchauer@charite.de and you will receive exact dates as well as an MS Teams link. Please see also [the listing in the list of doctoral courses](https://intranet.charite.de/studium_lehre/promotionskurse/kurs/promotionskurse_detail/data_analysis_and_computational_methods_in_immunology/) for information on awarded ECTS (Charité doctoral students only).                                                                                                                                         |
 
 
-### Past Courses
+### Past/Future Courses
 
 For Charité doctoral students: If you are interested in one of the courses listed below and did not have the opportunity to participate previously, you are welcome to [email me](mailto:lisa.buchauer@charite.de) and express your interest. If there is enough interest, courses will be offered again.
 

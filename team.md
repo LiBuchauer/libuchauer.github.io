@@ -14,25 +14,6 @@ order: 2
 | Previously: see [CV](https://libuchauer.github.io/CV/)                            |
 
 
-| <img style="width:9em" src="images/Mae_square.jpeg" align="center"> | 
-|:--------------------------------------------------------------------| 
-| Mae Covacevich Vidalle                                              |
-| [email](mailto:mae.covacevich-vidalle@charite.de)                   |
-| _Lab rotation student (M. Sc. Molecular Medicine, Charité)_         |
-| Previously: B. Sc. Biochemistry (Fort Worth, Texas, USA)            |
-| Research interests: infectious diseases, immune responses           |
-
-
-
-| <img style="width:9em" src="images/Alice_square.jpeg" align="center">           | 
-|:--------------------------------------------------------------------------------| 
-| Alice Leclaire                                                                  |
-| [email](mailto:alice.leclaire@charite.de)                                       |
-| _Lab rotation student (M.Sc. Health IT Engineering, Polytech Grenoble, France)_ |
-| Previously: Preparation in Physics and Chemistry (Polytech Grenoble)            |
-| Research interests: web app development for single cell immune data exploration |
-
-
 
 | <img style="width:9em" src="images/Georgios_square.jpeg" align="center">                                       | 
 |:---------------------------------------------------------------------------------------------------------------| 
@@ -51,6 +32,22 @@ order: 2
 | Previously: M.Sc. Bioinformatics (Tübingen), B.Sc. Integrated Life Science (Erlangen-Nürnberg) |
 | Research interests: computational cytometry, cross-modality data integration, explainable ML   |
 
+
+| <img style="width:9em" src="images/Ani_square.jpeg" align="center">                                | 
+|:---------------------------------------------------------------------------------------------------| 
+| Ani Shubitidze                                                                                     |
+| [email](mailto:ani.shubitidze@charite.de)                                                          |
+| _Lab rotation student (M. Sc. Molecular Medicine, Charité)_                                        |
+| Previously: B. Sc. Biology (HU Berlin)                                                             |
+| Research interests: deconvolution of host blood RNA-Seq data in the context of infectious diseases |
+
+| <img style="width:9em" src="images/Victor_square.jpeg" align="center">                                                  | 
+|:------------------------------------------------------------------------------------------------------------------------| 
+| Victor Sikora                                                                                                           |
+| [email](mailto:victor.sikora@bih-charite.de)                                                                            |
+| _PhD student_                                                                                                           |
+| Previously: M. Sc. Bioinformatics (FU Berlin), B. Sc. Biochemistry (FU Berlin)                                          |
+| Research interests: biomedical data science, immune response to vaccination, mechanistic insights from single-cell data |
 
 
 | <img style="width:9em" src="images/Jonathan_square.jpeg" align="center">                 | 
@@ -80,3 +77,17 @@ order: 2
 | Liliia Khadeeva                                                                                                        |
 | Role in the lab: Research project associate, 12/2023 - 05/2024                                                         |
 | Previously: M.Sc. Mathematical Modeling and Computer Science (Moscow), B.Sc. Applied Mathematics and Informatics (Ufa) |
+
+
+|                                                                                             | 
+|:--------------------------------------------------------------------------------------------| 
+| Mae Covacevich Vidalle                                                                      |
+| Role in the lab: Lab rotation student (M. Sc. Molecular Medicine, Charité), 04/2024-08/2024 |
+| Previously: B. Sc. Biochemistry (Fort Worth, Texas, USA)                                    |
+
+
+|                                                                                                                 | 
+|:----------------------------------------------------------------------------------------------------------------| 
+| Alice Leclaire                                                                                                  |
+| Role in the lab: Lab rotation student (M.Sc. Health IT Engineering, Polytech Grenoble, France), 04/2024-08/2024 |
+| Previously: Preparation in Physics and Chemistry (Polytech Grenoble)                                            |
