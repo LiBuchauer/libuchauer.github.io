@@ -33,7 +33,7 @@ order: 2
 | Research interests: computational cytometry, cross-modality data integration, explainable ML   |
 
 
-| <img style="width:9em" src="images/Ani_square.jpeg" align="center">                                | 
+| <img style="width:9em" src="images/Ani_square.png" align="center">                                 | 
 |:---------------------------------------------------------------------------------------------------| 
 | Ani Shubitidze                                                                                     |
 | [email](mailto:ani.shubitidze@charite.de)                                                          |
@@ -41,7 +41,7 @@ order: 2
 | Previously: B. Sc. Biology (HU Berlin)                                                             |
 | Research interests: deconvolution of host blood RNA-Seq data in the context of infectious diseases |
 
-| <img style="width:9em" src="images/Victor_square.jpeg" align="center">                                                  | 
+| <img style="width:9em" src="images/Victor_square.jpg" align="center">                                                   | 
 |:------------------------------------------------------------------------------------------------------------------------| 
 | Victor Sikora                                                                                                           |
 | [email](mailto:victor.sikora@bih-charite.de)                                                                            |
@@ -71,13 +71,11 @@ order: 2
 
 ### Past group members
 
-
-|                                                                                                        |
-|:-----------------------------------------------------------------------------------------------------------------------| 
-| Liliia Khadeeva                                                                                                        |
-| Role in the lab: Research project associate, 12/2023 - 05/2024                                                         |
-| Previously: M.Sc. Mathematical Modeling and Computer Science (Moscow), B.Sc. Applied Mathematics and Informatics (Ufa) |
-
+|                                                                                                                 | 
+|:----------------------------------------------------------------------------------------------------------------| 
+| Alice Leclaire                                                                                                  |
+| Role in the lab: Lab rotation student (M.Sc. Health IT Engineering, Polytech Grenoble, France), 04/2024-08/2024 |
+| Previously: Preparation in Physics and Chemistry (Polytech Grenoble)                                            |
 
 |                                                                                             | 
 |:--------------------------------------------------------------------------------------------| 
@@ -85,9 +83,8 @@ order: 2
 | Role in the lab: Lab rotation student (M. Sc. Molecular Medicine, Charité), 04/2024-08/2024 |
 | Previously: B. Sc. Biochemistry (Fort Worth, Texas, USA)                                    |
 
-
-|                                                                                                                 | 
-|:----------------------------------------------------------------------------------------------------------------| 
-| Alice Leclaire                                                                                                  |
-| Role in the lab: Lab rotation student (M.Sc. Health IT Engineering, Polytech Grenoble, France), 04/2024-08/2024 |
-| Previously: Preparation in Physics and Chemistry (Polytech Grenoble)                                            |
+|                                                                                                        |
+|:-----------------------------------------------------------------------------------------------------------------------| 
+| Liliia Khadeeva                                                                                                        |
+| Role in the lab: Research project associate, 12/2023 - 05/2024                                                         |
+| Previously: M.Sc. Mathematical Modeling and Computer Science (Moscow), B.Sc. Applied Mathematics and Informatics (Ufa) |
