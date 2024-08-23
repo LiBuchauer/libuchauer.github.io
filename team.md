@@ -33,7 +33,7 @@ order: 2
 | Research interests: computational cytometry, cross-modality data integration, explainable ML   |
 
 
-| <img style="width:9em" src="images/Ani_square.png" align="center">                                 | 
+| <img style="width:9em" src="images/Ani_square.jpeg" align="center">                                | 
 |:---------------------------------------------------------------------------------------------------| 
 | Ani Shubitidze                                                                                     |
 | [email](mailto:ani.shubitidze@charite.de)                                                          |
