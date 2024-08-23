@@ -9,7 +9,7 @@ order: 3
 If you are interested in learning more about the group, we invite you to get in touch. While prior experience with computational biology is a plus, the most important requirement is motivation!
 
 #### Bachelor's theses, Master's theses, MD theses, lab rotation projects, internships
-If you are interested in doing any of the above in my lab, I will be happy to hear from you to discuss your interests and currently available project options. Please reach out to me with your CV at [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de).
+If you are interested in doing any of the above in my lab, I will be happy to hear from you to discuss your interests and currently available project options. Please reach out to me __with your CV and transcript of records__ at [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de). 
 
 #### PhD & PostDoc
 
