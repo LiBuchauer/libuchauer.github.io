@@ -14,6 +14,8 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__August 19th 2024__
+Welcome [Ani](https://libuchauer.github.io/team), who is joining us for a lab rotation as part of her M. Sc. studies in Molecular Medicine!
 
 __June 24th 2024__
 [Lisa]((https://libuchauer.github.io/team)) was admitted to the ["Junge Akademie"](https://www.diejungeakademie.de/en/press/zehn-neue-mitglieder-in-junge-akademie-aufgenommen), the German academy for Early Career Researchers supported by the Berlin-Brandenburg Academy of Sciences (BBAW) and the German National Academy of Sciences Leopoldina. For five years, she will have the opportunity to engage in interdisciplinary projects at the interface of science and society. Read Charité's press release [here](https://www.charite.de/forschung/themen_forschung/2024/lisa_buchauer_ist_mitglied_der_jungen_akademie/).
