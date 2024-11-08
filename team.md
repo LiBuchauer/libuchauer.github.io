@@ -59,17 +59,14 @@ order: 2
 | Research interests: transcriptomics of the immune system, infectious disease diagnostics |
 
 
-
-| <img style="width:9em" src="images/Elton_square.png" align="center">  | 
-|:----------------------------------------------------------------------| 
-| Elton Ugbogu                                                          |
-| [email](mailto:chukwuemeka.ugbogu@charite.de)                         |
-| _Lab rotation student (M. Sc. Bioinformatics, University of Potsdam)_ |
-| Previously: B. Sc Microbiology (Obafemi Awolowo University, Nigeria)  |
-| Research interests: Flow cytometry data analysis, machine learning    |
-
-
 ### Past group members
+
+
+|                                                                                                       | 
+|:------------------------------------------------------------------------------------------------------| 
+| Elton Ugbogu                                                                                          |
+| Role in the lab: Lab rotation student (M. Sc. Bioinformatics, University of Potsdam), 04/2024-09/2024 |
+| Previously: B. Sc Microbiology (Obafemi Awolowo University, Nigeria)                                  |
 
 |                                                                                                                 | 
 |:----------------------------------------------------------------------------------------------------------------| 
