@@ -10,7 +10,8 @@ If you are interested in learning more about the group, we invite you to get in 
 
 #### Current openings
 
-[MD (Dr. med.) thesis project](https://libuchauer.github.io/MD24)
+[MD (Dr. med.) thesis project](https://libuchauer.github.io/MD24)  
+
 [M. Sc. thesis project](https://libuchauer.github.io/MSc2412)
 
 #### Bachelor's theses, Master's theses, MD theses, lab rotation projects, internships

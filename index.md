@@ -15,7 +15,7 @@ In computational method development, our primary objective is to create tools th
 
 ### News
 __December 12th 2024__
-We are currently recruiting an MD thesis student as well as an master's thesis student for exciting projects in single-cell chronobiology. Learn more [here](https://libuchauer.github.io/join)
+We are currently recruiting an MD thesis student as well as an master's thesis student for exciting projects in single-cell chronobiology. Learn more [here](https://libuchauer.github.io/join).
 
 __August 19th 2024__
 Welcome [Ani](https://libuchauer.github.io/team), who is joining us for a lab rotation as part of her M. Sc. studies in Molecular Medicine!
