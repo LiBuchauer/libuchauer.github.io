@@ -33,14 +33,6 @@ order: 2
 | Research interests: computational cytometry, cross-modality data integration, explainable ML   |
 
 
-| <img style="width:9em" src="images/Ani_square.jpeg" align="center">                                | 
-|:---------------------------------------------------------------------------------------------------| 
-| Ani Shubitidze                                                                                     |
-| [email](mailto:ani.shubitidze@charite.de)                                                          |
-| _Lab rotation student (M. Sc. Molecular Medicine, Charité)_                                        |
-| Previously: B. Sc. Biology (HU Berlin)                                                             |
-| Research interests: deconvolution of host blood RNA-Seq data in the context of infectious diseases |
-
 | <img style="width:9em" src="images/Victor_square.jpg" align="center">                                                   | 
 |:------------------------------------------------------------------------------------------------------------------------| 
 | Victor Sikora                                                                                                           |
@@ -61,6 +53,12 @@ order: 2
 
 ### Past group members
 
+
+|                                                                                                    | 
+|:---------------------------------------------------------------------------------------------------| 
+| Ani Shubitidze                                                                                     |
+| Role in the lab: Lab rotation student (M. Sc. Molecular Medicine, Charité)                         |
+| Previously: B. Sc. Biology (HU Berlin)                                                             |
 
 |                                                                                                       | 
 |:------------------------------------------------------------------------------------------------------| 
