@@ -16,12 +16,14 @@ In computational method development, our primary objective is to create tools th
 ### News
 __January 18th 2025__
 As a member of the [Young Academy](https://www.diejungeakademie.de), Lisa participated in the BBAW's scientific new year's reception, the [Salon Sophie Charlotte](https://salon.bbaw.de/start). This year's event was themed "Metamorphoses", and the members of the Young Academy invited visitors to engange with their research via a specially designed card game, [MetaMonster](https://diejungeakademie.de/de/projekte/salon-sophie-charlotte/salon-sophie-charlotte-2025). 
-<img style="width:12em" src="images/Metamonster.png" align="center">
-
+  
+<img style="width:15em" src="images/Metamonster.png" align="center">
+  
 __January 17th 2025__
 Congratulations to George, who successfully defended his master's thesis entitled "High-resolution reconstruction of circadian gene expression profiles from sparse single-cell data" as part of his studies in Molecular Medicine! First graduate from the lab :-)
-<img style="width:12em" src="images/George_defense.jpeg" align="center">
-
+  
+<img style="width:15em" src="images/George_defense.jpeg" align="center">
+  
 __August 19th 2024__
 Welcome [Ani](https://libuchauer.github.io/team), who is joining us for a lab rotation as part of her M. Sc. studies in Molecular Medicine!
 
