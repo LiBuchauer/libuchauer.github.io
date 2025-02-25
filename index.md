@@ -14,6 +14,9 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__February 1st 2025__
+Welcome [Ishminder](https://libuchauer.github.io/team), who is joining us for his master's thesis in Molecular Medicine!
+
 __January 18th 2025__
 As a member of the [Young Academy](https://www.diejungeakademie.de), Lisa participated in the BBAW's scientific new year's reception, the [Salon Sophie Charlotte](https://salon.bbaw.de/start). This year's event was themed "Metamorphoses", and the members of the Young Academy invited visitors to engange with their research via a specially designed card game, [MetaMonster](https://diejungeakademie.de/de/projekte/salon-sophie-charlotte/salon-sophie-charlotte-2025). 
   

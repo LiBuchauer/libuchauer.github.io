@@ -14,6 +14,14 @@ order: 2
 | Previously: see [CV](https://libuchauer.github.io/CV/)                            |
 
 
+| <img style="width:9em" src="images/Ish_square.png" align="center">                                                                     | 
+|:---------------------------------------------------------------------------------------------------------------------------------------| 
+| Ishminder Singh Dhamrait                                                                                                               |
+| [email](mailto:ishminder-singh.dhamrait@charite.de)                                                                                    |
+| _Master's thesis researcher (M.Sc. Molecular Medicine, Charité)_                                                                       |
+| Previously: B.Sc. Biomedical Sciences (Leeds Beckett University, UK)                                                                   |
+| Research interests: Circadian regulation of immune responses, host-pathogen interactions, and cancer; single-cell transcriptomics data |
+
 
 | <img style="width:9em" src="images/Georgios_square.jpeg" align="center">                                       | 
 |:---------------------------------------------------------------------------------------------------------------| 
