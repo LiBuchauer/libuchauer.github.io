@@ -14,7 +14,7 @@ order: 2
 | Previously: see [CV](https://libuchauer.github.io/CV/)                            |
 
 
-| <img style="width:9em" src="images/Roberta_square.jpeg" align="center">                  | 
+| <img style="width:9em" src="images/Roberta_square.png" align="center">                   | 
 |:-----------------------------------------------------------------------------------------| 
 | Roberta Colapietro                                                                       |
 |                                                                                          |
