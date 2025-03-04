@@ -14,6 +14,9 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__August 19th 2024__
+Welcome [Roberta](https://libuchauer.github.io/team), who is joining us for her MD thesis research!
+
 __February 1st 2025__
 Welcome [Ishminder](https://libuchauer.github.io/team), who is joining us for his master's thesis in Molecular Medicine!
 

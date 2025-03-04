@@ -5,6 +5,9 @@ order: 6
 ---
 
 ### Buchauer Lab News Archive 
+__August 19th 2024__
+Welcome [Roberta](https://libuchauer.github.io/team), who is joining us for her MD thesis research!
+
 __February 1st 2025__
 Welcome [Ishminder](https://libuchauer.github.io/team), who is joining us for his master's thesis in Molecular Medicine!
 

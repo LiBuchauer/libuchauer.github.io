@@ -14,6 +14,14 @@ order: 2
 | Previously: see [CV](https://libuchauer.github.io/CV/)                            |
 
 
+| <img style="width:9em" src="images/Roberta_square.jpeg" align="center">                  | 
+|:-----------------------------------------------------------------------------------------| 
+| Roberta Colapietro                                                                       |
+|                                                                                          |
+| _MD student (Medicine, Charité)_                                                         |
+| Previously: Medicine (University of Pavia, Italy)                                        |
+| Research interests: Computational biomedicine, chronobiology, cancer biology, metabolism |
+
 | <img style="width:9em" src="images/Ish_square.png" align="center">                                                                     | 
 |:---------------------------------------------------------------------------------------------------------------------------------------| 
 | Ishminder Singh Dhamrait                                                                                                               |
