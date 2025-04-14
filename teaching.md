@@ -30,7 +30,7 @@ If you want to register for the workshop, please send the following information 
 3. Description of the analysis framework you are using (e.g. Seurat, scanpy) and outline of the main steps included in your pipeline
 4. Current challenges or motivation for joining the workshop
 
-Admitted students will receive the MS Teams link. Please see also [the listing in the list of doctoral courses](https://intranet.charite.de/studium_lehre/promotionskurse/) for information on awarded ECTS (Charité doctoral students only).
+Admitted students will receive the MS Teams link. Please see also [the listing in the list of doctoral courses]([https://intranet.charite.de/studium_lehre/promotionskurse/](https://intranet.charite.de/studium_lehre/promotionskurse/kurs/promotionskurse_detail/single_cell_data_analysis_roundtable/)) for information on awarded ECTS (Charité doctoral students only).
 ### Ongoing Courses
 
 | __Journal Club: Data Analysis and Computational Methods in Immunology__                                                                                                                                                                                                                                                                                                                                                                                                                                            |
