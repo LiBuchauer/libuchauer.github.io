@@ -10,7 +10,7 @@ order: 4
 
 _for Charité MD / MD/PhD / PhD students and postdocs_
 
-**Next occurence:** 28.04.2025, 05.05.2025, 19.05.2025, 26.05.2025, 02.06.2025, Monday from 15:00-17:00 on MS Teams
+**Next occurence:** 28.04.2025, 05.05.2025, 19.05.2025, 26.05.2025, 02.06.2025, Monday from __15:00-17:00__ (this is the correct time, the Charité Intranet time is incorrect) on MS Teams
 
 **Description:**  
 The seminar is intended for pre- and postdoctoral researchers analysing single-cell omics data (scRNA-Seq, scVDJ-Seq, CITE-Seq etc.) as part of their research projects who are facing challenges or uncertainties during the process. It specifically welcomes those without a formal background in bioinformatics who are analysing single cell data with the help of online tutorials, possibly for the first time, and want to touch base on their analysis choices. The course consists of 5 units which are divded into (i) a lecture part providing background on specific parts of single-cell data analysis and (ii) a roundtable part during which participants present their projects with a focus on current challenges and questions. Participants will receive input from the instructor as well as suggestions from their peers. The lecture part covers the following topics: 
