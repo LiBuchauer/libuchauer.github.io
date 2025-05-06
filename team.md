@@ -31,15 +31,6 @@ order: 2
 | Research interests: Circadian regulation of immune responses, host-pathogen interactions, and cancer; single-cell transcriptomics data |
 
 
-| <img style="width:9em" src="images/Georgios_square.jpeg" align="center">                                       | 
-|:---------------------------------------------------------------------------------------------------------------| 
-| Georgios Megalovasilis                                                                                         |
-| [email](mailto:georgios.megalovasilis@charite.de)                                                              |
-| _Master's thesis researcher (M.Sc. Molecular Medicine, Charité)_                                               |
-| Previously: B. Sc. Biology (University of Patras, Greece)                                                      |
-| Research interests: circadian medicine, single-cell transcriptomics analysis, computational method development |
-
-
 | <img style="width:9em" src="images/Mark_square.jpg" align="center">                            | 
 |:-----------------------------------------------------------------------------------------------| 
 | Mark Melzer                                                                                    |
@@ -68,6 +59,13 @@ order: 2
 
 
 ### Past group members
+
+|                                                                                                                | 
+|:---------------------------------------------------------------------------------------------------------------| 
+| Georgios Megalovasilis                                                                                         |
+|                                                                                                                |
+| Role in the lab: Master's thesis researcher (M.Sc. Molecular Medicine, Charité)                                |
+| Previously: B. Sc. Biology (University of Patras, Greece)                                                      |
 
 
 |                                                                                                    | 
