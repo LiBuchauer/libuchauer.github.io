@@ -21,7 +21,7 @@ We went on a group excursion hiking along Wannsee and crossing to the Peacock Is
 
 __May 13th 2025__
 ... and Roberta won the ISCO 2025 jury's poster prize!
-<img style="width:9em" src="images/ISCO_posterprize.jpeg" align="center">
+<img style="width:15em" src="images/ISCO_posterprize.jpeg" align="center">
 
 __May 12th 2025__
 We attended the Innovations in Single-Cell Omics conference in Berlin where Jonathan, Roberta and Mark&Constantin presented their work on posters.
