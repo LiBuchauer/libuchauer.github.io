@@ -24,7 +24,7 @@ __May 13th 2025__
 <img style="width:15em" src="images/ISCO_posterprize.jpeg" align="center">
 
 __May 12th 2025__
-We attended the Innovations in Single-Cell Omics conference in Berlin where Jonathan, Roberta and Mark&Constantin presented their work on posters.
+We attended the Innovations in Single-Cell Omics conference in Berlin where Jonathan, Roberta and Mark&Constantin presented their work on posters...
 <img style="width:15em" src="images/ISCO_jonathan.jpeg" align="center">
 <img style="width:15em" src="images/ISCO_roberta.jpeg" align="center">
 <img style="width:15em" src="images/ISCO_mark.jpeg" align="center">
