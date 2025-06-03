@@ -63,7 +63,6 @@ order: 2
 |                                                                                                                | 
 |:---------------------------------------------------------------------------------------------------------------| 
 | Georgios Megalovasilis                                                                                         |
-|                                                                                                                |
 | Role in the lab: Master's thesis researcher (M.Sc. Molecular Medicine, Charité)                                |
 | Previously: B. Sc. Biology (University of Patras, Greece)                                                      |
 
