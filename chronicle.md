@@ -5,11 +5,6 @@ order: 6
 ---
 
 ### Buchauer Lab News Archive 
-__March 2nd 2025__
-Welcome [Roberta](https://libuchauer.github.io/team), who is joining us for her MD thesis research!
-
-__February 1st 2025__
-Welcome [Ishminder](https://libuchauer.github.io/team), who is joining us for his master's thesis in Molecular Medicine!
 
 __January 18th 2025__
 As a member of the [Young Academy](https://www.diejungeakademie.de), Lisa participated in the BBAW's scientific new year's reception, the [Salon Sophie Charlotte](https://salon.bbaw.de/start). This year's event was themed "Metamorphoses", and the members of the Young Academy invited visitors to engange with their research via a specially designed card game, [MetaMonster](https://diejungeakademie.de/de/projekte/salon-sophie-charlotte/salon-sophie-charlotte-2025). 
