@@ -73,10 +73,4 @@ The seminar is intended for pre- and postdoctoral researchers analysing single-c
 **Requirements:**  
 Participants need to have a single cell omics data set that has been processed to the count matrix stage (i.e. cell by gene matrix, not raw data such as FASTQ files) at the beginning of the seminar and need to be actively working on the analysis of that data.
 
-**Registration:**  
-If you want to register for the workshop, please send the following information to lisa.buchauer@charite.de by April 21st:
-1. 2-4 sentence description of your research project
-2. Description of your single cell dataset (which omics type, which experimental platform (e.g. 10x genomics), how many cells, other relevant information)
-3. Description of the analysis framework you are using (e.g. Seurat, scanpy) and outline of the main steps included in your pipeline
-4. Current challenges or motivation for joining the workshop
 
