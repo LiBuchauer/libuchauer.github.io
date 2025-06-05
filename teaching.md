@@ -34,9 +34,10 @@ Participants need to be available on all course days and bring a laptop on which
 
 **Registration:**  
 To register for the course, please send the following information to lisa.buchauer@charite.de by 31st of August 2025:
-(1) Which programming environment do you want to use during the course (R/Seurat or python/scanpy)?
-(2) Short description of prior experience with programming/bioinformatics, if any  
-(3) Short description of your research project and how single-cell RNA-Seq plays a role there (2 sentences are sufficient).  
+
+- Which programming environment do you want to use during the course (R/Seurat or python/scanpy)?
+- Short description of prior experience with programming/bioinformatics, if any  
+- Short description of your research project and how single-cell RNA-Seq plays a role there (2 sentences are sufficient).  
 
 The course is limited to 16 participants and spots will be distributed on a first-come-first-serve basis.
 
