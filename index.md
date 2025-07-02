@@ -16,10 +16,17 @@ In computational method development, our primary objective is to create tools th
 ### News
 __July 2nd 2025__ We are currently recruiting a computational postdoc to join the infrastructure project of a newly funded large research consortium (SFB-TRR) on Circadian Medicine! See [the joint job posting for all consortium projects](https://www.circadianmedicine.de/) and apply by August 8th. We are looking for independent, detail-oriented individuals that want to make a difference for the entire consortium by constructing high-quality data assets and innovative computational omics methods with a circadian twist. We offer the opportunity to work part-time (0.75FTE or more). Please reach out to [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de) with questions. Prior experience with the Berlin computational ecosystem is considered a plus.
 <img style="width:15em" src="images/circmedlogo.svg" align="center">
+
+__June 28th 2025__
+Lab members Mark, Jonathan and Lisa, together with departmental friends Lara and Josua, participated in Charité's Long Night of Science and explained the immune system to an estimated 70 kids and their parents. Quite exhausting, but also very rewarding!
+<img style="width:15em" src="images/table_action.png" align="center">
+<img style="width:15em" src="images/quizzes.png" align="center">
+
 __May 20th 2025__
 We went on a group excursion hiking along Wannsee and crossing to the Peacock Island where we had a delicious picnic :-)
 <img style="width:15em" src="images/pfaueninsel.jpeg" align="center">
 <img style="width:15em" src="images/wannsee.png" align="center">
+
 
 __May 13th 2025__
 ... and Roberta won the ISCO 2025 jury's poster prize!
