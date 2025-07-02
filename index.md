@@ -14,6 +14,8 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__July 2nd 2025__ We are currently recruiting a postdoc to join the infrastructure project of a newly funded large research consortium (SFB-TRR) on Circadian Medicine! See [the joint job posting for all consortium projects](https://www.circadianmedicine.de/) and apply by August 8th.
+<img style="width:15em" src="images/circmedlogo.svg" align="center">
 __May 20th 2025__
 We went on a group excursion hiking along Wannsee and crossing to the Peacock Island where we had a delicious picnic :-)
 <img style="width:15em" src="images/pfaueninsel.jpeg" align="center">
@@ -24,7 +26,7 @@ __May 13th 2025__
 <img style="width:15em" src="images/ISCO_posterprize.jpeg" align="center">
 
 __May 12th 2025__
-We attended the Innovations in Single-Cell Omics conference in Berlin where Jonathan, Roberta and Mark&Constantin presented their work on posters...
+We attended the Innovations in Single-Cell Omics conference in Berlin where Jonathan, Roberta and Mark & Constantin presented their work on posters...
 <img style="width:15em" src="images/ISCO_jonathan.jpeg" align="center">
 <img style="width:15em" src="images/ISCO_roberta.jpeg" align="center">
 <img style="width:15em" src="images/ISCO_mark.jpeg" align="center">
