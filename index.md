@@ -14,8 +14,8 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
-__July 2nd 2025__ We are currently recruiting a computational postdoc to join the infrastructure project of a newly funded large research consortium (SFB-TRR) on Circadian Medicine! See [the joint job posting for all consortium projects](https://www.circadianmedicine.de/) and apply by August 8th. We are looking for independent, detail-oriented individuals that want to make a difference for the entire consortium by constructing high-quality data assets and innovative computational omics methods with a circadian twist. We offer the opportunity to work part-time (0.75FTE or more). Please reach out to [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de) with questions. Prior experience with the Berlin computational ecosystem is considered a plus.
-<img style="width:15em" src="images/circmedlogo.svg" align="center">
+__August 1st 2025__
+Welcome [Iman](https://libuchauer.github.io/team), who is joining us for a lab rotation!
 
 __June 28th 2025__
 Lab members Mark, Jonathan and Lisa, together with departmental friends Lara and Josua, participated in Charité's Long Night of Science and explained the immune system to an estimated 70 kids and their parents. Quite exhausting, but also very rewarding! Meanwhile, Roberta participated in the Science Slam where she talked about circadian single cell research.
