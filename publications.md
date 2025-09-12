@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Publications
 order: 5
@@ -6,7 +6,7 @@ order: 5
 
 {% for pub in site.data.publist %}
 
-  {{ pub.title }} <br />
+  **{{ pub.title }}** <br />
   <small>
   {{ pub.authors }}<br />
   </small>
