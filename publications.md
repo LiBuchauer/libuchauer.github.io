@@ -8,7 +8,7 @@ order: 5
 
   **{{ pub.title }}** <br />
   <small>
-  {{ pub.authors }}<br />
+  {{ pub.authors | markdownify }}<br />
   </small>
   {{ pub.journal }} ({{ pub.year }})
 {% if pub.links.arxiv %}[<i class="ai ai-arxiv"></i>]({{ pub.links.arxiv }}){% endif %}{% if pub.links.doi %}[<i class="ai ai-doi"></i>]({{ pub.links.doi }}){% endif %}{% if pub.links.pdf %}[<i class="ai ai-open-access"></i>]({{ pub.links.pdf }}){% endif %}{% if pub.links.github %}[<i class="fa fa-github"></i>]({{ pub.links.github }}){% endif %}
