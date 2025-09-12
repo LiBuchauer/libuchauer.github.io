@@ -22,14 +22,6 @@ order: 2
 | Previously: Medicine (University of Pavia, Italy)                                        |
 | Research interests: Computational biomedicine, chronobiology, cancer biology, metabolism |
 
-| <img style="width:9em" src="images/Ish_square.png" align="center">                                                                     | 
-|:---------------------------------------------------------------------------------------------------------------------------------------| 
-| Ishminder Singh Dhamrait                                                                                                               |
-| [email](mailto:ishminder-singh.dhamrait@charite.de)                                                                                    |
-| _Master's thesis researcher (M.Sc. Molecular Medicine, Charité)_                                                                       |
-| Previously: B.Sc. Biomedical Sciences (Leeds Beckett University, UK)                                                                   |
-| Research interests: Circadian regulation of immune responses, host-pathogen interactions, and cancer; single-cell transcriptomics data |
-
 
 | <img style="width:9em" src="images/Mark_square.jpg" align="center">                            | 
 |:-----------------------------------------------------------------------------------------------| 
@@ -38,6 +30,15 @@ order: 2
 | _PhD student_                                                                                  |
 | Previously: M.Sc. Bioinformatics (Tübingen), B.Sc. Integrated Life Science (Erlangen-Nürnberg) |
 | Research interests: computational cytometry, cross-modality data integration, explainable ML   |
+
+
+| <img style="width:9em" src="images/iman.png" align="center">                            | 
+|:-----------------------------------------------------------------------------------------------| 
+| Iman Oudria                                                                                    |
+| [email](mailto:iman.oudria@charite.de)                                                         |
+| _lab rotation student (M.Sc. Molecular Medicine, Charité)_                                                                                  |
+| Previously: B.Sc. Molecular Medicine (Tübingen)|
+| Research interests: computational biology, regenerative bioengineering (hiPSCs, Organoids)   |
 
 
 | <img style="width:9em" src="images/Victor_square.jpg" align="center">                                                   | 
@@ -59,6 +60,13 @@ order: 2
 
 
 ### Past group members
+
+|                                                              | 
+|:---------------------------------------------------------------------------------------------------------------------------------------| 
+| Ishminder Singh Dhamrait                                                                                                               |
+| [email](mailto:ishminder-singh.dhamrait@charite.de)                                                                                    |
+| Role in the lab: Master's thesis researcher (M.Sc. Molecular Medicine, Charité)                                                        |
+| Previously: B.Sc. Biomedical Sciences (Leeds Beckett University, UK)                                                                   |
 
 |                                                                                                                | 
 |:---------------------------------------------------------------------------------------------------------------| 
