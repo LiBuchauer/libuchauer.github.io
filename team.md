@@ -64,7 +64,6 @@ order: 2
 |                                                              | 
 |:---------------------------------------------------------------------------------------------------------------------------------------| 
 | Ishminder Singh Dhamrait                                                                                                               |
-| [email](mailto:ishminder-singh.dhamrait@charite.de)                                                                                    |
 | Role in the lab: Master's thesis researcher (M.Sc. Molecular Medicine, Charité)                                                        |
 | Previously: B.Sc. Biomedical Sciences (Leeds Beckett University, UK)                                                                   |
 
