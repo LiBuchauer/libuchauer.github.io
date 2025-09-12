@@ -1,3 +1,11 @@
+- authors: R. Scheck, **M. Melzer**, G. Gladkov, A. R. Ward, D. B. Reeves, N. Perkins, T. T. Huynh, D. K. McMahon, R. J. Bosch, B. J. Macatangay, J. C. Cyktor, J. J. Eron, J. W. Mellors, R. T. Gandhi, **L. Buchauer**, R. B. Jones, C. Gaebler
+  title: "Q4ddPCR (May the Fourth Be Precise): A Flexible, 4-Target Assay for High-Resolution HIV Reservoir Profiling"
+  journal: bioRxiv
+  year: 2025
+  links:
+      doi: https://doi.org/10.1101/2025.07.28.667202
+      github: https://github.com/buchauer-lab/Q4ddPCR_Analysis
+
 - authors: L. Buchauer and S. Itzkovitz
   title: "cellanneal: A user-friendly deconvolution software for transcriptomics data"
   journal: Journal of Open Source Software
