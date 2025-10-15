@@ -14,6 +14,8 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__October 15th 2025__
+Welcome [Aristotelis](https://libuchauer.github.io/team), who is joining us as a postdoc as a part of the [Circadian Medicine CRC](https://libuchauer.github.io/team).
 __August 1st 2025__
 Welcome [Iman](https://libuchauer.github.io/team), who is joining us for a lab rotation!
 
