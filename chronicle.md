@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab Chronicle
-order: 6
+order: 7
 ---
 
 ### Buchauer Lab News Archive 
