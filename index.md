@@ -15,7 +15,11 @@ In computational method development, our primary objective is to create tools th
 
 ### News
 __October 15th 2025__
-Welcome [Aristotelis](https://libuchauer.github.io/team), who is joining us as a postdoc as a part of the [Circadian Medicine CRC](https://libuchauer.github.io/team).
+Welcome [Aristotelis](https://libuchauer.github.io/team), who is joining us as a postdoc as a part of the [Circadian Medicine CRC](https://libuchauer.github.io/team).  
+
+__September 26th 2025__
+We finished teaching our new course Single-Cell Data Analysis for Beginners to 16 Charité doctoral students and scientists for the first time and received overall very positive reviews! The course was developed jointly with Anika Neuschulz from BIH and the [course materials](https://buchauer-lab.github.io/charite-sc-data-course/) are available online.  
+
 __August 1st 2025__
 Welcome [Iman](https://libuchauer.github.io/team), who is joining us for a lab rotation!
 
