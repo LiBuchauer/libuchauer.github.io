@@ -18,8 +18,9 @@ order: 4
 
 #### __Single-Cell Data Analysis Course for Beginners (together with Anika Neuschulz)__
 
-_for Charité MD / MD/PhD / PhD students, postdocs and interested scientific staff_
+_for Charité MD / MD/PhD / PhD students, postdocs and interested scientific staff_ 
 
+__The [material is available online](https://buchauer-lab.github.io/charite-sc-data-course/) and is suitable for self study. If you are interested in this course, please drop us a line so that we can gauge interest and potentially schedule the next iteration.__
 Last conducted 22nd to 26th of September, 2025
 
 **Description:**  
