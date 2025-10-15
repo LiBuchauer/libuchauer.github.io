@@ -4,13 +4,23 @@ title: Teaching
 order: 4
 ---
 
-### Upcoming Courses
+### Ongoing Courses
+
+| __Journal Club: Data Analysis and Computational Methods in Immunology__                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| _for Charité M.Sc. / MD / MD/PhD / PhD students, postdocs and interested staff_                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ongoing throughout the year, biweekly on Thursdays at 2pm,  Südring 2 (CVK) and on MS Teams                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Participants present current publications covering computational methods and data analysis approaches in immunology and infectious diseases (e.g. omics data, flow cytometry data, clinical data). Papers with biomedical rather than computational focus can also be presented if they contain interesting data analysis concepts. Each participant presents a paper of their choice in a presentation of ~45 minutes which should also include relevant background and participants' own evaluation of the work. |
+| Requirements: None, anyone interested in the topic is welcome to join                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Registration: Please send an email to lisa.buchauer@charite.de and you will receive exact dates as well as an MS Teams link. Please see also [the listing in the list of doctoral courses](https://intranet.charite.de/studium_lehre/promotionskurse/kurs/promotionskurse_detail/data_analysis_and_computational_methods_in_immunology/) for information on awarded ECTS (Charité doctoral students only).                                                                                                                                         |
+
+### Past (and Future) courses
 
 #### __Single-Cell Data Analysis Course for Beginners (together with Anika Neuschulz)__
 
 _for Charité MD / MD/PhD / PhD students, postdocs and interested scientific staff_
 
-**Dates:** 22.09.2025 - 26.09.2025 from 9:30 am to 4 pm, on-site (partially CCM, partially CVK)
+Last conducted 22nd to 26th of September, 2025
 
 **Description:**  
 This one-week on-site course is intended for pre- and postdoctoral researchers as well as scientific staff members interested in getting started with single-cell RNA-Seq data analysis. The course specifically welcomes participants without any prior programming experience and includes introductory elements to python or R as well as dedicated time to set up the required environments on participants' laptops. During the course, we will cover the following topics:  
@@ -41,20 +51,6 @@ To register for the course, please send the following information to lisa.buchau
 
 The course is limited to 16 participants and spots will be distributed on a first-come-first-serve basis.
 
-Admitted students will receive room information. Please see also [the listing in the list of doctoral courses](https://intranet.charite.de/studium_lehre/promotionskurse) for information on awarded ECTS (Charité doctoral students only).
-
-
-### Ongoing Courses
-
-| __Journal Club: Data Analysis and Computational Methods in Immunology__                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| _for Charité M.Sc. / MD / MD/PhD / PhD students, postdocs and interested staff_                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ongoing throughout the year, biweekly on Thursdays at 2pm,  Südring 2 (CVK) and on MS Teams                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Participants present current publications covering computational methods and data analysis approaches in immunology and infectious diseases (e.g. omics data, flow cytometry data, clinical data). Papers with biomedical rather than computational focus can also be presented if they contain interesting data analysis concepts. Each participant presents a paper of their choice in a presentation of ~45 minutes which should also include relevant background and participants' own evaluation of the work. |
-| Requirements: None, anyone interested in the topic is welcome to join                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Registration: Please send an email to lisa.buchauer@charite.de and you will receive exact dates as well as an MS Teams link. Please see also [the listing in the list of doctoral courses](https://intranet.charite.de/studium_lehre/promotionskurse/kurs/promotionskurse_detail/data_analysis_and_computational_methods_in_immunology/) for information on awarded ECTS (Charité doctoral students only).                                                                                                                                         |
-
-### Past (and Future) courses
 
 #### __Single-Cell Data Analysis Lecture & Roundtable__
 
