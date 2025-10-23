@@ -35,7 +35,7 @@ order: 2
 | <img style="width:9em" src="images/Aristotelis_square.png" align="center">                                                                                                                                             | 
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | Aristotelis Misios                                                                                                                                                                                                     |
-| [email](mailto:mark.melzer@charite.de)                                                                                                                                                                                 |
+| [email](mailto:aristotelis.misios@charite.de)                                                                                                                                                                          |
 | _Postdoc_                                                                                                                                                                                                              |
 | Previously: Freelance bioinformatician, PhD Computational Biology (MDC Berlin), M. Sc. Bioinformatics and Systems Biology (Amsterdam), M.Sc. Logic, Algorithms and Computation (Athens), B. Sc. Mathematics (Ioannina) |
 | Research interests: Single-cell method development, mathematical modeling, ML applications in biomedicine                                                                                                              |
