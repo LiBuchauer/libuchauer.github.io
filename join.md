@@ -43,7 +43,7 @@ Desirable:
 We are looking for a curious, self-driven individual who enjoys interdisciplinary collaboration and is motivated to translate computational advances into clinical practice.
 
 #### How to apply
-Please send your motiviation letter and CV (including contacts of ideally two references) to [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de).
+Please send your motiviation letter, CV (including contacts of ideally two references) and master's certificate and/or current transcript to [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de).
 
 ### Recruiting a student assisstant (start early 2026)!
 We are looking for a student research assistant (studentische Hilfskraft) to join our team starting in February or March 2026 for a period of nine months at 40 hours per month.
