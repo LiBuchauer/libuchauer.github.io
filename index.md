@@ -29,6 +29,8 @@ Welcome [Mona](https://libuchauer.github.io/team), who is joining us for a lab r
 
 __November 13th 2025__
 Lisa had the opportunity to present our [Exit Game](https://libuchauer.github.io/resources) at an [Open Lab Evening of Futurium](https://futurium.de/de/open-lab-abend/open-lab-abend-zukunftsvisionen-der-wissenschaftskommunikation/open-lab-abend-zukunftsvisionen-der-wissenschaftskommunikation) in Berlin.
+<img style="width:15em" src="images/beck1.png" align="center">
+<img style="width:15em" src="images/illu_exit.png" align="center">
 
 __October 15th 2025__
 Welcome [Aristotelis](https://libuchauer.github.io/team), who is joining us as a postdoc as a part of the [Circadian Medicine CRC](https://libuchauer.github.io/team).  
