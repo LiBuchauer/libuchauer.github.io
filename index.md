@@ -14,6 +14,10 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__January 7th 2026__
+We are currently looking for a new PhD student in Machine Learning for Immunology together with the lab of Simon Haas as part of the new [Einstein Center for Early Disease Interception](https://www.einsteinfoundation.de/en/fellows-projects/einstein-centers/einstein-center-for-early-disease-interception). The desired start date is March or April 2026. Check out the [details](https://libuchauer.github.io/join) and apply!
+<img style="width:15em" src="images/logo_ECEDI.png" align="center">
+
 __December 18th 2025__
 Together with the Mittnenzweig lab from MDC-BIMSB, we gathered for our annual end of year party including a bonfire and Stockbrot. Happy new year to everyone!
 
