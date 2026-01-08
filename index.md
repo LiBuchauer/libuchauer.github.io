@@ -14,8 +14,17 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__December 18th 2025__
+Together with the Mittnenzweig lab from MDC-BIMSB, we gathered for our annual end of year party including a bonfire and Stockbrot. Happy new year to everyone!
+
 __December 12th 2025__
 We are currently recruiting a bioinformatics student assistant (40 hrs/month). For more details see [here](https://buchauer-lab.eu/join/).
+
+__November 17th 2025__
+Welcome [Mona](https://libuchauer.github.io/team), who is joining us for a lab rotation!
+
+__November 13th 2025__
+Lisa had the opportunity to present our [Exit Game](https://libuchauer.github.io/resources) at an [Open Lab Evening of Futurium](https://futurium.de/de/open-lab-abend/open-lab-abend-zukunftsvisionen-der-wissenschaftskommunikation/open-lab-abend-zukunftsvisionen-der-wissenschaftskommunikation) in Berlin.
 
 __October 15th 2025__
 Welcome [Aristotelis](https://libuchauer.github.io/team), who is joining us as a postdoc as a part of the [Circadian Medicine CRC](https://libuchauer.github.io/team).  
