@@ -49,15 +49,6 @@ order: 2
 | Research interests: computational biology, immunology, epigenetics                       |
 
 
-| <img style="width:9em" src="images/iman.png" align="center">                            |
-|:-----------------------------------------------------------------------------------------------|
-| Iman Oudria                                                                                    |
-| [email](mailto:iman.oudria@charite.de)                                                         |
-| _lab rotation student (M.Sc. Molecular Medicine, Charité)_                                                                                  |
-| Previously: B.Sc. Molecular Medicine (Tübingen)|
-| Research interests: computational biology, regenerative bioengineering (hiPSCs, Organoids)   |
-
-
 | <img style="width:9em" src="images/Victor_square.jpg" align="center">                                                   | 
 |:------------------------------------------------------------------------------------------------------------------------| 
 | Victor Sikora                                                                                                           |
@@ -78,8 +69,14 @@ order: 2
 
 ### Past group members
 
-|                                                              | 
-|:---------------------------------------------------------------------------------------------------------------------------------------| 
+|                                                                                          |
+|:-----------------------------------------------------------------------------------------|
+| Iman Oudria                                                                              |
+| Role in the lab: Lab rotation student (M.Sc. Molecular Medicine, Charité)                |
+| Previously: B.Sc. Molecular Medicine (Tübingen)                                          |
+
+|                                                              |
+|:---------------------------------------------------------------------------------------------------------------------------------------|
 | Ishminder Singh Dhamrait                                                                                                               |
 | Role in the lab: Master's thesis researcher (M.Sc. Molecular Medicine, Charité)                                                        |
 | Previously: B.Sc. Biomedical Sciences (Leeds Beckett University, UK)                                                                   |
