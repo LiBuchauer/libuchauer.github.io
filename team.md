@@ -18,7 +18,7 @@ order: 2
 |:-----------------------------------------------------------------------------------------| 
 | Roberta Colapietro                                                                       |
 | [email](mailto:roberta.colapietro@charite.de)                                                                                            |
-| _MD student (Medicine, Charité)_                                                         |
+| _PhD student_                                                                            |
 | Previously: Medicine (University of Pavia, Italy)                                        |
 | Research interests: Computational biomedicine, chronobiology, cancer biology, metabolism |
 
