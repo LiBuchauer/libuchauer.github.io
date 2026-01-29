@@ -72,26 +72,26 @@ order: 2
 |                                                                                          |
 |:-----------------------------------------------------------------------------------------|
 | Iman Oudria                                                                              |
-| Role in the lab: Lab rotation student (M.Sc. Molecular Medicine, Charité)                |
+| Role in the lab: Lab rotation student (M.Sc. Molecular Medicine, Charité), 08/2025-01/2026 |
 | Previously: B.Sc. Molecular Medicine (Tübingen)                                          |
 
 |                                                              |
 |:---------------------------------------------------------------------------------------------------------------------------------------|
 | Ishminder Singh Dhamrait                                                                                                               |
-| Role in the lab: Master's thesis researcher (M.Sc. Molecular Medicine, Charité)                                                        |
+| Role in the lab: Master's thesis researcher (M.Sc. Molecular Medicine, Charité), 02/2025-08/2025 |
 | Previously: B.Sc. Biomedical Sciences (Leeds Beckett University, UK)                                                                   |
 
 |                                                                                                                | 
 |:---------------------------------------------------------------------------------------------------------------| 
 | Georgios Megalovasilis                                                                                         |
-| Role in the lab: Master's thesis researcher (M.Sc. Molecular Medicine, Charité)                                |
+| Role in the lab: Master's thesis researcher (M.Sc. Molecular Medicine, Charité), 03/2024-12/2024               |
 | Previously: B. Sc. Biology (University of Patras, Greece)                                                      |
 
 
 |                                                                                                    | 
 |:---------------------------------------------------------------------------------------------------| 
 | Ani Shubitidze                                                                                     |
-| Role in the lab: Lab rotation student (M. Sc. Molecular Medicine, Charité)                         |
+| Role in the lab: Lab rotation student (M. Sc. Molecular Medicine, Charité), 08/2024-12/2024        |
 | Previously: B. Sc. Biology (HU Berlin)                                                             |
 
 |                                                                                                       | 
