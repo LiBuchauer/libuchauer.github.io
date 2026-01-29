@@ -41,8 +41,16 @@ order: 2
 | Research interests: Single-cell method development, mathematical modeling, ML applications in biomedicine                                                                                                              |
 
 
-| <img style="width:9em" src="images/iman.png" align="center">                            | 
-|:-----------------------------------------------------------------------------------------------| 
+| <img style="width:9em" src="images/Mona.jpg" align="center">                             |
+|:-----------------------------------------------------------------------------------------|
+| Mona Nehse                                                                               |
+| _intern student (M. Sc. Molecular Biology, HU)_                                          |
+| Previously: B. Sc. Biology (HU Berlin)                                                   |
+| Research interests: computational biology, immunology, epigenetics                       |
+
+
+| <img style="width:9em" src="images/iman.png" align="center">                            |
+|:-----------------------------------------------------------------------------------------------|
 | Iman Oudria                                                                                    |
 | [email](mailto:iman.oudria@charite.de)                                                         |
 | _lab rotation student (M.Sc. Molecular Medicine, Charité)_                                                                                  |
