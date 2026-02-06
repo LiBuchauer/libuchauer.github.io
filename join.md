@@ -43,7 +43,7 @@ Desirable:
 We are looking for a curious, self-driven individual who enjoys interdisciplinary collaboration and is motivated to translate computational advances into clinical practice.
 
 #### How to apply
-Please send your motiviation letter, CV (including contacts of ideally two references) and master's certificate and/or current transcript to [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de).
+Please apply via the Charité portal at [https://karriere.charite.de/stellenangebote/detail/6206](https://karriere.charite.de/stellenangebote/detail/6206) until 28th of February 2026.
 
 #### Bachelor's theses, Master's theses, MD theses, lab rotation projects, internships
 If you are interested in doing any of the above in my lab, I will be happy to hear from you to discuss your interests and currently available project options. Please reach out to me __with your CV, your transcript of records as well as one paragraph describing a previous research project of yours, ideally a computational one,__ at [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de). For bachelor's students without prior research experience, it is okay to describe a class project instead.
