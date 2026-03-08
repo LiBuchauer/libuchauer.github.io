@@ -56,6 +56,10 @@ Bachelor's thesis in the group of [Highly Charged Ion Dynamics](https://www.mpi-
 &nbsp;
 #### Honors and Awards
 
+2026: [Hochschulpreis](https://www.hochschulwettbewerb.net/2026/blog/die-gewinnerinnen-2026-stehen-fest/) in the German science year "Medicine of the Future", awarded to a team of PhD students from the department and myself for the outreach project "Purpurnägel - ein immunologisches Rätselabenteuer"
+
+2024-2029: Elected member of the [Junge Akademie](https://www.diejungeakademie.de/de/personen/lisa-buchauer), the German academy for Early Career Researchers supported by the Berlin-Brandenburg Academy of Sciences (BBAW) and the German National Academy of Sciences Leopoldina
+
 2020-2021: Postdoctoral fellow of the [European Molecular Biology Organization (EMBO)](https://www.embo.org/funding-awards/fellowships/postdoctoral-fellowships)
 
 2018-2019: Phd-to-Postdoc fellow of the [German-Israeli Helmholtz International Research School](https://www.dkfz.de/en/phd-program/GIHRS_TRAX.html)
