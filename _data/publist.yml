@@ -1,3 +1,11 @@
+- authors: A. Löwa, M. Budt, A. Balázs, <u>V. Sikora</u>, <u>M. Melzer</u>, T. Rubil, A. E. Pfeiffer, M. Fischer, M. Mieth, K. Hellwig, E. Wyler, D. G. Diel, M. Tönnies, T. T. Bauer, M. Graff, J. Neudecker, J.-C. Rückert, M. A. Mall, A. D. Gruber, M. Landthaler, <u>L. Buchauer</u>, S. Hippenstiel, T. Wolff, A. C. Hocke
+  title: "Clade 2.3.4.4b H5N1 influenza A virus exhibits high infectivity in human respiratory tract models"
+  journal: Journal of Infection
+  year: 2026
+  links:
+      doi: https://doi.org/10.1016/j.jinf.2026.106722
+      github: https://github.com/buchauer-lab/H5N1bRisk
+
 - authors: R. Scheck, <u>M. Melzer</u>, G. Gladkov, L. Leyre, A. R. Ward, D. B. Reeves, N. Perkins, T. T. Huynh, D. K. McMahon, R. J. Bosch, B. J. Macatangay, J. C. Cyktor, J. J. Eron, J. W. Mellors, R. T. Gandhi, <u>L. Buchauer</u>, R. B. Jones, C. Gaebler
   title: "Q4ddPCR: a flexible, 4-target assay for high-resolution HIV reservoir profiling"
   journal: Nature Communications
