@@ -14,6 +14,9 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__March 19th 2026__
+We are happy to have contributed software and analyses to two recent [publications](https://libuchauer.github.io/publications) in infectious diseases, one on HIV reservoir detection lead by the [Gaebler lab](https://www.gaebler-lab.com/) and one on infectivity of emerging variants of H5N1 influenza viruses lead by the [Hocke lab](https://infektiologie-pneumologie.charite.de/hocke_group).
+
 __March 5th 2026__
 We are thrilled that our outreach project ["Purpurnägel - ein immunologisches Rätselabenteuer"](https://www.hochschulwettbewerb.net/2026/blog/die-gewinnerinnen-2026-stehen-fest/) has received an outreach award as part of the German science year "Medicine of the Future"! This will allow us to further develop our [prototype](https://libuchauer.github.io/resources) into a boxed escape game.
 
