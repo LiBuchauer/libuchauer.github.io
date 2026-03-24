@@ -6,6 +6,9 @@ order: 7
 
 ### Buchauer Lab News Archive
 
+__March 16th 2026__
+Welcome [Mohammad](https://libuchauer.github.io/team), who has joined us as a student assistant and will help with curation and processing of omics data for the TRR 418 "Foundations of Circadian Medicine"!
+
 __June 28th 2025__
 Lab members Mark, Jonathan and Lisa, together with departmental friends Lara and Josua, participated in Charité's Long Night of Science and explained the immune system to an estimated 70 kids and their parents. Quite exhausting, but also very rewarding! Meanwhile, Roberta participated in the Science Slam where she talked about circadian single cell research.
 <img style="width:15em" src="images/table_action1.png" align="center">

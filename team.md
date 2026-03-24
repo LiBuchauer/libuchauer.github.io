@@ -49,6 +49,15 @@ order: 2
 | Research interests: computational biology, immunology, epigenetics                       |
 
 
+| <img style="width:9em" src="images/Mohammad.png" align="center">                              |
+|:-----------------------------------------------------------------------------------------------|
+| Mohammad Niazi                                                                                 |
+| [email](mailto:mohammad.niazi-talkhouncheh@charite.de)                                         |
+| _Student research assistant (M. Sc. Molecular Medicine, Charité)_                              |
+| Previously: B. Sc. Cell and Molecular Biology (IAUN, Iran)                                     |
+| Research interests: Computational Genomics, Immunogenetics, Precision Oncology                 |
+
+
 | <img style="width:9em" src="images/Victor_square.jpg" align="center">                                                   | 
 |:------------------------------------------------------------------------------------------------------------------------| 
 | Victor Sikora                                                                                                           |
