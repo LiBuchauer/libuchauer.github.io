@@ -6,6 +6,9 @@ order: 3
 ### Join us
 If you are interested in learning more about the group, we invite you to get in touch.
 
+#### MSc thesis opportunity
+We are looking for a Master's thesis student from bioinformatics or a related field for a project involving single-cell transcriptomics data analysis, variational autoencoder architectures and batch correction methodology. Interested individuals should send their CV, transcript of records and a short statement of motivation including a description of a previous computational project to [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de) until April 15th, 2026.
+
 #### Bachelor's theses, Master's theses, MD theses, lab rotation projects, internships
 If you are interested in doing any of the above in my lab, I will be happy to hear from you to discuss your interests and currently available project options. Please reach out to me __with your CV, your transcript of records as well as one paragraph describing a previous research project of yours, ideally a computational one,__ at [lisa.buchauer@charite.de](mailto:lisa.buchauer@charite.de). For bachelor's students without prior research experience, it is okay to describe a class project instead.
 
