@@ -6,8 +6,28 @@ order: 7
 
 ### Buchauer Lab News Archive
 
-__March 16th 2026__
-Welcome [Mohammad](https://libuchauer.github.io/team), who has joined us as a student assistant and will help with curation and processing of omics data for the TRR 418 "Foundations of Circadian Medicine"!
+__December 18th 2025__
+Together with the Mittnenzweig lab from MDC-BIMSB, we gathered for our annual end of year party including a bonfire and Stockbrot. Happy new year to everyone!
+
+__December 12th 2025__
+We are currently recruiting a bioinformatics student assistant (40 hrs/month). For more details see [here](https://buchauer-lab.eu/join/).
+
+__November 17th 2025__
+Welcome [Mona](https://libuchauer.github.io/team), who is joining us for a lab rotation!
+
+__November 13th 2025__
+Lisa had the opportunity to present our [Exit Game](https://libuchauer.github.io/resources) at an [Open Lab Evening of Futurium](https://futurium.de/de/open-lab-abend/open-lab-abend-zukunftsvisionen-der-wissenschaftskommunikation/open-lab-abend-zukunftsvisionen-der-wissenschaftskommunikation) in Berlin.
+<img style="width:15em" src="images/beck1.png" align="center">
+<img style="width:15em" src="images/illu_exit.png" align="center">
+
+__October 15th 2025__
+Welcome [Aristotelis](https://libuchauer.github.io/team), who is joining us as a postdoc as a part of the [Circadian Medicine CRC](https://libuchauer.github.io/team).
+
+__September 26th 2025__
+We finished teaching our new course Single-Cell Data Analysis for Beginners to 16 Charité doctoral students and scientists for the first time and received overall very positive reviews! The course was developed jointly with Anika Neuschulz from BIH and the [course materials](https://buchauer-lab.github.io/charite-sc-data-course/) are available online.
+
+__August 1st 2025__
+Welcome [Iman](https://libuchauer.github.io/team), who is joining us for a lab rotation!
 
 __June 28th 2025__
 Lab members Mark, Jonathan and Lisa, together with departmental friends Lara and Josua, participated in Charité's Long Night of Science and explained the immune system to an estimated 70 kids and their parents. Quite exhausting, but also very rewarding! Meanwhile, Roberta participated in the Science Slam where she talked about circadian single cell research.
