@@ -20,6 +20,8 @@ order: 4
 
 _for Charité MD / MD/PhD / PhD students, postdocs and interested scientific staff_
 
+__The course will take place from 14th to 18th of September 2026. Please visit the [course website](https://buchauer-lab.github.io/charite-sc-data-course/) for more information.__
+
 **Description:**  
 This one-week on-site course is intended for pre- and postdoctoral researchers as well as scientific staff members interested in getting started with single-cell RNA-Seq data analysis. The course specifically welcomes participants without any prior programming experience and includes introductory elements to python or R as well as dedicated time to set up the required environments on participants' laptops. During the course, we will cover the following topics:  
 
