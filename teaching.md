@@ -14,14 +14,11 @@ order: 4
 | Requirements: None, anyone interested in the topic is welcome to join                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Registration: Please send an email to lisa.buchauer@charite.de and you will receive exact dates as well as an MS Teams link. Please see also [the listing in the list of doctoral courses](https://intranet.charite.de/studium_lehre/promotionskurse/kurs/promotionskurse_detail/data_analysis_and_computational_methods_in_immunology/) for information on awarded ECTS (Charité doctoral students only).                                                                                                                                         |
 
-### Past (and Future) courses
+### Upcoming Courses
 
 #### __Single-Cell Data Analysis Course for Beginners (together with Anika Neuschulz)__
 
-_for Charité MD / MD/PhD / PhD students, postdocs and interested scientific staff_ 
-
-__The [material is available online](https://buchauer-lab.github.io/charite-sc-data-course/) and is suitable for self study. If you are interested in this course, please drop us a line so that we can gauge interest and potentially schedule the next iteration.__
-Last conducted 22nd to 26th of September, 2025
+_for Charité MD / MD/PhD / PhD students, postdocs and interested scientific staff_
 
 **Description:**  
 This one-week on-site course is intended for pre- and postdoctoral researchers as well as scientific staff members interested in getting started with single-cell RNA-Seq data analysis. The course specifically welcomes participants without any prior programming experience and includes introductory elements to python or R as well as dedicated time to set up the required environments on participants' laptops. During the course, we will cover the following topics:  
@@ -43,15 +40,11 @@ Participants will be provided with practice data sets and time will be allocated
 Participants need to be available on all course days and bring a laptop on which you have user permissions to install software (specifically, this might not be the case for some centrally administrated Charité devices). The course will be held in English.
 
 
-**Registration:**  
-To register for the course, please send the following information to lisa.buchauer@charite.de by 31st of August 2025:
+**Further information:**  
+Please visit the [course website](https://buchauer-lab.github.io/charite-sc-data-course/) for more information.
 
-- Which programming environment do you want to use during the course (R/Seurat or python/scanpy)?
-- Short description of prior experience with programming/bioinformatics, if any  
-- Short description of your research project and how single-cell RNA-Seq plays a role there (2 sentences are sufficient).  
 
-The course is limited to 16 participants and spots will be distributed on a first-come-first-serve basis.
-
+### Past courses
 
 #### __Single-Cell Data Analysis Lecture & Roundtable__
 
