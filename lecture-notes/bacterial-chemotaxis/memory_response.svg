@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 750 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M70,40L650,40" style="fill:none;fill-rule:nonzero;stroke:rgb(229,229,229);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M70,88L650,88" style="fill:none;fill-rule:nonzero;stroke:rgb(229,229,229);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M70,136L650,136" style="fill:none;fill-rule:nonzero;stroke:rgb(229,229,229);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M70,184L650,184" style="fill:none;fill-rule:nonzero;stroke:rgb(229,229,229);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M70,232L650,232" style="fill:none;fill-rule:nonzero;stroke:rgb(229,229,229);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M70,280L650,280" style="fill:none;fill-rule:nonzero;stroke:rgb(229,229,229);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M195,40L195,280" style="fill:none;fill-rule:nonzero;stroke:rgb(102,102,102);stroke-width:2px;stroke-dasharray:6,6;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,236,52)">
+        <text x="-18.679px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(102,102,102);">Low L</text>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M495,40L495,280" style="fill:none;fill-rule:nonzero;stroke:rgb(102,102,102);stroke-width:2px;stroke-dasharray:6,6;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,536,52)">
+        <text x="-20.234px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(102,102,102);">High L</text>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M345,40L345,280" style="fill:none;fill-rule:nonzero;stroke:rgb(217,83,79);stroke-width:2.5px;stroke-dasharray:8,4;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,386,52)">
+        <g transform="matrix(16,0,0,16,54.6797,0)">
+        </g>
+        <text x="-54.68px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:16px;fill:rgb(217,83,79);">Intermediate L</text>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M70,280L650,280" style="fill:none;fill-rule:nonzero;stroke:rgb(51,51,51);stroke-width:2.5px;stroke-linecap:round;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M70,280L70,40" style="fill:none;fill-rule:nonzero;stroke:rgb(51,51,51);stroke-width:2.5px;stroke-linecap:round;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,91,307)">
+        <text x="-19.462px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(102,102,102);">0.0</text>
+    </g>
+    <g transform="matrix(1,0,0,1,91,259)">
+        <text x="-19.462px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(102,102,102);">0.2</text>
+    </g>
+    <g transform="matrix(1,0,0,1,91,211)">
+        <text x="-19.462px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(102,102,102);">0.4</text>
+    </g>
+    <g transform="matrix(1,0,0,1,91,163)">
+        <text x="-19.462px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(102,102,102);">0.6</text>
+    </g>
+    <g transform="matrix(1,0,0,1,91,115)">
+        <text x="-19.462px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(102,102,102);">0.8</text>
+    </g>
+    <g transform="matrix(1,0,0,1,91,67)">
+        <text x="-19.462px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(102,102,102);">1.0</text>
+    </g>
+    <g transform="matrix(1,0,0,1,401,362)">
+        <text x="-95.102px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:16px;fill:rgb(51,51,51);">Ligand Concentration [L]</text>
+    </g>
+    <g transform="matrix(-3.82857e-16,-1,1,-3.82857e-16,56,182)">
+        <text x="-42.227px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:16px;fill:rgb(51,51,51);">Activity (A)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M70,41C150,41 184.123,137.49 195,160C207.951,186.802 260,275 345,277L650,279" style="fill:none;fill-rule:nonzero;stroke:rgb(139,191,159);stroke-width:6px;stroke-linecap:round;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <path d="M70,41L345,43C440,45 484.1,137.501 495,160C506.047,182.803 560,279 650,279" style="fill:none;fill-rule:nonzero;stroke:rgb(44,76,59);stroke-width:6px;stroke-linecap:round;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <circle cx="345" cy="277" r="7" style="fill:rgb(139,191,159);stroke:white;stroke-width:2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,41,22)">
+        <circle cx="345" cy="43" r="7" style="fill:rgb(44,76,59);stroke:white;stroke-width:2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,223.618,178.663)">
+        <text x="-70.393px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;fill:rgb(139,191,159);">Cell 1</text>
+        <text x="-101.756px" y="14px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;fill:rgb(139,191,159);">(Low L<tspan x="-56.906px -53.016px " y="14px 14px "> h</tspan>istory)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,595.309,232.129)">
+        <text x="32.918px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;fill:rgb(44,76,59);">Cell 2</text>
+        <text x="0px" y="14px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;fill:rgb(44,76,59);">(High L<tspan x="47.961px 51.851px " y="14px 14px "> h</tspan>istory)</text>
+    </g>
+</svg>

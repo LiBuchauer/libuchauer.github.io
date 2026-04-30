@@ -140,3 +140,43 @@ The brilliance of the Barkai-Leibler model is revealed in that final equation. N
 This works precisely because CheB is constrained to demethylate **only the active receptors $$T_m^*$$**. That asymmetry closes a negative feedback loop: $$T_m^*$$ — the very output we want to regulate — is also the substrate that sets the rate at which methyl groups are stripped, so any rise in activity automatically accelerates the process that returns it to baseline. Had CheB demethylated all methylated receptors indiscriminately, the demethylation rate would no longer track activity, and the steady state would once again depend on ligand concentration. The seemingly arbitrary substrate specificity of CheB is therefore the structural origin of exact adaptation.
 
 The number of active receptors at steady state thus depends entirely on biochemical constants (the rate constants $$\rho$$ and $$\beta$$, the Michaelis constant $$K$$) and the total numbers of the CheR and CheB enzymes inside the cell. Because the steady-state activity is decoupled from $$L$$, the mathematical model perfectly mirrors the experimental observation: the cell's tumbling frequency will always return to the exact same set point, regardless of how much attractant is in the surrounding environment.
+
+### Memory in Action: Generating the Biased Random Walk
+
+We have established that the steady-state activity of the receptor network is independent of the attractant concentration. However, the physical makeup of the receptors required to achieve that steady state is entirely dependent on the environment. To maintain a constant level of active receptors ($$T_m^*$$), a cell in a high-ligand environment must build up a massive buffer of inactive methylated receptors ($$T_m$$), while a cell in a low-ligand environment requires very few.
+
+This means the cell's current methylation level physically encodes its history. We can visualize how this historical memory influences immediate behavior by observing two cells entering the exact same intermediate concentration ($$L_\text{int}$$) from two different backgrounds.
+
+#### The Box Model: Translating History into Behavior
+
+Imagine two cells, Cell 1 and Cell 2, that have fully adapted to their respective environments.
+
+- **Cell 1** is coming from a region of low attractant. To maintain baseline activity, it requires very little methylation.
+- **Cell 2** is coming from a region of high attractant. It is heavily methylated to counteract the suppressive effect of the abundant ligand.
+
+When both cells suddenly swim into the exact same intermediate concentration ($$L_\text{int}$$), the ligand binding equilibrates almost instantly (within milliseconds), but their methylation levels remain temporarily "frozen" at their historical states.
+
+<figure>
+  <img src="boxplot.svg" alt="Box-model schematic showing how receptors in two cells partition into methylated/active/inactive pools, with fast ligand-driven changes and slow methylation-driven changes">
+  <figcaption>The box model. Each box represents the receptor population of a cell. The <strong>red horizontal line</strong> marks the methylation level — the fraction of receptors that carry methyl groups (\(T_m + T_m^*\)) — and the <strong>black horizontal lines</strong> mark how those methylated receptors split into inactive (\(T_m\)) and active (\(T_m^*\)) pools by ligand binding. The black lines can shift within milliseconds because ligand binding is fast, whereas the red line only moves on the timescale of tens of seconds, since it requires CheR or CheB to add or remove methyl groups. Cell 1 (low-ligand history) holds a small methylated pool; Cell 2 (high-ligand history) holds a large one. When both encounter the same intermediate concentration \(L_\text{int}\), the black lines snap to the new ligand-driven equilibrium immediately, but the red line lags — leaving Cell 1 with too little active receptor and Cell 2 with too much, until slow methylation catches up.</figcaption>
+</figure>
+
+- **Cell 1 (climbing the gradient):** For Cell 1, concentration $$L_\text{int}$$ is a sudden increase in food. The influx of ligand instantly forces receptors into the inactive state. Because the cell lacks the historical methylation to counteract this, the active pool ($$T_m^*$$) shrinks drastically. Tumbling is suppressed, and the cell is locked into a long, smooth run up the gradient.
+- **Cell 2 (falling down the gradient):** For Cell 2, concentration $$L_\text{int}$$ is a sudden drop in food. Ligands unbind, freeing the receptors. Because the cell is still burdened with heavy historical methylation, the receptors are forced strongly into the active state. The active pool ($$T_m^*$$) expands massively. The cell immediately aborts its run and begins to tumble, effectively stopping its descent.
+
+Over the next few seconds, the slow-acting CheR and CheB enzymes will update the memory, adding or removing methyl groups until both cells arrive at the exact same adapted state for concentration $$L_\text{int}$$.
+
+#### The Response Curves
+
+We can map this exact dynamic onto the receptor activity functions (the Hill curves). The slow methylation process effectively shifts the receptor's sensitivity curve along the concentration axis.
+
+<figure>
+  <img src="memory_response.svg" alt="Receptor activity vs. ligand concentration for two cells with different methylation histories">
+  <figcaption>Receptor activity as a function of ligand concentration for cells with different methylation histories. Cell 1, with low methylation, has its response curve shifted far to the left; Cell 2, heavily methylated, has its curve shifted far to the right. At the shared intermediate concentration \(L_\text{int}\) (vertical dashed line), Cell 1's curve sits near zero activity — the cell suppresses tumbling and embarks on a long run — while Cell 2's curve sits near maximum activity, triggering an immediate tumble. Over the following seconds, methylation slowly drifts each curve toward its adapted position for \(L_\text{int}\), and the activity of both cells converges back to the common set point.</figcaption>
+</figure>
+
+Because Cell 1 has low methylation, its sensitivity curve is shifted far to the left; it requires very little ligand to shut off. Because Cell 2 has high methylation, its curve is shifted far to the right; it takes a massive amount of ligand to suppress its activity.
+
+When we draw a vertical line representing our intermediate concentration $$L_\text{int}$$, we can see exactly why the two cells behave differently. At concentration $$L_\text{int}$$, Cell 1's curve sits near zero activity (triggering a run), while Cell 2's curve sits near maximum activity (triggering a tumble).
+
+Through this elegant separation of timescales — fast ligand binding and slow methylation — the bacterium's internal biochemistry generates a transient memory lag. This lag systematically stretches runs moving in a favorable direction and shortens runs moving in an unfavorable direction, successfully allowing a 2-micrometer cell to navigate a macroscopic world.
