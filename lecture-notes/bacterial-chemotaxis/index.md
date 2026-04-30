@@ -4,7 +4,7 @@ title: Lecture notes on bacterial chemotaxis
 math: true
 ---
 
-*This script was generated from bullet-point lecture notes using Claude Opus, and the figures were generated from hand-drawn drafts using Gemini Pro.*
+*This full-text lecture script was generated from bullet points using Claude Opus and checked for accuracy. The figures were generated from hand-drawn drafts using Gemini Pro.*
 
 ## Modeling Signal Transduction in Bacterial Chemotaxis
 
