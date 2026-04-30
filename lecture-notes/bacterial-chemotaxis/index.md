@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lecture notes on bacterial chemotaxis
+math: true
 ---
 
 ## Modeling Signal Transduction in Bacterial Chemotaxis
@@ -32,7 +33,7 @@ To act on this temporal information, *E. coli* must physically move. The bacteri
 
 In a homogeneous environment with no chemical gradients, *E. coli* alternates continuously between these two states (typically running for about 1 second and tumbling for 0.1 seconds), executing a purely stochastic random walk. After each tumble, the bacterium faces a new, random direction for its next run.
 
-However, when a nutrient gradient is present, the bacterium modulates this behavior. If the cell senses that the attractant concentration is increasing over time (meaning it is swimming up the gradient), it actively suppresses the tumbling frequency (*f*<sub>tumble</sub> goes down). By tumbling less when moving in a favorable direction, the cell extends its productive runs. This simple suppression transforms the standard random walk into a biased random walk, allowing the bacterial population to gradually drift toward the food source.
+However, when a nutrient gradient is present, the bacterium modulates this behavior. If the cell senses that the attractant concentration is increasing over time (meaning it is swimming up the gradient), it actively suppresses the tumbling frequency ($f_{\text{tumble}}$ goes down). By tumbling less when moving in a favorable direction, the cell extends its productive runs. This simple suppression transforms the standard random walk into a biased random walk, allowing the bacterial population to gradually drift toward the food source.
 
 ### Inside the Cell: The (simplified!) signaling network
 
