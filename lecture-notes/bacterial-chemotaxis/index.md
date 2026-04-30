@@ -50,3 +50,27 @@ By connecting these components, we can understand the cell's baseline logic:
 - **With attractant:** Ligand binding shifts the receptors into the inactive state, halting the production of CheY-P. Without CheY-P to trigger clockwise rotation, the motors maintain their default counter-clockwise state, suppressing tumbling and extending the cell's runs.
 
 Through this relatively simple pathway, the bacterium successfully translates the extracellular ligand concentration into a direct, mechanical behavioral output (tumbling frequency).
+
+### The Phenomenon of Exact Adaptation
+
+If we only consider the basic receptor-to-motor signaling pathway, we might expect that a sudden, permanent increase in attractant concentration would lead to a permanent decrease in tumbling frequency. However, experimental observations reveal a much more sophisticated dynamic.
+
+![Tumbling frequency response to a step in ligand concentration, showing exact adaptation](adaptation.svg)
+
+When *E. coli* is exposed to a sudden step-increase in ligand concentration, the tumbling frequency (and the concentration of CheY-P) drops incredibly fast — within approximately 200 microseconds. But rather than staying at this new, low level, the tumbling frequency slowly recovers over the next several minutes, eventually returning to the exact same baseline value it had before the attractant was added. This occurs even though the bacterium remains in the higher food concentration.
+
+A similar but inverted process happens if the ligand concentration is suddenly reduced: the tumbling frequency immediately spikes, but mysteriously recovers back to the original baseline.
+
+This behavior is known as *exact adaptation*. It serves a critical evolutionary purpose: by constantly resetting its baseline activity, the cell ensures it never becomes blind or saturated in high-nutrient environments. Because the tumbling frequency always returns to its set point, the bacterium is always ready to respond to further increases or decreases in attractant.
+
+### Methylation: The Molecular Memory
+
+The mathematical necessity here is two-fold: *E. coli* must possess a memory mechanism to perform a biased random walk over time, and it must maintain a constant steady-state tumbling frequency irrespective of the absolute ligand concentration.
+
+The cell elegantly solves both problems using methyl-accepting receptors. In addition to binding ligands on the outside of the cell, these transmembrane receptors can be modified on the inside of the cell through the addition of methyl groups.
+
+These methyl groups act as molecular tuning dials that fundamentally change the excitability of the receptor. Adding a methyl group heavily biases the receptor toward the active state. If we compare the activity profiles of an unmethylated versus a methylated receptor, the addition of the methyl group shifts the response curve significantly to the right.
+
+![Receptor activity vs. ligand concentration for unmethylated and methylated receptors](response2.svg)
+
+Consequently, at an intermediate ligand concentration where an unmethylated receptor would be completely repressed (inactive), a heavily methylated receptor maintains a high level of activity, leading to more CheY-P production and more tumbling events. This dynamic chemical tagging is what physically stores the "memory" of the cell's recent environment.

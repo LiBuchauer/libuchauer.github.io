@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 600 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+<svg width="100%" height="100%" viewBox="0 0 750 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
     <path d="M70,40L70,280" style="fill:none;fill-rule:nonzero;stroke:rgb(229,229,229);stroke-width:1px;"/>
     <path d="M195,40L195,280" style="fill:none;fill-rule:nonzero;stroke:rgb(229,229,229);stroke-width:1px;"/>
     <path d="M320,40L320,280" style="fill:none;fill-rule:nonzero;stroke:rgb(229,229,229);stroke-width:1px;"/>
@@ -51,11 +51,18 @@
     <g transform="matrix(1,0,0,1,570,305)">
         <text x="-11.679px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(102,102,102);">100</text>
     </g>
-    <g transform="matrix(1,0,0,1.00084,0,-0.0344197)">
-        <path d="M70,41C150,41 185.942,136.718 195,160C206.732,190.156 240,279 320,279L570,279" style="fill:none;fill-rule:nonzero;stroke:rgb(139,191,159);stroke-width:6px;stroke-linecap:round;"/>
+    <path d="M70,41C150,41 185.852,136.734 195,160C205.898,187.716 240,279 320,279L570,279" style="fill:none;fill-rule:nonzero;stroke:rgb(139,191,159);stroke-width:6px;stroke-linecap:round;"/>
+    <path d="M70,41L320,41C400,41 434.4,137.358 445,160C458.204,188.205 490,279 570,279" style="fill:none;fill-rule:nonzero;stroke:rgb(44,76,59);stroke-width:6px;stroke-linecap:round;"/>
+    <g transform="matrix(1,0,0,1,435,120)">
+        <g transform="matrix(1,0,0,1,11.8253,-3.0914)">
+            <circle cx="0" cy="0" r="10" style="fill:rgb(217,83,79);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,5,1)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;fill:white;">m</text>
+        </g>
     </g>
     <g transform="matrix(1,0,0,1,320,340)">
-        <g transform="matrix(16,0,0,16,30.6641,0)">
+        <g transform="matrix(16,0,0,16,26.2188,0)">
         </g>
         <text x="-26.219px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:16px;fill:rgb(51,51,51);">Ligand</text>
     </g>
@@ -63,5 +70,33 @@
         <g transform="matrix(16,0,0,16,28.8984,0)">
         </g>
         <text x="-28.898px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:16px;fill:rgb(51,51,51);">Activity</text>
+    </g>
+    <g transform="matrix(1,0,0,1,650,120)">
+        <g transform="matrix(1,0,0,1,-11.8213,-58.6769)">
+            <path d="M-15,-30C-5,-16.667 0,-3.333 0,10L0,80" style="fill:none;fill-rule:nonzero;stroke:rgb(139,191,159);stroke-width:5px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-11.8213,-58.6769)">
+            <path d="M15,-30C5,-16.667 0,-3.333 0,10" style="fill:none;fill-rule:nonzero;stroke:rgb(139,191,159);stroke-width:5px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,650,260)">
+        <g transform="matrix(1,0,0,1,-11.8213,-58.6769)">
+            <path d="M-15,-30C-5,-16.667 0,-3.333 0,10L0,80" style="fill:none;fill-rule:nonzero;stroke:rgb(44,76,59);stroke-width:5px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-11.8213,-58.6769)">
+            <path d="M15,-30C5,-16.667 0,-3.333 0,10" style="fill:none;fill-rule:nonzero;stroke:rgb(44,76,59);stroke-width:5px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-11.8213,-58.6769)">
+            <path d="M0,35L20,35" style="fill:none;fill-rule:nonzero;stroke:rgb(44,76,59);stroke-width:3px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g transform="matrix(0.430213,-0.315906,0.591871,0.806033,-240.933,-160.048)">
+            <path d="M0,35L20,35" style="fill:none;fill-rule:nonzero;stroke:rgb(44,76,59);stroke-width:3px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-11.8213,-58.6769)">
+            <circle cx="30" cy="35" r="10" style="fill:rgb(217,83,79);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,12.1787,-18.6769)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;fill:white;">m</text>
+        </g>
     </g>
 </svg>
