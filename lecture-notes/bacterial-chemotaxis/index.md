@@ -180,3 +180,12 @@ Because Cell 1 has low methylation, its sensitivity curve is shifted far to the 
 When we draw a vertical line representing our intermediate concentration $$L_\text{int}$$, we can see exactly why the two cells behave differently. At concentration $$L_\text{int}$$, Cell 1's curve sits near zero activity (triggering a run), while Cell 2's curve sits near maximum activity (triggering a tumble).
 
 Through this elegant separation of timescales — fast ligand binding and slow methylation — the bacterium's internal biochemistry generates a transient memory lag. This lag systematically stretches runs moving in a favorable direction and shortens runs moving in an unfavorable direction, successfully allowing a 2-micrometer cell to navigate a macroscopic world.
+
+### Further Reading
+
+The following resources have shaped these notes and are warmly recommended for anyone who would like to go deeper:
+
+- Jeff Gore, [*Robustness and Bacterial Chemotaxis*](https://ocw.mit.edu/courses/8-591j-systems-biology-fall-2014/resources/robustness-and-bacterial-chemotaxis/) — lecture from MIT OCW 8.591J *Systems Biology* (Fall 2014).
+- Uri Alon, *An Introduction to Systems Biology: Design Principles of Biological Circuits*, 2nd edition, Chapman & Hall/CRC Mathematical and Computational Biology, CRC Press, Boca Raton, 2019, Chapter 7.
+- Jens Timmer, [*Design Principles of a Bacterial Signalling Network*](https://jeti.uni-freiburg.de/vorles_mathbio_sysbio/chemotaxis_bw.pdf) — lecture notes, University of Freiburg.
+- Howard Berg, [*Marvels of Bacterial Behavior*](https://www.youtube.com/watch?v=ioA1yuIA-t8) — lecture (YouTube).
