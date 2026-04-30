@@ -106,8 +106,6 @@ The system is governed by two opposing enzymes and a stark separation of timesca
 - **Ligand binding (fast):** Once methylated, the receptor can rapidly fluctuate between an inactive state ($$T_m$$) and an active state ($$T_m^*$$). As established earlier, the active state ($$T_m^*$$) leads to CheY phosphorylation and subsequent tumbling. The binding of an attractant ligand ($$L$$) rapidly shifts this equilibrium, forcing the receptors into the inactive $$T_m$$ state. This switching occurs on the order of milliseconds.
 - **Demethylation (slow):** A second enzyme, CheB, removes methyl groups from the receptors. However, in the Barkai-Leibler model, there is a strict rule: CheB only demethylates receptors that are currently in the active state ($$T_m^*$$). Both methylation and demethylation occur slowly, on the order of tens of seconds.
 
-Together, this constitutes a negative feedback loop: receptor activity $$T_m^*$$ drives its own demethylation through CheB, which in turn shrinks the pool of methylated receptors and pulls $$T_m^*$$ back down — so any rise in activity automatically triggers the process that suppresses it.
-
 <figure>
   <img src="Barkai_Leibler.svg" alt="Schematic of the Barkai-Leibler model: methylation by CheR, ligand-driven switching between T_m and T_m*, and active-state-only demethylation by CheB">
   <figcaption>The Barkai-Leibler model. CheR methylates receptors at a constant, saturated rate. The methylated receptor switches rapidly between an inactive state \(T_m\) and an active state \(T_m^*\), with ligand binding driving it toward \(T_m\). CheB demethylates only receptors in the active state \(T_m^*\).</figcaption>
@@ -137,8 +135,8 @@ $$
 T_{m,\mathrm{st}}^* = \frac{K \cdot \rho \cdot \mathrm{CheR}}{\beta \cdot \mathrm{CheB} - \rho \cdot \mathrm{CheR}}
 $$
 
-#### The Elegance of the Solution
-
 The brilliance of the Barkai-Leibler model is revealed in that final equation. Notice what variable is completely absent: the ligand concentration ($$L$$).
 
-The number of active receptors at steady state depends entirely on biochemical constants (the rate constants $$\rho$$ and $$\beta$$, the Michaelis constant $$K$$) and the total numbers of the CheR and CheB enzymes inside the cell. Because the steady-state activity is decoupled from $$L$$, the mathematical model perfectly mirrors the experimental observation: the cell's tumbling frequency will always return to the exact same set point, regardless of how much attractant is in the surrounding environment.
+This works precisely because CheB is constrained to demethylate **only the active receptors $$T_m^*$$**. That asymmetry closes a negative feedback loop: $$T_m^*$$ — the very output we want to regulate — is also the substrate that sets the rate at which methyl groups are stripped, so any rise in activity automatically accelerates the process that returns it to baseline. Had CheB demethylated all methylated receptors indiscriminately, the demethylation rate would no longer track activity, and the steady state would once again depend on ligand concentration. The seemingly arbitrary substrate specificity of CheB is therefore the structural origin of exact adaptation.
+
+The number of active receptors at steady state thus depends entirely on biochemical constants (the rate constants $$\rho$$ and $$\beta$$, the Michaelis constant $$K$$) and the total numbers of the CheR and CheB enzymes inside the cell. Because the steady-state activity is decoupled from $$L$$, the mathematical model perfectly mirrors the experimental observation: the cell's tumbling frequency will always return to the exact same set point, regardless of how much attractant is in the surrounding environment.
