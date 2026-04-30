@@ -96,7 +96,7 @@ Consequently, at an intermediate ligand concentration where an unmethylated rece
 
 ### The Barkai-Leibler Model of Exact Adaptation
 
-To understand how the dynamic addition and removal of methyl groups stores information and ensures a robust steady-state tumbling frequency, we can look to a famous mathematical model proposed by Naama Barkai and Stanislav Leibler in 1997.
+To understand how the dynamic addition and removal of methyl groups stores information and ensures a robust steady-state tumbling frequency, we can look to a [famous mathematical model proposed by Naama Barkai and Stanislav Leibler in 1997](https://www.nature.com/articles/43199).
 
 The Barkai-Leibler model isolates the core components of the chemotaxis network into a simplified system. In this model, we start with an unmethylated receptor ($$T$$). For simplicity, the model assumes the unmethylated receptor cannot easily enter the active state.
 
