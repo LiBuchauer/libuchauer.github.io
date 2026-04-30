@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(0.845284,0,0,1,41.1005,0)">
+        <path d="M400,276.793L400,423.207C400,493.186 332.787,550 250,550C167.213,550 100,493.186 100,423.207L100,276.793C100,206.814 167.213,150 250,150C332.787,150 400,206.814 400,276.793Z" style="fill:none;stroke:rgb(139,191,159);stroke-width:6px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,160,100)">
+        <path d="M-20,0C-6.667,20 0,36.667 0,50L0,170" style="fill:none;fill-rule:nonzero;stroke:rgb(44,76,59);stroke-width:5px;stroke-linecap:round;stroke-linejoin:round;"/>
+        <path d="M20,0C6.667,20 0,36.667 0,50" style="fill:none;fill-rule:nonzero;stroke:rgb(44,76,59);stroke-width:5px;stroke-linecap:round;stroke-linejoin:round;"/>
+        <g transform="matrix(1,0,0,1,23.6261,-4.99731)">
+            <circle cx="-25" cy="-5" r="12" style="fill:rgb(44,76,59);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,18.2643,161.428)">
+            <text x="0px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(51,51,51);">Inactive</text>
+        </g>
+        <g transform="matrix(1,0,0,1,40.8512,10.5962)">
+            <text x="0px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(51,51,51);">T<tspan x="8.039px 12.701px " y="0px 0px ">ra</tspan>nsmembrane</text>
+            <g transform="matrix(14,0,0,14,58.3584,14)">
+            </g>
+            <text x="0px" y="14px" style="font-family:'Helvetica';font-size:14px;fill:rgb(51,51,51);">receptors</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,340,100)">
+        <path d="M-20,0C-6.667,20 0,36.667 0,50L0,170" style="fill:none;fill-rule:nonzero;stroke:rgb(44,76,59);stroke-width:5px;stroke-linecap:round;stroke-linejoin:round;"/>
+        <path d="M20,0C6.667,20 0,36.667 0,50" style="fill:none;fill-rule:nonzero;stroke:rgb(44,76,59);stroke-width:5px;stroke-linecap:round;stroke-linejoin:round;"/>
+        <g transform="matrix(1,0,0,1,-27.6356,21.5517)">
+            <path d="M30,120L35,135L50,135L38,145L42,160L30,150L18,160L22,145L10,135L25,135L30,120Z" style="fill:rgb(217,83,79);fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-61.0253,164.545)">
+            <text x="0px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(217,83,79);">Active</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,28.0288,52.4561)">
+        <g transform="matrix(16,0,0,16,238.203,0)">
+        </g>
+        <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:16px;fill:rgb(51,51,51);">Input: Chemoattractant binding</text>
+    </g>
+    <g transform="matrix(1,0,0,1,117.964,174.004)">
+        <g transform="matrix(24,0,0,24,14.6602,0)">
+        </g>
+        <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:24px;fill:rgb(51,51,51);">T</text>
+    </g>
+    <g transform="matrix(1,0,0,1,362.894,171.502)">
+        <g transform="matrix(24,0,0,24,24,0)">
+        </g>
+        <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:24px;fill:rgb(51,51,51);">T*</text>
+    </g>
+    <g transform="matrix(1,0,0,1,250,320)">
+        <g transform="matrix(1,0,0,1,4.13699,15.3303)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:16px;fill:rgb(51,51,51);">CheY</text>
+        </g>
+        <g transform="matrix(1,0,0,1,34.137,10.3303)">
+            <path d="M15,0L35,0" style="fill:none;fill-rule:nonzero;stroke:rgb(51,51,51);stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,34.137,10.3303)">
+            <circle cx="45" cy="0" r="10" style="fill:none;stroke:rgb(51,51,51);stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,75.137,15.3303)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:16px;fill:rgb(51,51,51);">P</text>
+        </g>
+        <g transform="matrix(0.4368,-0.112917,0.26408,1.02154,46.6287,13.7367)">
+            <path d="M120,-40C93.333,-20 63.333,-8.333 30,-5" style="fill:none;fill-rule:nonzero;stroke:rgb(217,83,79);stroke-width:3px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1.11494,-5.7668,-45.3418)">
+        <path d="M260,350C246.667,383.333 243.333,416.667 250,450C256.667,483.333 253.333,500 240,500" style="fill:none;fill-rule:nonzero;stroke:rgb(51,51,51);stroke-width:3px;stroke-dasharray:6,6;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,250,550)">
+        <ellipse cx="0" cy="0" rx="40" ry="15" style="fill:none;stroke:rgb(44,76,59);stroke-width:5px;"/>
+        <rect x="-35" y="0" width="70" height="20" style="fill:white;stroke:rgb(44,76,59);stroke-width:5px;"/>
+        <ellipse cx="0" cy="20" rx="35" ry="10" style="fill:none;stroke:rgb(44,76,59);stroke-width:5px;"/>
+    </g>
+    <path d="M250,570C236.667,590 240,610 260,630C280,650 273.333,666.667 240,680" style="fill:none;fill-rule:nonzero;stroke:rgb(139,191,159);stroke-width:6px;stroke-linecap:round;"/>
+    <g transform="matrix(1,0,0,1,277.604,676.629)">
+        <g transform="matrix(16,0,0,16,210.648,0)">
+        </g>
+        <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:16px;fill:rgb(51,51,51);">Output: tumbling frequency</text>
+    </g>
+    <g transform="matrix(1,0,0,1,299.44,557.23)">
+        <text x="0px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(51,51,51);">when CheY<tspan x="71.094px 75.756px 84.848px 88.737px " y="0px 0px 0px 0px ">-P b</tspan>inds,</text>
+        <text x="0px" y="14px" style="font-family:'Helvetica';font-size:14px;fill:rgb(51,51,51);">motorswitches to</text>
+        <g transform="matrix(14,0,0,14,110.489,28)">
+        </g>
+        <text x="0px" y="28px" style="font-family:'Helvetica';font-size:14px;fill:rgb(51,51,51);">clockwise rotation</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0.394674,17.6461)">
+        <path d="M209.335,198.719L209.335,200.981L205.855,197.501L209.335,194.021L209.335,196.283L300.772,196.283L300.772,194.021L304.252,197.501L300.772,200.981L300.772,198.719L209.335,198.719Z"/>
+    </g>
+    <g transform="matrix(1,0,0,1,257.095,422.02)">
+        <g transform="matrix(14,0,0,14,51.8984,0)">
+        </g>
+        <text x="0px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(51,51,51);">dif<tspan x="14.54px 18.43px " y="0px 0px ">fu</tspan>sion</text>
+    </g>
+    <g transform="matrix(-0.916928,-0.399052,0.399052,-0.916928,239.488,1058.49)">
+        <path d="M216.3,487.615L225.852,505.633L206.748,505.633L216.3,487.615Z" style="fill:rgb(44,76,59);"/>
+    </g>
+    <g transform="matrix(-0.353987,-0.275783,0.333147,-0.427616,220.709,596.746)">
+        <path d="M216.3,487.615L225.852,505.633L206.748,505.633L216.3,487.615Z" style="fill:rgb(217,83,79);"/>
+    </g>
+</svg>

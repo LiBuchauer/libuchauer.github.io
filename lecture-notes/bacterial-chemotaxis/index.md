@@ -39,7 +39,7 @@ However, when a nutrient gradient is present, the bacterium modulates this behav
 To understand how *E. coli* successfully modulates its tumbling frequency, we must look inside the cell at the molecular components of the chemotaxis machinery. This system consists of three primary parts: transmembrane receptors that detect the attractant, an intracellular signaling network that processes the information, and the flagellar motor that executes the physical output.
 
 <figure>
-  <img src="inside_ecoli.png" alt="Simplified schematic of the E. coli chemotaxis signaling network">
+  <img src="inside_ecoli.svg" alt="Simplified schematic of the E. coli chemotaxis signaling network">
   <figcaption><strong>Heavily simplified</strong> schematic of the chemotaxis signaling network: transmembrane receptors detect attractant, the active receptor state phosphorylates CheY, and CheY-P binds the flagellar motor to switch its rotation. The real network includes additional components (CheA, CheW, CheR, CheB, CheZ) and feedback loops that are omitted here for clarity.</figcaption>
 </figure>
 
