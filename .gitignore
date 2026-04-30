@@ -3,3 +3,7 @@
 _site/
 .jekyll-cache/
 .idea/
+*.afdesign
+*.afdesign~lock~
+*.afphoto
+*.afpub
