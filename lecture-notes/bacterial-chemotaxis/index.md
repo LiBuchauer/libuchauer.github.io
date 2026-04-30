@@ -27,3 +27,26 @@ To act on this temporal information, *E. coli* must physically move. The bacteri
 In a homogeneous environment with no chemical gradients, *E. coli* alternates continuously between these two states (typically running for about 1 second and tumbling for 0.1 seconds), executing a purely stochastic random walk. After each tumble, the bacterium faces a new, random direction for its next run.
 
 However, when a nutrient gradient is present, the bacterium modulates this behavior. If the cell senses that the attractant concentration is increasing over time (meaning it is swimming up the gradient), it actively suppresses the tumbling frequency (*f*<sub>tumble</sub> goes down). By tumbling less when moving in a favorable direction, the cell extends its productive runs. This simple suppression transforms the standard random walk into a biased random walk, allowing the bacterial population to gradually drift toward the food source.
+
+### Inside the Cell: The Signaling Network
+
+To understand how *E. coli* successfully modulates its tumbling frequency, we must look inside the cell at the molecular components of the chemotaxis machinery. This system consists of three primary parts: transmembrane receptors that detect the attractant, an intracellular signaling network that processes the information, and the flagellar motor that executes the physical output.
+
+![Inside E. coli: receptors, signaling, and flagellar motor](inside_ecoli.svg)
+
+The signaling process begins at the cell surface with transmembrane receptors. These receptor proteins feature a ligand-binding domain extending into the extracellular environment and a long signaling domain reaching into the cytoplasm. The receptors are dynamic, constantly shifting between an "active" and an "inactive" structural conformation.
+
+Somewhat counter-intuitively, the binding of a chemoattractant ligand to the outside of the receptor increases the probability that the receptor will enter the inactive state. The relationship between ligand concentration and receptor activity follows a steep Hill-curve: in a ligand-free environment, the receptors are highly active, but as ligand concentration increases, receptor activity plummets.
+
+![Hill-curve response of receptor activity to ligand concentration](response1.svg)
+
+When the cytoplasmic domain of a receptor is in the active state, it initiates a phosphorylation cascade. The active receptor facilitates the phosphorylation of a cytoplasmic signaling protein called CheY. Once phosphorylated, the resulting CheY-P molecules diffuse rapidly through the cell body until they reach the motor complexes at the base of the flagella.
+
+Upon binding to the motor complex, CheY-P acts as the molecular trigger that forces the motor to switch from its default counter-clockwise rotation (which promotes smooth running) to a clockwise rotation.
+
+By connecting these components, we can understand the cell's baseline logic:
+
+- **Without attractant:** Receptors are mostly active, leading to high levels of CheY-P production. This abundant CheY-P binds to the motors, causing frequent clockwise rotation and resulting in a high tumbling frequency.
+- **With attractant:** Ligand binding shifts the receptors into the inactive state, halting the production of CheY-P. Without CheY-P to trigger clockwise rotation, the motors maintain their default counter-clockwise state, suppressing tumbling and extending the cell's runs.
+
+Through this relatively simple pathway, the bacterium successfully translates the extracellular ligand concentration into a direct, mechanical behavioral output (tumbling frequency).

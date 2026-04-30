@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 700" width="100%" max-width="500px">
+  <defs>
+    <style>
+      .membrane { fill: none; stroke: #8BBF9F; stroke-width: 6; }
+      .receptor { fill: none; stroke: #2C4C3B; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+      .ligand { fill: #2C4C3B; }
+      .active-star { fill: #D9534F; }
+      .protein { fill: none; stroke: #333; stroke-width: 3; }
+      .arrow { fill: none; stroke: #333; stroke-width: 3; marker-end: url(#arrowhead); }
+      .arrow-dashed { fill: none; stroke: #333; stroke-width: 3; stroke-dasharray: 6, 6; marker-end: url(#arrowhead); }
+      .arrow-catalysis { fill: none; stroke: #D9534F; stroke-width: 3; marker-end: url(#arrowhead-red); }
+      .motor { fill: none; stroke: #2C4C3B; stroke-width: 5; }
+      .flagellum { fill: none; stroke: #8BBF9F; stroke-width: 6; stroke-linecap: round; }
+      .text-bold { font-family: sans-serif; fill: #333; font-size: 16px; font-weight: bold; }
+      .text { font-family: sans-serif; fill: #333; font-size: 14px; }
+      .text-small { font-family: sans-serif; fill: #666; font-size: 12px; }
+    </style>
+    <!-- Arrowhead Markers -->
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333"/>
+    </marker>
+    <marker id="arrowhead-red" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#D9534F"/>
+    </marker>
+  </defs>
+
+  <!-- Cell Membrane -->
+  <rect x="100" y="150" width="300" height="400" rx="150" class="membrane" />
+
+  <!-- Inactive Receptor (Left) -->
+  <g transform="translate(160, 100)">
+    <!-- Y-shape extracellular -->
+    <path d="M -20 0 Q 0 30 0 50 L 0 170" class="receptor" />
+    <path d="M 20 0 Q 0 30 0 50" class="receptor" />
+    <!-- Ligand bound -->
+    <circle cx="-25" cy="-5" r="12" class="ligand" />
+    <text x="-45" y="150" class="text">Inactive</text>
+  </g>
+
+  <!-- Active Receptor (Right) -->
+  <g transform="translate(340, 100)">
+    <!-- Y-shape extracellular -->
+    <path d="M -20 0 Q 0 30 0 50 L 0 170" class="receptor" />
+    <path d="M 20 0 Q 0 30 0 50" class="receptor" />
+    <!-- Active Star -->
+    <polygon points="30,120 35,135 50,135 38,145 42,160 30,150 18,160 22,145 10,135 25,135" class="active-star" />
+    <text x="25" y="110" class="text" fill="#D9534F">Active</text>
+  </g>
+
+  <!-- Inputs -->
+  <text x="50" y="80" class="text-bold">Input:</text>
+  <text x="50" y="100" class="text">Ligand</text>
+
+  <!-- Phosphorylation Reaction -->
+  <g transform="translate(250, 320)">
+    <text x="-30" y="5" class="text-bold">CheY</text>
+    <line x1="15" y1="0" x2="35" y2="0" class="protein" />
+    <!-- Phosphate group -->
+    <circle cx="45" cy="0" r="10" class="protein" />
+    <text x="41" y="5" class="text-bold">P</text>
+    
+    <!-- Catalysis Arrow from Active Receptor -->
+    <path d="M 120 -40 Q 80 -10 30 -5" class="arrow-catalysis" />
+  </g>
+
+  <!-- Diffusion Pathway -->
+  <path d="M 260 350 Q 240 400 250 450 T 240 500" class="arrow-dashed" />
+  <text x="270" y="420" class="text-small">Diffusion</text>
+
+  <!-- Motor Complex -->
+  <g transform="translate(250, 550)">
+    <!-- Base plate -->
+    <ellipse cx="0" cy="0" rx="40" ry="15" class="motor" />
+    <rect x="-35" y="0" width="70" height="20" class="motor" fill="#fff" />
+    <ellipse cx="0" cy="20" rx="35" ry="10" class="motor" />
+  </g>
+
+  <!-- Flagellum -->
+  <path d="M 250 570 Q 230 600 260 630 T 240 680" class="flagellum" />
+
+  <!-- Output Labels -->
+  <text x="320" y="565" class="text-bold">Motor Switch</text>
+  <text x="320" y="585" class="text">to CW rotation</text>
+  <path d="M 320 600 L 350 600" class="arrow" />
+  <text x="360" y="605" class="text-bold">Tumble</text>
+</svg>

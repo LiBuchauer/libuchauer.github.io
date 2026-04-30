@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 350" width="100%" max-width="500px">
+  <defs>
+    <style>
+      .axis { fill: none; stroke: #333; stroke-width: 2.5; stroke-linecap: round; }
+      .curve { fill: none; stroke: #8BBF9F; stroke-width: 6; stroke-linecap: round; }
+      .guideline { fill: none; stroke: #888; stroke-width: 1.5; stroke-dasharray: 6, 6; }
+      .text-label { font-family: sans-serif; fill: #333; font-size: 16px; font-weight: bold; }
+      .text-tick { font-family: sans-serif; fill: #666; font-size: 14px; }
+      .highlight-dot { fill: #D9534F; }
+    </style>
+  </defs>
+
+  <!-- Axes -->
+  <!-- X-axis -->
+  <line x1="70" y1="280" x2="470" y2="280" class="axis" />
+  <!-- Y-axis -->
+  <line x1="70" y1="280" x2="70" y2="40" class="axis" />
+
+  <!-- Y-axis Ticks & Labels -->
+  <line x1="63" y1="280" x2="70" y2="280" class="axis" />
+  <text x="50" y="285" class="text-tick" text-anchor="end">0</text>
+  
+  <line x1="63" y1="160" x2="70" y2="160" class="axis" />
+  <text x="50" y="165" class="text-tick" text-anchor="end">0.5</text>
+
+  <line x1="63" y1="40" x2="70" y2="40" class="axis" />
+  <text x="50" y="45" class="text-tick" text-anchor="end">1</text>
+
+  <!-- Guidelines for Steady State (A = 0.5) -->
+  <line x1="70" y1="160" x2="270" y2="160" class="guideline" />
+  <line x1="270" y1="160" x2="270" y2="280" class="guideline" />
+
+  <!-- Sigmoid Hill Curve (Decay) -->
+  <!-- Starts at Activity=1, drops through (270, 160), levels out at Activity=0 -->
+  <path d="M 70 40 C 200 40, 140 280, 270 160" display="none"/> <!-- Reference -->
+  <path d="M 70 40 C 190 40, 350 280, 470 280" class="curve" />
+
+  <!-- Center Kd Point Indicator -->
+  <circle cx="270" cy="160" r="6" class="highlight-dot" />
+
+  <!-- Axis Labels -->
+  <!-- X-axis Label -->
+  <text x="270" y="330" class="text-label" text-anchor="middle">log(Ligand)</text>
+  
+  <!-- Y-axis Label (Rotated) -->
+  <g transform="translate(20, 160)">
+    <text x="0" y="0" class="text-label" text-anchor="middle" transform="rotate(-90)">activity(Ligand)</text>
+  </g>
+</svg>
