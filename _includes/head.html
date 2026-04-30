@@ -49,15 +49,7 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
   {% if page.math %}
-  <!-- MathJax (only loaded on pages with math: true in front matter) -->
-  <script>
-    window.MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$', '$$'], ['\\[', '\\]']]
-      }
-    };
-  </script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
+  <!-- MathJax 2.7 picks up kramdown's <script type="math/tex"> output natively -->
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js?config=TeX-AMS_CHTML"></script>
   {% endif %}
 </head>
