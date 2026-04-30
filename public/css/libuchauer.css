@@ -18,6 +18,22 @@ ul {
     list-style-type: square;
 }
 
+figure {
+  margin: 1.5rem 0;
+}
+figure img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+figcaption {
+  font-size: 0.85rem;
+  color: #555;
+  margin-top: 0.4rem;
+  line-height: 1.35;
+  text-align: center;
+}
+
 .theme-libuchauer .content {
   padding-top:    1.5rem;
   padding-bottom: 1.5rem;
