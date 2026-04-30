@@ -110,7 +110,7 @@ Together, this constitutes a negative feedback loop: receptor activity $$T_m^*$$
 
 <figure>
   <img src="Barkai_Leibler.svg" alt="Schematic of the Barkai-Leibler model: methylation by CheR, ligand-driven switching between T_m and T_m*, and active-state-only demethylation by CheB">
-  <figcaption>The Barkai-Leibler model. CheR methylates receptors at a constant, saturated rate. The methylated receptor switches rapidly between an inactive state $$T_m$$ and an active state $$T_m^*$$, with ligand binding driving it toward $$T_m$$. CheB demethylates only receptors in the active state $$T_m^*$$.</figcaption>
+  <figcaption>The Barkai-Leibler model. CheR methylates receptors at a constant, saturated rate. The methylated receptor switches rapidly between an inactive state \(T_m\) and an active state \(T_m^*\), with ligand binding driving it toward \(T_m\). CheB demethylates only receptors in the active state \(T_m^*\).</figcaption>
 </figure>
 
 #### The Mathematics of Memory
