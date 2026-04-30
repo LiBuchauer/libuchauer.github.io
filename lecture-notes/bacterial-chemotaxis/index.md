@@ -93,3 +93,50 @@ These methyl groups act as molecular tuning dials that fundamentally change the 
 </figure>
 
 Consequently, at an intermediate ligand concentration where an unmethylated receptor would be completely repressed (inactive), a heavily methylated receptor maintains a high level of activity, leading to more CheY-P production and more tumbling events. This dynamic chemical tagging is what physically stores the "memory" of the cell's recent environment.
+
+### The Barkai-Leibler Model of Exact Adaptation
+
+To understand how the dynamic addition and removal of methyl groups stores information and ensures a robust steady-state tumbling frequency, we can look to a famous mathematical model proposed by Naama Barkai and Stanislav Leibler in 1997.
+
+The Barkai-Leibler model isolates the core components of the chemotaxis network into a simplified system. In this model, we start with an unmethylated receptor ($T$). For simplicity, the model assumes the unmethylated receptor cannot easily enter the active state.
+
+The system is governed by two opposing enzymes and a stark separation of timescales:
+
+- **Methylation (slow):** An enzyme called CheR constantly adds methyl groups to the unmethylated receptors, converting them into the methylated form ($T_m$).
+- **Ligand binding (fast):** Once methylated, the receptor can rapidly fluctuate between an inactive state ($T_m$) and an active state ($T_m^*$). As established earlier, the active state ($T_m^*$) leads to CheY phosphorylation and subsequent tumbling. The binding of an attractant ligand ($L$) rapidly shifts this equilibrium, forcing the receptors into the inactive $T_m$ state. This switching occurs on the order of milliseconds.
+- **Demethylation (slow):** A second enzyme, CheB, removes methyl groups from the receptors. However, in the Barkai-Leibler model, there is a strict rule: CheB only demethylates receptors that are currently in the active state ($T_m^*$). Both methylation and demethylation occur slowly, on the order of tens of seconds.
+
+<figure>
+  <img src="Barkai_Leibler.svg" alt="Schematic of the Barkai-Leibler model: methylation by CheR, ligand-driven switching between T_m and T_m*, and active-state-only demethylation by CheB">
+  <figcaption>The Barkai-Leibler model. CheR methylates receptors at a constant, saturated rate. The methylated receptor switches rapidly between an inactive state $T_m$ and an active state $T_m^*$, with ligand binding driving it toward $T_m$. CheB demethylates only receptors in the active state $T_m^*$.</figcaption>
+</figure>
+
+#### The Mathematics of Memory
+
+Because $T_m^*$ is the only state that triggers tumbling, the total number of $T_m^*$ receptors serves as a direct proxy for the cell's physical activity. To understand how the cell adapts, we evaluate how the total pool of methylated receptors ($T_m + T_m^*$) changes over time.
+
+The change in methylated receptors per unit of time is equal to the rate of methylation minus the rate of demethylation. Assuming there are vastly more receptors than CheR molecules, CheR works at a constant, saturated rate ($\rho \cdot \mathrm{CheR}$). Demethylation by CheB relies on Michaelis-Menten kinetics, where the rate depends on the availability of its specific substrate, the active receptor ($T_m^*$).
+
+We can write this as a differential equation:
+
+\\[
+\frac{d(T_m + T_m^*)}{dt} = \rho \cdot \mathrm{CheR} - \frac{\beta \cdot \mathrm{CheB} \cdot T_m^*}{K + T_m^*}
+\\]
+
+To find the baseline activity of the cell after it has fully adapted to a new environment, we must solve for the steady state. By definition, in a steady state, the number of methylated receptors is no longer changing, so we set the derivative to zero:
+
+\\[
+0 = \rho \cdot \mathrm{CheR} - \frac{\beta \cdot \mathrm{CheB} \cdot T_{m,\mathrm{st}}^*}{K + T_{m,\mathrm{st}}^*}
+\\]
+
+If we rearrange this equation to solve for the steady-state number of active receptors ($T_{m,\mathrm{st}}^*$), we get:
+
+\\[
+T_{m,\mathrm{st}}^* = \frac{K \cdot \rho \cdot \mathrm{CheR}}{\beta \cdot \mathrm{CheB} - \rho \cdot \mathrm{CheR}}
+\\]
+
+#### The Elegance of the Solution
+
+The brilliance of the Barkai-Leibler model is revealed in that final equation. Notice what variable is completely absent: the ligand concentration ($L$).
+
+The number of active receptors at steady state depends entirely on biochemical constants (the rate constants $\rho$ and $\beta$, the Michaelis constant $K$) and the total numbers of the CheR and CheB enzymes inside the cell. Because the steady-state activity is decoupled from $L$, the mathematical model perfectly mirrors the experimental observation: the cell's tumbling frequency will always return to the exact same set point, regardless of how much attractant is in the surrounding environment.
