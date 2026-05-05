@@ -4,27 +4,25 @@ title: Lecture notes on bacterial chemotaxis
 math: true
 ---
 
-*This full-text lecture script was generated from bullet points using Claude Opus and checked for accuracy. The figures were generated from hand-drawn drafts using Gemini Pro.*
-
 ## Modeling Signal Transduction in Bacterial Chemotaxis
 
-Chemotaxis is the directed movement of cells or organisms along a chemical concentration gradient. For a cell to navigate such a gradient, it must first be able to sense it. While some larger eukaryotic cells, such as neutrophils or amoebae, are large enough to measure spatial concentration differences across the length of their cell bodies, bacteria face a fundamental physical constraint.
+Chemotaxis is the directed movement of cells or organisms along a chemical concentration gradient. For a cell to navigate such a gradient, it must first be able to sense it. While some larger eukaryotic cells, such as neutrophils or amoebae, are large enough to measure spatial concentration differences across the length of their cell bodies, bacteria are typically too small to do so.
 
 <figure>
   <img src="ecoli.png" alt="E. coli">
   <figcaption>An <em>E. coli</em> cell, roughly 2 µm long and 0.5 µm wide, propelled by a bundle of rotating flagella.</figcaption>
 </figure>
 
-A typical *Escherichia coli* cell is approximately 2 µm long and 0.5 µm wide. At this microscopic scale, the difference in chemoattractant concentration between the front and the back of the bacterium is so minute that it is completely drowned out by the stochastic noise of molecules binding to its surface receptors. In a [classic 1977 biophysics paper](https://www.sciencedirect.com/science/article/pii/S0006349577855446?via%3Dihub), Howard Berg and Edward Purcell formally demonstrated that bacteria are simply too small to sense spatial gradients directly.
+A typical *Escherichia coli* cell is approximately 2 µm long and 0.5 µm wide. At this microscopic scale, the difference in chemoattractant concentration between the front and the back of the bacterium is so small that it is drowned out by the stochastic noise of molecules binding to its surface receptors. This was demonstrated in a [classic 1977 biophysics paper](https://www.sciencedirect.com/science/article/pii/S0006349577855446?via%3Dihub) by Howard Berg and Edward Purcell.
 
 Because spatial sensing is unfeasible, *E. coli* must sense gradients in time. The bacterium must compare the concentration of its current environment to the concentration it experienced a moment ago. This temporal comparison requires the biochemical equivalent of a short-term memory.
 
-### Locomotion: Runs and Tumbles
+### Movement: Runs and Tumbles
 
-To act on this temporal information, *E. coli* must physically move. The bacterium propels itself using several rotating flagella (typically around five) extending from its body. The cell's movement is dictated entirely by the rotational direction of these flagella:
+Both to acquire and to act on this gradient information, *E. coli* must move actively. The bacterium propels itself using several rotating flagella (typically around five) extending from its body. The cell's movement is dictated entirely by the rotational direction of these flagella:
 
-- **The "Run":** By default, all flagella rotate counter-clockwise (CCW). When rotating in this direction, the flagella wrap together to form a tight bundle, propelling the bacterium smoothly forward in a straight line.
-- **The "Tumble":** If even a single flagellum reverses its rotation to clockwise (CW), the bundle breaks apart. The flagella splay outward in different directions, bringing the forward run to a halt and causing the bacterium to randomly tumble in place.
+- **The "Run":** By default, all flagella rotate counter-clockwise (CCW). When rotating in this direction, the flagella wrap together to form a tight bundle, propelling the bacterium smoothly forward in a more or less straight line. A typical run lasts 1 second.
+- **The "Tumble":** If a single flagellum reverses its rotation to clockwise (CW), the bundle breaks apart. The flagella splay outward in different directions, bringing the forward run to a halt and causing the bacterium to randomly tumble in place. A typical tumble lasts 0.1s and is followed by a new run in a direction independent to that of the previous one.
 
 ### The Biased Random Walk
 
@@ -33,9 +31,9 @@ To act on this temporal information, *E. coli* must physically move. The bacteri
   <figcaption>An <em>E. coli</em> trajectory consisting of straight runs interrupted by tumbles that randomly reorient the next run. In a homogeneous environment this produces an unbiased random walk; in a gradient, suppressed tumbling during favorable runs biases the walk toward the source.</figcaption>
 </figure>
 
-In a homogeneous environment with no chemical gradients, *E. coli* alternates continuously between these two states (typically running for about 1 second and tumbling for 0.1 seconds), executing a purely stochastic random walk. After each tumble, the bacterium faces a new, random direction for its next run.
+In a homogeneous environment with no chemical gradients, *E. coli* alternates continuously between these two states, executing a purely stochastic random walk. After each tumble, the bacterium faces a new, random direction for its next run.
 
-However, when a nutrient gradient is present, the bacterium modulates this behavior. If the cell senses that the attractant concentration is increasing over time (meaning it is swimming up the gradient), it actively suppresses the tumbling frequency ($$f_{\text{tumble}}$$ goes down). By tumbling less when moving in a favorable direction, the cell extends its productive runs. This simple suppression transforms the standard random walk into a biased random walk, allowing the bacterial population to gradually drift toward the food source.
+However, when a nutrient gradient is present, the bacterium modulates this behavior. If the cell senses that the attractant concentration is increasing over time during a single run (meaning it is swimming up the gradient), it actively suppresses the tumbling frequency ($$f_{\text{tumble}}$$ goes down). By tumbling later when moving in a favorable direction, the cell extends its productive runs. This simple suppression transforms the standard random walk into a biased random walk, allowing the bacterial population to gradually drift toward the food source.
 
 ### Inside the Cell: The (simplified!) signaling network
 
@@ -48,14 +46,14 @@ To understand how *E. coli* successfully modulates its tumbling frequency, we mu
 
 The signaling process begins at the cell surface with transmembrane receptors. These receptor proteins feature a ligand-binding domain extending into the extracellular environment and a long signaling domain reaching into the cytoplasm. The receptors are dynamic, constantly shifting between an "active" and an "inactive" structural conformation.
 
-Somewhat counter-intuitively, the binding of a chemoattractant ligand to the outside of the receptor increases the probability that the receptor will enter the inactive state. The relationship between ligand concentration and receptor activity follows a steep Hill-curve: in a ligand-free environment, the receptors are highly active, but as ligand concentration increases, receptor activity plummets.
+Somewhat counter-intuitively, the binding of a chemoattractant ligand to the outside of the receptor increases the probability that the receptor will enter the inactive state. The relationship between ligand concentration and receptor activity follows a Hill-curve: in a ligand-free environment, the receptors are highly active, but as ligand concentration increases, receptor activity goes down.
 
 <figure>
   <img src="response1.svg" alt="Hill-curve response of receptor activity to ligand concentration">
   <figcaption>Receptor activity as a function of ligand concentration. Increasing ligand concentration drives the receptor toward the inactive state along a steep Hill curve.</figcaption>
 </figure>
 
-When the cytoplasmic domain of a receptor is in the active state, it initiates a phosphorylation cascade. The active receptor facilitates the phosphorylation of a cytoplasmic signaling protein called CheY. Once phosphorylated, the resulting CheY-P molecules diffuse rapidly through the cell body until they reach the motor complexes at the base of the flagella.
+When the cytoplasmic domain of a receptor is in the active state, it initiates a phosphorylation cascade. The active receptor facilitates the phosphorylation of a cytoplasmic signaling protein called CheY. Once phosphorylated, the resulting CheY-P molecules diffuse through the cell body until they reach the motor complexes at the base of the flagella.
 
 Upon binding to the motor complex, CheY-P acts as the molecular trigger that forces the motor to switch from its default counter-clockwise rotation (which promotes smooth running) to a clockwise rotation.
 
@@ -68,39 +66,39 @@ Through this relatively simple pathway, the bacterium successfully translates th
 
 ### The Phenomenon of Exact Adaptation
 
-If we only consider the basic receptor-to-motor signaling pathway, we might expect that a sudden, permanent increase in attractant concentration would lead to a permanent decrease in tumbling frequency. However, experimental observations reveal a much more sophisticated dynamic.
+If we only consider the basic receptor-to-motor signaling pathway, we might expect that a sudden, permanent increase in attractant concentration would lead to a permanent decrease in tumbling frequency. However, experimental observations reveal a more sophisticated dynamic.
 
 <figure>
   <img src="adaptation.svg" alt="Tumbling frequency response to a step in ligand concentration, showing exact adaptation">
   <figcaption>Response of the tumbling frequency to a sudden change in ligand concentration. The frequency drops (or spikes) within milliseconds and then recovers exactly back to its pre-stimulus baseline over the course of minutes — the hallmark of <em>exact adaptation</em>.</figcaption>
 </figure>
 
-When *E. coli* is exposed to a sudden step-increase in ligand concentration, the tumbling frequency (and the concentration of CheY-P) drops incredibly fast — within approximately 200 microseconds. But rather than staying at this new, low level, the tumbling frequency slowly recovers over the next several minutes, eventually returning to the exact same baseline value it had before the attractant was added. This occurs even though the bacterium remains in the higher food concentration.
+When *E. coli* is exposed to a sudden step-increase in ligand concentration, the tumbling frequency (and the concentration of CheY-P) drops very quickly, within approximately 200 milliseconds. But rather than staying at this new, low level, the tumbling frequency slowly recovers over the next several seconds to minutes, eventually returning to the exact same baseline value it had before the attractant was added. This occurs even though the bacterium remains in the higher food concentration.
 
-A similar but inverted process happens if the ligand concentration is suddenly reduced: the tumbling frequency immediately spikes, but mysteriously recovers back to the original baseline.
+A similar but inverted process happens if the ligand concentration is suddenly reduced: the tumbling frequency immediately spikes, but then recovers back to the original baseline.
 
-This behavior is known as *exact adaptation*. It serves a critical evolutionary purpose: by constantly resetting its baseline activity, the cell ensures it never becomes blind or saturated in high-nutrient environments. Because the tumbling frequency always returns to its set point, the bacterium is always ready to respond to further increases or decreases in attractant.
+This behavior is known as *exact adaptation*. It serves an important purpose: by constantly resetting its baseline activity, the cell ensures it never becomes blind or saturated in high-nutrient environments. Because the tumbling frequency always returns to its set point, the bacterium is always ready to respond to further increases or decreases in attractant.
 
 ### Methylation: The Molecular Memory
 
-The mathematical necessity here is two-fold: *E. coli* must possess a memory mechanism to perform a biased random walk over time, and it must maintain a constant steady-state tumbling frequency irrespective of the absolute ligand concentration.
+We have now seen that i) *E. coli* needs to have a memory in order to perform a biased random walk over time and ii) that it is able to maintain a constant steady-state tumbling frequency irrespective of the absolute ligand concentration.
 
-The cell elegantly solves both problems using methyl-accepting receptors. In addition to binding ligands on the outside of the cell, these transmembrane receptors can be modified on the inside of the cell through the addition of methyl groups.
+Both properties are brought about through methyl-accepting receptors. In addition to binding ligands on the outside of the cell, these transmembrane receptors can be modified on the inside of the cell through the addition of methyl groups (In the following, we will only discuss the addition of one methyl group per receptor, but in reality, a single receptor can be methylated in up to 4 or 5 positions, giving the system additional sensitivity).
 
-These methyl groups act as molecular tuning dials that fundamentally change the excitability of the receptor. Adding a methyl group heavily biases the receptor toward the active state. If we compare the activity profiles of an unmethylated versus a methylated receptor, the addition of the methyl group shifts the response curve significantly to the right.
+These methyl groups act as molecular tuning dials that change the excitability of the receptor. Adding a methyl group biases the receptor toward the active state. If we compare the activity profiles of an unmethylated versus a methylated receptor, the addition of the methyl group shifts the response curve significantly to the right.
 
 <figure>
   <img src="response2.svg" alt="Receptor activity vs. ligand concentration for unmethylated and methylated receptors">
   <figcaption>Adding methyl groups shifts the receptor's response curve to the right. At an intermediate ligand concentration, an unmethylated receptor is fully repressed while a methylated receptor remains active — methylation effectively re-tunes the receptor's operating range.</figcaption>
 </figure>
 
-Consequently, at an intermediate ligand concentration where an unmethylated receptor would be completely repressed (inactive), a heavily methylated receptor maintains a high level of activity, leading to more CheY-P production and more tumbling events. This dynamic chemical tagging is what physically stores the "memory" of the cell's recent environment.
+Consequently, at an intermediate ligand concentration where an unmethylated receptor would be completely repressed (inactive), a heavily methylated receptor maintains a high level of activity, leading to more CheY-P production and more tumbling events. In this way, through chemical tagging, cells are able to store a "memory" of their recent environment.
 
 ### The Barkai-Leibler Model of Exact Adaptation
 
 To understand how the dynamic addition and removal of methyl groups stores information and ensures a robust steady-state tumbling frequency, we can look to a [famous mathematical model proposed by Naama Barkai and Stanislav Leibler in 1997](https://www.nature.com/articles/43199).
 
-The Barkai-Leibler model isolates the core components of the chemotaxis network into a simplified system. In this model, we start with an unmethylated receptor ($$T$$). For simplicity, the model assumes the unmethylated receptor cannot easily enter the active state.
+The Barkai-Leibler model isolates the core components of the chemotaxis network into a simplified system. In this model, we start with an unmethylated receptor ($$T$$). For simplicity, the model assumes the unmethylated receptor cannot enter the active state, only methylated receptors can do so.
 
 The system is governed by two opposing enzymes and a stark separation of timescales:
 
@@ -113,7 +111,7 @@ The system is governed by two opposing enzymes and a stark separation of timesca
   <figcaption>The Barkai-Leibler model. CheR methylates receptors at a constant, saturated rate. The methylated receptor switches rapidly between an inactive state \(T_m\) and an active state \(T_m^*\), with ligand binding driving it toward \(T_m\). CheB demethylates only receptors in the active state \(T_m^*\).</figcaption>
 </figure>
 
-#### The Mathematics of Memory
+#### Steady State Analysis Reveals Excact Adaptation
 
 Because $$T_m^*$$ is the only state that triggers tumbling, the total number of $$T_m^*$$ receptors serves as a direct proxy for the cell's physical activity. To understand how the cell adapts, we evaluate how the total pool of methylated receptors ($$T_m + T_m^*$$) changes over time.
 
@@ -137,15 +135,16 @@ $$
 T_{m,\mathrm{st}}^* = \frac{K \cdot \rho \cdot \mathrm{CheR}}{\beta \cdot \mathrm{CheB} - \rho \cdot \mathrm{CheR}}
 $$
 
-The brilliance of the Barkai-Leibler model is revealed in that final equation. Notice what variable is completely absent: the ligand concentration ($$L$$).
+Of note, the steady state number of methylated receptors (and therefore the activity and ultimately the tumbling frequency at steady state) depend only on constants ($$K, \beta, \rho$$) and protein copy numbers which are not themselves part of the model ($$\mathrm{CheR}, \mathrm{CheB}$$). Most importantly, the steady state $$$T_{m,\mathrm{st}}^*$ is independent of the ligand concentration ($$L$$). Because the steady-state activity is decoupled from $$L$$, the mathematical model perfectly mirrors the experimental observation: the cell's tumbling frequency will always return to the exact same set point, regardless of how much attractant is in the surrounding environment.
 
-This works precisely because CheB is constrained to demethylate **only the active receptors $$T_m^*$$**. That asymmetry closes a negative feedback loop: $$T_m^*$$ — the very output we want to regulate — is also the substrate that sets the rate at which methyl groups are stripped, so any rise in activity automatically accelerates the process that returns it to baseline. Had CheB demethylated all methylated receptors indiscriminately, the demethylation rate would no longer track activity, and the steady state would once again depend on ligand concentration. The seemingly arbitrary substrate specificity of CheB is therefore the structural origin of exact adaptation.
+This works because CheB is constrained to demethylate **only the active receptors $$T_m^*$$**. That asymmetry closes a negative feedback loop: $$T_m^*$$ (the very output we want to regulate) is also the substrate that sets the rate at which methyl groups are stripped, so any rise in activity automatically accelerates the process that returns it to baseline. Had CheB demethylated all methylated receptors indiscriminately, the demethylation rate would no longer track activity, and the steady state would once again depend on ligand concentration. 
 
-The number of active receptors at steady state thus depends entirely on biochemical constants (the rate constants $$\rho$$ and $$\beta$$, the Michaelis constant $$K$$) and the total numbers of the CheR and CheB enzymes inside the cell. Because the steady-state activity is decoupled from $$L$$, the mathematical model perfectly mirrors the experimental observation: the cell's tumbling frequency will always return to the exact same set point, regardless of how much attractant is in the surrounding environment.
+Had CheB demethylated all methylated receptors indiscriminately, the steady state would pin the total number of methylated receptors $$T_m + T_m^*$$ to a fixed value, but the partition of that total into active ($T_m^*$$) and inactive ($$T_m$$) would then depend on ligand concentration, so there would be no fixed steady state activity.
 
-### Memory in Action: Generating the Biased Random Walk
 
-We have established that the steady-state activity of the receptor network is independent of the attractant concentration. However, the physical makeup of the receptors required to achieve that steady state is entirely dependent on the environment. To maintain a constant level of active receptors ($$T_m^*$$), a cell in a high-ligand environment must build up a massive buffer of inactive methylated receptors ($$T_m$$), while a cell in a low-ligand environment requires very few.
+### Using Memory to Generate the Biased Random Walk
+
+We have established that the steady-state activity of the receptor network is independent of the attractant concentration. However, the methylation level of the receptors required to achieve that steady state is dependent on the environment: To maintain a constant level of active receptors ($$T_m^*$$), a cell in a high-ligand environment must build up a large pool of inactive methylated receptors ($$T_m$$), while a cell in a low-ligand environment requires very few.
 
 This means the cell's current methylation level physically encodes its history. We can visualize how this historical memory influences immediate behavior by observing two cells entering the exact same intermediate concentration ($$L_\text{int}$$) from two different backgrounds.
 
@@ -181,13 +180,16 @@ Because Cell 1 has low methylation, its sensitivity curve is shifted far to the 
 
 When we draw a vertical line representing our intermediate concentration $$L_\text{int}$$, we can see exactly why the two cells behave differently. At concentration $$L_\text{int}$$, Cell 1's curve sits near zero activity (triggering a run), while Cell 2's curve sits near maximum activity (triggering a tumble).
 
-Through this elegant separation of timescales — fast ligand binding and slow methylation — the bacterium's internal biochemistry generates a transient memory lag. This lag systematically stretches runs moving in a favorable direction and shortens runs moving in an unfavorable direction, successfully allowing a 2-micrometer cell to navigate a macroscopic world.
+Through the separation of timescales — fast ligand binding and slow methylation — the bacterium's internal biochemistry generates a memory lag. This lag systematically stretches runs moving in a favorable direction and shortens runs moving in an unfavorable direction, successfully allowing a 2-micrometer cell to navigate much larger gradients.
 
 ### Further Reading
 
-The following resources have shaped these notes and are warmly recommended for anyone who would like to go deeper:
+The following resources have shaped these notes and are recommended for anyone who would like to go deeper:
 
 - Jeff Gore, [*Robustness and Bacterial Chemotaxis*](https://ocw.mit.edu/courses/8-591j-systems-biology-fall-2014/resources/robustness-and-bacterial-chemotaxis/) — lecture from MIT OCW 8.591J *Systems Biology* (Fall 2014).
 - Uri Alon, *An Introduction to Systems Biology: Design Principles of Biological Circuits*, 2nd edition, Chapman & Hall/CRC Mathematical and Computational Biology, CRC Press, Boca Raton, 2019, Chapter 7.
 - Jens Timmer, [*Design Principles of a Bacterial Signalling Network*](https://jeti.uni-freiburg.de/vorles_mathbio_sysbio/chemotaxis_bw.pdf) — lecture notes, University of Freiburg.
 - Howard Berg, [*Marvels of Bacterial Behavior*](https://www.youtube.com/watch?v=ioA1yuIA-t8) — lecture (YouTube).
+
+*This full-text lecture script was cleaned up from the original notes using Claude Opus. The figures were generated from hand-drawn drafts using Gemini Pro.*
+
