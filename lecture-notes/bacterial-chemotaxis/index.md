@@ -135,11 +135,11 @@ $$
 T_{m,\mathrm{st}}^* = \frac{K \cdot \rho \cdot \mathrm{CheR}}{\beta \cdot \mathrm{CheB} - \rho \cdot \mathrm{CheR}}
 $$
 
-Of note, the steady state number of methylated receptors (and therefore the activity and ultimately the tumbling frequency at steady state) depend only on constants ($$K, \beta, \rho$$) and protein copy numbers which are not themselves part of the model ($$\mathrm{CheR}, \mathrm{CheB}$$). Most importantly, the steady state $$$T_{m,\mathrm{st}}^*$ is independent of the ligand concentration ($$L$$). Because the steady-state activity is decoupled from $$L$$, the mathematical model perfectly mirrors the experimental observation: the cell's tumbling frequency will always return to the exact same set point, regardless of how much attractant is in the surrounding environment.
+Of note, the steady state number of methylated receptors (and therefore the activity and ultimately the tumbling frequency at steady state) depend only on constants ($$K, \beta, \rho$$) and protein copy numbers which are not themselves part of the model ($$\mathrm{CheR}, \mathrm{CheB}$$). Most importantly, the steady state $$T_{m,\mathrm{st}}^*$$ is independent of the ligand concentration ($$L$$). Because the steady-state activity is decoupled from $$L$$, the mathematical model perfectly mirrors the experimental observation: the cell's tumbling frequency will always return to the exact same set point, regardless of how much attractant is in the surrounding environment.
 
 This works because CheB is constrained to demethylate **only the active receptors $$T_m^*$$**. That asymmetry closes a negative feedback loop: $$T_m^*$$ (the very output we want to regulate) is also the substrate that sets the rate at which methyl groups are stripped, so any rise in activity automatically accelerates the process that returns it to baseline. Had CheB demethylated all methylated receptors indiscriminately, the demethylation rate would no longer track activity, and the steady state would once again depend on ligand concentration. 
 
-Had CheB demethylated all methylated receptors indiscriminately, the steady state would pin the total number of methylated receptors $$T_m + T_m^*$$ to a fixed value, but the partition of that total into active ($T_m^*$$) and inactive ($$T_m$$) would then depend on ligand concentration, so there would be no fixed steady state activity.
+Had CheB demethylated all methylated receptors indiscriminately, the steady state would pin the total number of methylated receptors $$T_m + T_m^*$$ to a fixed value, but the partition of that total into active ($$T_m^*$$) and inactive ($$T_m$$) would then depend on ligand concentration, so there would be no fixed steady state activity.
 
 
 ### Using Memory to Generate the Biased Random Walk
