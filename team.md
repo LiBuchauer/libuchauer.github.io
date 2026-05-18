@@ -23,6 +23,15 @@ order: 2
 | Research interests: Computational biomedicine, chronobiology, cancer biology, metabolism |
 
 
+| <img style="width:9em" src="images/David_square.png" align="center">                                                                                |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------|
+| David Fischer                                                                                                                                       |
+| [email](mailto:david-stephan.fischer@charite.de)                                                                                                    |
+| _PhD student_                                                                                                                                       |
+| Previously: M. Sc. Bioinformatics (FU Berlin), B. Sc. Bioinformatics (FU Berlin)                                                                    |
+| Research interests: regulatory genomics in infectious disease, method development for ML and single-cell driven medical diagnostics, immunology, pangenomics |
+
+
 | <img style="width:9em" src="images/Mark_square.jpg" align="center">                            | 
 |:-----------------------------------------------------------------------------------------------| 
 | Mark Melzer                                                                                    |
