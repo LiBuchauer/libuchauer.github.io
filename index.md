@@ -14,6 +14,9 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__May 4th 2026__
+A warm welcome to [David](https://libuchauer.github.io/team), who is joining us as a PhD student as part of the [Einstein Center for Early Disease Interception](https://www.einsteinfoundation.de/en/fellows-projects/einstein-centers/einstein-center-for-early-disease-interception)!
+
 __March 31st 2026__
 An interview with Roberta and Lisa, in which we discussed our science communication project, the printable escape game ["Purpurnägel"](https://libuchauer.github.io/resources) as well as the ongoing effort to turn it into a board game, was published in [Forschung & Lehre](https://www.forschung-und-lehre.de/forschung/spielerische-spurensuche-und-die-erforschung-neuartiger-erreger-7593).
 
