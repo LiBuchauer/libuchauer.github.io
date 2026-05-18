@@ -41,14 +41,6 @@ order: 2
 | Research interests: Single-cell method development, mathematical modeling, ML applications in biomedicine                                                                                                              |
 
 
-| <img style="width:9em" src="images/Mona.jpg" align="center">                             |
-|:-----------------------------------------------------------------------------------------|
-| Mona Nehse                                                                               |
-| _intern student (M. Sc. Molecular Biology, HU)_                                          |
-| Previously: B. Sc. Biology (HU Berlin)                                                   |
-| Research interests: computational biology, immunology, epigenetics                       |
-
-
 | <img style="width:9em" src="images/Mohammad.png" align="center">                              |
 |:-----------------------------------------------------------------------------------------------|
 | Mohammad Niazi                                                                                 |
@@ -77,6 +69,12 @@ order: 2
 
 
 ### Past group members
+
+|                                                                                          |
+|:-----------------------------------------------------------------------------------------|
+| Mona Nehse                                                                               |
+| Role in the lab: Intern student (M. Sc. Molecular Biology, HU Berlin), 11/2025-03/2026   |
+| Previously: B. Sc. Biology (HU Berlin)                                                   |
 
 |                                                                                          |
 |:-----------------------------------------------------------------------------------------|
