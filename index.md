@@ -14,6 +14,18 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__June 6th 2026__
+We had a lot of fun explaining the immune system to kids as part of our offering ImmunDetektive at the Long Night of Science. Special thanks to Roberta, Hanneke, Anna, David, Mark, and Teresa for being there and making it possible!
+<img style="width:15em" src="images/LNdW2026.jpeg" align="center">
+
+__June 6th 2026__
+During the Berlin Long Night of Science, Lisa was [interviewed live on radio1](https://www.radioeins.de/programm/sendungen/sondersendung/lange-nacht-der-wissenschaften/2026/krankheiten-im-keim-ersticken.html) about the new Einstein Center for Early Disease Interception.
+<img style="width:15em" src="images/radio1.jpeg" align="center">
+
+__June 2nd 2026__
+Together with friends from the Sander lab, we participated in the 5x5k team run and finished in 2:20:31 🥳
+<img style="width:15em" src="images/teamrun2026.jpeg" align="center">
+
 __May 4th 2026__
 A warm welcome to [David](https://libuchauer.github.io/team), who is joining us as a PhD student as part of the [Einstein Center for Early Disease Interception](https://www.einsteinfoundation.de/en/fellows-projects/einstein-centers/einstein-center-for-early-disease-interception)!
 
