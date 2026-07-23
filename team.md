@@ -23,6 +23,14 @@ order: 2
 | Research interests: Computational biomedicine, chronobiology, cancer biology, metabolism |
 
 
+| <img style="width:9em" src="images/Anna_square.png" align="center">                       |
+|:------------------------------------------------------------------------------------------|
+| Anna Fehlberg                                                                             |
+| [email](mailto:afehlberg@zedat.fu-berlin.de)                                             |
+| _Bachelor's thesis researcher (B. Sc. Bioinformatik, FU Berlin)_                          |
+| Research interests: Biomedical Research, Immunology, Data Analysis and Algorithmic Bioinformatics |
+
+
 | <img style="width:9em" src="images/David_square.png" align="center">                                                                                |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------|
 | David Fischer                                                                                                                                       |
