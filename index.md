@@ -14,6 +14,13 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__July 21st 2026__
+A warm welcome to [Anna](https://libuchauer.github.io/team), who is joining us for her bachelor's thesis!
+
+__July 13th & 14th 2026__
+We held a two-day workshop on "Applied data science in the age of AI", co-organised with Leonie Wenz (PIK) and Sarah Kim-Hellmuth (Helmholtz Munich). We had insightful inputs from external speakers Sebastian Lobentanzer, Vlad Simailov, Jan Ebert and Joanna Bryson, and plenty of fruitful discussions.
+<img style="width:15em" src="images/AIworkshop.jpeg" align="center">
+
 __June 6th 2026__
 We had a lot of fun explaining the immune system to kids as part of our offering ImmunDetektive at the Long Night of Science. Special thanks to Roberta, Hanneke, Anna, David, Mark, and Teresa for being there and making it possible!
 <img style="width:15em" src="images/LNdW2026.jpeg" align="center">
