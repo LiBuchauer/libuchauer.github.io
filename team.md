@@ -96,57 +96,14 @@ order: 2
 
 ### Past group members
 
-|                                                                                          |
-|:-----------------------------------------------------------------------------------------|
-| Mona Nehse                                                                               |
-| Role in the lab: Intern student (M. Sc. Molecular Biology, HU Berlin), 11/2025-03/2026   |
-| Previously: B. Sc. Biology (HU Berlin)                                                   |
-
-|                                                                                          |
-|:-----------------------------------------------------------------------------------------|
-| Iman Oudria                                                                              |
-| Role in the lab: Lab rotation student (M.Sc. Molecular Medicine, Charité), 08/2025-01/2026 |
-| Previously: B.Sc. Molecular Medicine (Tübingen)                                          |
-
-|                                                              |
-|:---------------------------------------------------------------------------------------------------------------------------------------|
-| Ishminder Singh Dhamrait                                                                                                               |
-| Role in the lab: Master's thesis researcher (M.Sc. Molecular Medicine, Charité), 02/2025-08/2025 |
-| Previously: B.Sc. Biomedical Sciences (Leeds Beckett University, UK)                                                                   |
-
-|                                                                                                                | 
-|:---------------------------------------------------------------------------------------------------------------| 
-| Georgios Megalovasilis                                                                                         |
-| Role in the lab: Master's thesis researcher (M.Sc. Molecular Medicine, Charité), 03/2024-12/2024               |
-| Previously: B. Sc. Biology (University of Patras, Greece)                                                      |
-
-
-|                                                                                                    | 
-|:---------------------------------------------------------------------------------------------------| 
-| Ani Shubitidze                                                                                     |
-| Role in the lab: Lab rotation student (M. Sc. Molecular Medicine, Charité), 08/2024-12/2024        |
-| Previously: B. Sc. Biology (HU Berlin)                                                             |
-
-|                                                                                                       | 
-|:------------------------------------------------------------------------------------------------------| 
-| Elton Ugbogu                                                                                          |
-| Role in the lab: Lab rotation student (M. Sc. Bioinformatics, University of Potsdam), 04/2024-09/2024 |
-| Previously: B. Sc Microbiology (Obafemi Awolowo University, Nigeria)                                  |
-
-|                                                                                                                 | 
-|:----------------------------------------------------------------------------------------------------------------| 
-| Alice Leclaire                                                                                                  |
-| Role in the lab: Lab rotation student (M.Sc. Health IT Engineering, Polytech Grenoble, France), 04/2024-08/2024 |
-| Previously: Preparation in Physics and Chemistry (Polytech Grenoble)                                            |
-
-|                                                                                             | 
-|:--------------------------------------------------------------------------------------------| 
-| Mae Covacevich Vidalle                                                                      |
-| Role in the lab: Lab rotation student (M. Sc. Molecular Medicine, Charité), 03/2024-07/2024 |
-| Previously: B. Sc. Biochemistry (Fort Worth, Texas, USA)                                    |
-
-|                                                                                                        |
-|:-----------------------------------------------------------------------------------------------------------------------| 
-| Liliia Khadeeva                                                                                                        |
-| Role in the lab: Research project associate, 12/2023 - 05/2024                                                         |
-| Previously: M.Sc. Mathematical Modeling and Computer Science (Moscow), B.Sc. Applied Mathematics and Informatics (Ufa) |
+| Name                     | Time in the lab   | Role in the lab                                                                |
+|:-------------------------|:------------------|:-------------------------------------------------------------------------------|
+| Mona Nehse               | 11/2025 – 03/2026 | Intern student (M. Sc. Molecular Biology, HU Berlin)                           |
+| Iman Oudria              | 08/2025 – 01/2026 | Lab rotation student (M. Sc. Molecular Medicine, Charité)                      |
+| Ishminder Singh Dhamrait | 02/2025 – 08/2025 | Master's thesis researcher (M. Sc. Molecular Medicine, Charité)                |
+| Georgios Megalovasilis   | 03/2024 – 12/2024 | Master's thesis researcher (M. Sc. Molecular Medicine, Charité)                |
+| Ani Shubitidze           | 08/2024 – 12/2024 | Lab rotation student (M. Sc. Molecular Medicine, Charité)                      |
+| Elton Ugbogu             | 04/2024 – 09/2024 | Lab rotation student (M. Sc. Bioinformatics, University of Potsdam)            |
+| Alice Leclaire           | 04/2024 – 08/2024 | Lab rotation student (M. Sc. Health IT Engineering, Polytech Grenoble, France) |
+| Mae Covacevich Vidalle   | 03/2024 – 07/2024 | Lab rotation student (M. Sc. Molecular Medicine, Charité)                      |
+| Liliia Khadeeva          | 12/2023 – 05/2024 | Research project associate                                                     |
