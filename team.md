@@ -14,6 +14,15 @@ order: 2
 | Previously: see [CV](https://libuchauer.github.io/CV/)                            |
 
 
+| <img style="width:9em" src="images/Neda_square.png" align="center">                          |
+|:-----------------------------------------------------------------------------------------------|
+| Neda Borisova                                                                                  |
+| [email](mailto:neda.borisova@charite.de)                                                       |
+| _Lab rotation student (M. Sc. Molecular Medicine, Charité)_                                    |
+| Previously: B. Sc. Molecular Medicine (Tübingen)                                               |
+| Research interests: Computational biomedicine, single-cell omics, chronobiology, tissue heterogeneity |
+
+
 | <img style="width:9em" src="images/Roberta_square.png" align="center">                   | 
 |:-----------------------------------------------------------------------------------------| 
 | Roberta Colapietro                                                                       |
