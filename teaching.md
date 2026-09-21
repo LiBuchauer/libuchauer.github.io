@@ -16,14 +16,19 @@ order: 4
 
 ### Upcoming Courses
 
+There are currently no upcoming courses scheduled.
+
+
+### Past courses
+
 #### __Single-Cell Data Analysis Course for Beginners (together with Anika Neuschulz)__
 
 _for Charité MD / MD/PhD / PhD students, postdocs and interested scientific staff_
 
-__The course will take place from 14th to 18th of September 2026. Please visit the [course website](https://buchauer-lab.github.io/charite-sc-data-course/) for more information.__
+**Last occurrence:** 14.09.2026 - 18.09.2026, on site
 
 **Description:**  
-This one-week on-site course is intended for pre- and postdoctoral researchers as well as scientific staff members interested in getting started with single-cell RNA-Seq data analysis. The course specifically welcomes participants without any prior programming experience and includes introductory elements to python or R as well as dedicated time to set up the required environments on participants' laptops. During the course, we will cover the following topics:  
+This one-week on-site course is intended for pre- and postdoctoral researchers as well as scientific staff members interested in getting started with single-cell RNA-Seq data analysis. The course specifically welcomes participants without any prior programming experience and includes introductory elements to python or R as well as dedicated time to set up the required environments on participants' laptops. The course covers the following topics:  
 
 - basic introduction to python or R
 - raw sequencing data processing (from FASTQ to count matrix)
@@ -35,30 +40,28 @@ This one-week on-site course is intended for pre- and postdoctoral researchers a
 - differential abundance and differential gene expression calculations
 - basics of data integration and batch correction
 
-Participants will be provided with practice data sets and time will be allocated to hands-on analysis of these data sets. There is also an option to work on own data towards the end of the course (if available; own data is not a participation requirement).
+Participants are provided with practice data sets and time is allocated to hands-on analysis of these data sets. There is also an option to work on own data towards the end of the course (if available; own data is not a participation requirement).
 
 
 **Requirements:**  
-Participants need to be available on all course days and bring a laptop on which you have user permissions to install software (specifically, this might not be the case for some centrally administrated Charité devices). The course will be held in English.
+Participants need to be available on all course days and bring a laptop on which they have user permissions to install software (specifically, this might not be the case for some centrally administrated Charité devices). The course is held in English.
 
 
 **Further information:**  
 Please visit the [course website](https://buchauer-lab.github.io/charite-sc-data-course/) for more information.
 
 
-### Past courses
-
 #### __Single-Cell Data Analysis Lecture & Roundtable__
 
 _for Charité MD / MD/PhD / PhD students and postdocs_
 
-**Last occurence:** 28.04.2025, 05.05.2025, 19.05.2025, 26.05.2025, 02.06.2025, Monday from __15:00-17:00__ (this is the correct time, the Charité Intranet time is incorrect) on MS Teams
+**Last occurrence:** 28.04.2025, 05.05.2025, 19.05.2025, 26.05.2025, 02.06.2025, Monday from __15:00-17:00__ (this is the correct time, the Charité Intranet time is incorrect) on MS Teams
 
 **Description:**  
-The seminar is intended for pre- and postdoctoral researchers analysing single-cell omics data (scRNA-Seq, scVDJ-Seq, CITE-Seq etc.) as part of their research projects who are facing challenges or uncertainties during the process. It specifically welcomes those without a formal background in bioinformatics who are analysing single cell data with the help of online tutorials, possibly for the first time, and want to touch base on their analysis choices. The course consists of 5 units which are divded into (i) a lecture part providing background on specific parts of single-cell data analysis and (ii) a roundtable part during which participants present their projects with a focus on current challenges and questions. Participants will receive input from the instructor as well as suggestions from their peers. The lecture part covers the following topics: 
+The seminar is intended for pre- and postdoctoral researchers analysing single-cell omics data (scRNA-Seq, scVDJ-Seq, CITE-Seq etc.) as part of their research projects who are facing challenges or uncertainties during the process. It specifically welcomes those without a formal background in bioinformatics who are analysing single cell data with the help of online tutorials, possibly for the first time, and want to touch base on their analysis choices. The course consists of 5 units which are divided into (i) a lecture part providing background on specific parts of single-cell data analysis and (ii) a roundtable part during which participants present their projects with a focus on current challenges and questions. Participants receive input from the instructor as well as suggestions from their peers. The lecture part covers the following topics: 
 1) Introduction to single cell transcriptomics data
 2) Quality control
-3) Dimensionality reduction, clsutering & visualization of high-dimensional data
+3) Dimensionality reduction, clustering & visualization of high-dimensional data
 4) Batch correction methods for dataset combination (integration)
 5) Cell type annotation and differential abundance and gene expression analysis.
 
