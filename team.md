@@ -6,6 +6,8 @@ order: 2
 
 ### Current group members
 
+<img style="width:100%" src="images/group_photo.jpg" alt="Group photo" align="center">
+
 | <img style="width:9em" src="images/Lisa_square.jpg" align="center">               | 
 |:----------------------------------------------------------------------------------| 
 | Lisa Buchauer                                                                     |
