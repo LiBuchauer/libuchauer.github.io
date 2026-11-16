@@ -38,7 +38,8 @@ order: 2
 |:------------------------------------------------------------------------------------------|
 | Anna Fehlberg                                                                             |
 | [email](mailto:afehlberg@zedat.fu-berlin.de)                                             |
-| _Bachelor's thesis researcher (B. Sc. Bioinformatik, FU Berlin)_                          |
+| _Student research assistant (M. Sc. Bioinformatik, FU Berlin)_                            |
+| Previously: B. Sc. Bioinformatik (FU Berlin)                                              |
 | Research interests: Biomedical Research, Immunology, Data Analysis and Algorithmic Bioinformatics |
 
 
@@ -69,15 +70,6 @@ order: 2
 | Research interests: Single-cell method development, mathematical modeling, ML applications in biomedicine                                                                                                              |
 
 
-| <img style="width:9em" src="images/Mohammad.png" align="center">                              |
-|:-----------------------------------------------------------------------------------------------|
-| Mohammad Niazi                                                                                 |
-| [email](mailto:mohammad.niazi-talkhouncheh@charite.de)                                         |
-| _Student research assistant (M. Sc. Molecular Medicine, Charité)_                              |
-| Previously: B. Sc. Cell and Molecular Biology (IAUN, Iran)                                     |
-| Research interests: Computational Genomics, Immunogenetics, Precision Oncology                 |
-
-
 | <img style="width:9em" src="images/Victor_square.jpg" align="center">                                                   | 
 |:------------------------------------------------------------------------------------------------------------------------| 
 | Victor Sikora                                                                                                           |
@@ -100,6 +92,7 @@ order: 2
 
 | Name                     | Time in the lab   | Role in the lab                                                                |
 |:-------------------------|:------------------|:-------------------------------------------------------------------------------|
+| Mohammad Niazi           | 03/2026 – 10/2026 | Student research assistant (M. Sc. Molecular Medicine, Charité)                |
 | Mona Nehse               | 11/2025 – 03/2026 | Intern student (M. Sc. Molecular Biology, HU Berlin)                           |
 | Iman Oudria              | 08/2025 – 01/2026 | Lab rotation student (M. Sc. Molecular Medicine, Charité)                      |
 | Ishminder Singh Dhamrait | 02/2025 – 08/2025 | Master's thesis researcher (M. Sc. Molecular Medicine, Charité)                |
