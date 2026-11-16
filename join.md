@@ -14,6 +14,11 @@ We are interested in candidates from quantitative backgrounds (physics, mathemat
 
 Prior experience with any of the following is considered a plus: omics data analysis, mathematical modeling, machine learning, spatial or temporal data analysis, software development principles and biological wet-lab work. Candidates should be curious, willing to work in a multidisciplinary team, and have a strong sense of ownership for their projects. Fluency in English is required.
 
+##### PostDoc in Computational Immunology
+This position is part of a DFG-funded research unit studying hospital-acquired infections. The selected candidate will analyse single cell RNA-Seq and VDJ-Seq datasets from the T cells of patients suffering from such infections, will have the opportunity to develop computational methods for such data, and, depending on interests, will also develop mathematical models of T cell immune responses.
+
+Please see the full job description including requirements [here](https://karriere.charite.de/stellenangebote/detail/8577).
+
 ##### Unsolicited applications
 Interested candidates are invited to reach out if applying for funding jointly is an option for them. To be considered, your inquiry must include:
 
