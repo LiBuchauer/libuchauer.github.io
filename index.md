@@ -17,6 +17,9 @@ In computational method development, our primary objective is to create tools th
 __November 16th 2026__
 We are currently recruiting a PostDoc in Computational Immunology! Find out more on our [Join us](https://libuchauer.github.io/join) page.
 
+__November 4th 2026__
+A warm welcome to [Amelie](https://libuchauer.github.io/team), who is joining us for her bachelor's thesis!
+
 __August 24th 2026__
 We are happy to have [Neda](https://libuchauer.github.io/team) on board for her lab rotation - welcome to the team!
 
