@@ -70,6 +70,13 @@ order: 2
 | Research interests: Single-cell method development, mathematical modeling, ML applications in biomedicine                                                                                                              |
 
 
+| <img style="width:9em" src="images/Amelie_square.jpg" align="center">           |
+|:----------------------------------------------------------------------------------|
+| Amelie Pée                                                                        |
+| _Bachelor's thesis researcher (B. Sc. Bioinformatics, FU Berlin)_                 |
+| Research interests: Single-cell bioinformatics, Immunology, Genetics and Data Analysis |
+
+
 | <img style="width:9em" src="images/Victor_square.jpg" align="center">                                                   | 
 |:------------------------------------------------------------------------------------------------------------------------| 
 | Victor Sikora                                                                                                           |
