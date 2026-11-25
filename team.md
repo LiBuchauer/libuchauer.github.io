@@ -29,7 +29,7 @@ order: 2
 |:-----------------------------------------------------------------------------------------| 
 | Roberta Colapietro                                                                       |
 | [email](mailto:roberta.colapietro@charite.de)                                                                                            |
-| _PhD student_                                                                            |
+| _Doctoral student_                                                                       |
 | Previously: Medicine (University of Pavia, Italy)                                        |
 | Research interests: Computational biomedicine, chronobiology, cancer biology, metabolism |
 
@@ -47,7 +47,7 @@ order: 2
 |:----------------------------------------------------------------------------------------------------------------------------------------------------|
 | David Fischer                                                                                                                                       |
 | [email](mailto:david-stephan.fischer@charite.de)                                                                                                    |
-| _PhD student_                                                                                                                                       |
+| _Doctoral student_                                                                                                                                  |
 | Previously: M. Sc. Bioinformatics (FU Berlin), B. Sc. Bioinformatics (FU Berlin)                                                                    |
 | Research interests: regulatory genomics in infectious disease, method development for ML and single-cell driven medical diagnostics, immunology, pangenomics |
 
@@ -56,7 +56,7 @@ order: 2
 |:-----------------------------------------------------------------------------------------------| 
 | Mark Melzer                                                                                    |
 | [email](mailto:mark.melzer@charite.de)                                                         |
-| _PhD student_                                                                                  |
+| _Doctoral student_                                                                             |
 | Previously: M.Sc. Bioinformatics (Tübingen), B.Sc. Integrated Life Science (Erlangen-Nürnberg) |
 | Research interests: computational cytometry, cross-modality data integration, explainable ML   |
 
@@ -81,7 +81,7 @@ order: 2
 |:------------------------------------------------------------------------------------------------------------------------| 
 | Victor Sikora                                                                                                           |
 | [email](mailto:victor.sikora@bih-charite.de)                                                                            |
-| _PhD student_                                                                                                           |
+| _Doctoral student_                                                                                                      |
 | Previously: M. Sc. Bioinformatics (FU Berlin), B. Sc. Biochemistry (FU Berlin)                                          |
 | Research interests: biomedical data science, immune response to vaccination, mechanistic insights from single-cell data |
 
@@ -90,7 +90,7 @@ order: 2
 |:-----------------------------------------------------------------------------------------| 
 | Jonathan Speh                                                                            |
 | [email](mailto:michel-jonathan.speh@charite.de)                                          |
-| _MD student (Medicine, Charité)_                                                         |
+| _Doctoral student (Medicine, Charité)_                                                   |
 | Previously: B. Sc. Bioscience (Högskolan i Skövde, Sweden)                               |
 | Research interests: transcriptomics of the immune system, infectious disease diagnostics |
 
