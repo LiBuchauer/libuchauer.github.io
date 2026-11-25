@@ -14,6 +14,10 @@ Our research includes analyzing, modeling, and interpreting high-dimensional bio
 In computational method development, our primary objective is to create tools that facilitate the informative fusion of data from various sources, such as different modalities, technologies or diseases. We conceive, prototype and develop algorithms to this end, but also emphasize thorough benchmarking, usability, reproducibility and maintenance.
 
 ### News
+__November 23rd 2026__
+We spent an afternoon designing and painting creative nerdy mugs to be used in our new scientific home at SiM, with themes including "A B cell goes for a stroll in a random forest", "A neutrophil visits Berlin", "An organoid trains a neural net" and many more!
+<img style="width:15em" src="images/mugs2026.jpeg" align="center">
+
 __November 16th 2026__
 We are currently recruiting a PostDoc in Computational Immunology! Find out more on our [Join us](https://libuchauer.github.io/join) page.
 
